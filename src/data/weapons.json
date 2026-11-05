@@ -1,0 +1,23 @@
+[
+  {
+    "id": "weapon_yama_paasam_yamadonga",
+    "name": "Yama's Paasam",
+    "image": "",
+    "description": "A supernatural rope/noose used by Yama to punish people in Yamadonga (2007). Raja steals it; the film's plot review states that whoever possesses it becomes Yama.",
+    "category": "Supernatural artifact / noose",
+    "wielderIds": [
+      "char_yama_dharmaraju_924317",
+      "char_raja_924317"
+    ],
+    "origin": "Yama's Paasam in the Yamaloka setting of Yamadonga (2007).",
+    "strengths": [
+      "Used by Yama as the rope with which he punishes people."
+    ],
+    "weaknesses": [
+      "It can be stolen; when Raja takes it, Yama loses the authority associated with it."
+    ],
+    "specialAbilities": [
+      "Possession of the Paasam transfers the position/power of Yama to its holder, as described in the film plot review."
+    ]
+  }
+]

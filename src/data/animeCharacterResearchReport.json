@@ -1,0 +1,58 @@
+{
+  "dataset": "animations_without_episodes(1).json",
+  "generatedOn": "2026-11-05",
+  "scope": {
+    "totalTitles": 108,
+    "titleTypeCounts": {
+      "Movie": 68,
+      "Video": 1,
+      "TV Series": 37,
+      "TV Mini Series": 2
+    },
+    "individualEpisodesExcludedByInput": true
+  },
+  "researchCoverage": {
+    "titlesWithPartialCharacterResearch": 108,
+    "titlesWithSourceButMappingIncomplete": 0,
+    "titlesNotYetExhaustivelyResearched": 108,
+    "titlesWithNoCharacterRecords": 0,
+    "titlesWithAnyCharacterRecords": 108
+  },
+  "outputCounts": {
+    "uniqueCharacters": 619,
+    "uniqueCharacterAppearancePairs": 836,
+    "charactersAppearingInMultipleTitles": 109,
+    "sourceMappedTitles": 108,
+    "sourceUrlCount": 167
+  },
+  "profileFieldCoverage": {
+    "biographyPresent": 619,
+    "personalityPresent": 11,
+    "imagePresent": 0,
+    "genderPresent": 81,
+    "speciesPresent": 215,
+    "relationshipEntries": 6,
+    "abilityReferences": 0,
+    "powerReferences": 0,
+    "weaponReferences": 0
+  },
+  "roleCounts": {
+    "Main": 254,
+    "Supporting": 491,
+    "Antagonist": 91
+  },
+  "validation": {
+    "uniqueCharacterIds": true,
+    "missingTitleReferences": 0,
+    "duplicateAppearancePairs": 0,
+    "invalidRoleValues": 0
+  },
+  "limitations": [
+    "All 108 titles have a partial principal/featured-character pass; this is not an exhaustive extraction of every credited, minor, or episodic anthology character.",
+    "Biographies are concise. Personality and relationship fields are usually empty because the available references did not support detailed claims consistently.",
+    "All character image fields are empty; no image URLs were added because stable, title-continuity-specific image sources were not confirmed for these profiles.",
+    "Age, height, birthday, first appearance, character development, ability IDs, power IDs, weapon IDs, fighting style, weaknesses, achievements and notable battles remain empty unless supported by the reviewed references.",
+    "Every title remains marked partial and needs additional character-by-character research. A populated character list is not a claim of completeness.",
+    "Roles are normalized to Main, Supporting or Antagonist and are editorial judgments based on narrative function, not official production labels."
+  ]
+}

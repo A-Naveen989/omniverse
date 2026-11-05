@@ -1,0 +1,81 @@
+[
+  {
+    "titleId": "tt37660537",
+    "title": "Two Much with Kajol and Twinkle",
+    "format": "Talk show",
+    "people": [
+      {
+        "name": "Kajol",
+        "credit": "Host"
+      },
+      {
+        "name": "Twinkle Khanna",
+        "credit": "Host"
+      },
+      {
+        "name": "Aamir Khan",
+        "credit": "Guest / self"
+      },
+      {
+        "name": "Salman Khan",
+        "credit": "Guest / self"
+      },
+      {
+        "name": "Sonakshi Sinha",
+        "credit": "Guest / self"
+      },
+      {
+        "name": "Manish Malhotra",
+        "credit": "Guest / self"
+      }
+    ],
+    "sourceUrls": [
+      "https://tv.apple.com/in/show/two-much-with-kajol-and-twinkle/umc.cmc.5ch40172f3fk7crk0s7bmbk9g"
+    ],
+    "note": "Not inserted into fictional-character JSON; Apple TV identifies it as a talk show and lists hosts/guests as themselves."
+  },
+  {
+    "titleId": "tt31924772",
+    "title": "The Rana Daggubati Show",
+    "format": "Unscripted talk show",
+    "people": [
+      {
+        "name": "Rana Daggubati",
+        "credit": "Host"
+      },
+      {
+        "name": "Dulquer Salmaan",
+        "credit": "Guest / self"
+      },
+      {
+        "name": "Naga Chaitanya Akkineni",
+        "credit": "Guest / self"
+      },
+      {
+        "name": "Siddhu Jonnalagadda",
+        "credit": "Guest / self"
+      },
+      {
+        "name": "Sree Leela",
+        "credit": "Guest / self"
+      },
+      {
+        "name": "Nani",
+        "credit": "Guest / self"
+      },
+      {
+        "name": "S. S. Rajamouli",
+        "credit": "Guest / self"
+      },
+      {
+        "name": "Ram Gopal Varma",
+        "credit": "Guest / self"
+      }
+    ],
+    "sourceUrls": [
+      "https://www.aboutamazon.in/news/entertainment/prime-video-rana-daggubati-talk-show",
+      "https://thespiritmedia.com/title-item/the-rana-daggubati-show/"
+    ],
+    "note": "Not inserted into fictional-character JSON; Amazon/Spirit Media describe it as an unscripted talk/reality format."
+  }
+]

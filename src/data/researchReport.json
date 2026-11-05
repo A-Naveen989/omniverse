@@ -1,0 +1,67 @@
+{
+  "generatedOn": "2026-11-04",
+  "sourceDataset": "movies(1).json",
+  "sourceDatasetRecords": 957,
+  "sourceDatasetUniqueTitleIds": 957,
+  "movieTypeValidation": "All 957 source records are Title Type = Movie.",
+  "movieResearchStatusCounts": {
+    "web-researched": 10,
+    "existing-character-data": 292,
+    "not-researched": 655
+  },
+  "titlesWithExistingCharacterProfiles": 300,
+  "titlesWithoutCharacterProfiles": 657,
+  "characterProfiles": 3807,
+  "characterAppearanceRecords": 4040,
+  "characterProfilesWithMultipleMovieAppearances": 142,
+  "charactersWithDifferentRolesAcrossMovies": 30,
+  "appearanceRoleCounts": {
+    "Main": 792,
+    "Antagonist": 335,
+    "Supporting": 2913
+  },
+  "powerRecords": 1,
+  "weaponRecords": 1,
+  "toolRecords": 0,
+  "newlyResearchedElementMovies": [
+    "tt10350922",
+    "tt0924317"
+  ],
+  "newlyResearchedElements": {
+    "powers": [
+      "power_spirit_possession_laxmii"
+    ],
+    "weapons": [
+      "weapon_yama_paasam_yamadonga"
+    ],
+    "tools": []
+  },
+  "validation": {
+    "uniqueMovieIds": true,
+    "uniqueCharacterIds": true,
+    "uniqueCharacterAppearancePairs": true,
+    "allAppearanceCharacterIdsExist": true,
+    "allAppearanceTitleIdsExist": true,
+    "allCharacterTitleIdsExist": true,
+    "allAppearanceRolesValid": true,
+    "allCharacterPowerIdsExist": true,
+    "allCharacterWeaponIdsExist": true,
+    "allCharacterToolIdsExist": true,
+    "allPowerUserIdsExist": true,
+    "allWeaponWielderIdsExist": true,
+    "allAppearancePowerIdsExist": true,
+    "allAppearanceWeaponIdsExist": true,
+    "allAppearanceToolIdsExist": true
+  },
+  "knownLimitations": [
+    "This is a migration and partial research snapshot, not a completed research pass for all 957 movies.",
+    "Status values existing-character-data mean profiles exist but do not have a complete researched actor-to-character cast mapping.",
+    "The 655 not-researched movies have no character profiles in the current detail snapshot; this is not evidence that they have no characters.",
+    "The 3,807 imported character profiles have no verified image URLs in the source file; image fields remain empty.",
+    "Aliases, occupations, origin details, and many descriptions are not supplied for most existing profiles; unknown values remain empty or Unknown.",
+    "No pre-existing power, weapon, or tool catalogue was supplied in the current movie data. Only one power and one weapon were added from the two reviewed movie plots; tools remain empty.",
+    "The older 705-character / 110-title snapshot uses a different, non-overlapping ID set and was deliberately not merged with the newer 3,807-character snapshot.",
+    "Character.role is intentionally omitted from characters.json because the same character has different roles in different movies. Role is authoritative in characterAppearances.json.",
+    "Duplicate display names across different movie-specific IDs were not auto-merged; same-name matches require continuity-level verification."
+  ]
+}

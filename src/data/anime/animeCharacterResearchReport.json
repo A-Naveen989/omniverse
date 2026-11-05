@@ -1,0 +1,75 @@
+{
+  "dataset": "animations_without_episodes(1).json",
+  "generatedOn": "2026-11-05",
+  "scope": {
+    "totalTitles": 108,
+    "titleTypeCounts": {
+      "Movie": 68,
+      "Video": 1,
+      "TV Series": 37,
+      "TV Mini Series": 2
+    },
+    "individualEpisodesExcludedByInput": true
+  },
+  "outputCounts": {
+    "uniqueCharacters": 620,
+    "uniqueCharacterAppearancePairs": 837,
+    "powers": 15,
+    "techniques": 7,
+    "weapons": 1,
+    "tools": 1,
+    "transformations": 12,
+    "sourceTitleRecords": 108,
+    "entitySourceRecords": 26
+  },
+  "coverage": {
+    "titlesWithCharacterRecords": 108,
+    "titlesWithPowerLinks": 16,
+    "titlesWithTechniqueLinks": 7,
+    "titlesWithWeaponLinks": 1,
+    "titlesWithToolLinks": 4,
+    "titlesWithTransformationLinks": 7,
+    "titlesMarkedFullyComplete": 0
+  },
+  "profileFieldCoverage": {
+    "descriptionPresent": 616,
+    "biographyPresent": 616,
+    "aliasEntries": 63,
+    "speciesPresent": 216,
+    "occupationEntries": 41,
+    "relationshipEntries": 7,
+    "charactersWithPowerLinks": 16,
+    "charactersWithWeaponLinks": 1,
+    "charactersWithToolLinks": 1,
+    "charactersWithImages": 0
+  },
+  "roleCounts": {
+    "Main": 254,
+    "Supporting": 492,
+    "Antagonist": 91
+  },
+  "validation": {
+    "uniqueCharacterIds": true,
+    "uniqueAppearancePairs": true,
+    "allAppearanceTitleIdsValid": true,
+    "allAppearanceCharacterIdsValid": true,
+    "allRoleValuesValid": true,
+    "allCharacterTitleIdsValid": true,
+    "allPowerUserIdsValid": true,
+    "allTechniqueUserIdsValid": true,
+    "allWeaponWielderIdsValid": true,
+    "allToolOwnerIdsValid": true,
+    "allTransformationCharacterIdsValid": true,
+    "allEntityReferencesValid": true
+  },
+  "limitations": [
+    "This is a structured first research pass across every title, not an exhaustive encyclopedia of every credited or minor character.",
+    "The original 619 character IDs and 836 appearance pairs were preserved; one additional Mai Zenin profile and its Jujutsu Kaisen appearance were added from the official anime character page. All title-level research statuses remain partial.",
+    "The new power/technique/weapon/tool/transformation datasets contain only a limited researched subset. They do not cover every character or every franchise in the title list.",
+    "Most image fields are empty because stable, continuity-specific official image URLs were not confirmed.",
+    "Most character occupation, aliases, affiliations, relationship, origin, weakness, and full biography fields remain empty unless supported by the existing profile or current source pass.",
+    "Character.role is a single summary field required by the requested Character interface. The authoritative role for a specific title is characterAppearances[].role.",
+    "Powers and transformations may be associated with a title only when the relevant character appears in that title; the per-title appearance file is the authoritative movie/series scope.",
+    "No title is marked fully researched. Further character-by-character research is still required."
+  ]
+}

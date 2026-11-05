@@ -1,0 +1,270 @@
+[
+  {
+    "id": "power_mha_one_for_all",
+    "name": "One For All",
+    "image": "",
+    "description": "An inherited Quirk that accumulates power and can be passed from one holder to another. The official anime terminology guide describes its origin as the combination of a stockpiling Quirk and a transfer Quirk.",
+    "category": "Inherited Quirk",
+    "userIds": [
+      "mha_allmight",
+      "mha_deku"
+    ],
+    "origin": "Created through the combination of Yoichi Shigaraki’s transfer Quirk and a stockpiling Quirk forcibly given to him; passed through successive holders.",
+    "strengths": [
+      "Accumulates power across successive holders",
+      "Can be transferred to another person"
+    ],
+    "weaknesses": [],
+    "specialAbilities": [
+      "Grants substantial power and speed",
+      "Later holders can access Quirks inherited from previous holders"
+    ]
+  },
+  {
+    "id": "power_mha_explosion",
+    "name": "Explosion",
+    "image": "",
+    "description": "Katsuki Bakugo secretes a nitro-like substance from his palms and can ignite it to produce explosions.",
+    "category": "Emitter Quirk",
+    "userIds": [
+      "mha_bakugo"
+    ],
+    "origin": "Bakugo’s innate Quirk.",
+    "strengths": [
+      "Provides explosive offensive force"
+    ],
+    "weaknesses": [],
+    "specialAbilities": [
+      "Palm-generated explosive blasts"
+    ]
+  },
+  {
+    "id": "power_mha_zero_gravity",
+    "name": "Zero Gravity",
+    "image": "",
+    "description": "Ochaco Uraraka can make objects weightless by touching them with the pads on her fingertips.",
+    "category": "Emitter Quirk",
+    "userIds": [
+      "mha_uraraka"
+    ],
+    "origin": "Uraraka’s innate Quirk.",
+    "strengths": [
+      "Can remove the weight of touched objects"
+    ],
+    "weaknesses": [],
+    "specialAbilities": [
+      "Weightlessness on contact"
+    ]
+  },
+  {
+    "id": "power_mha_half_cold_half_hot",
+    "name": "Half-Cold Half-Hot",
+    "image": "",
+    "description": "Shoto Todoroki produces ice from his right side and flames from his left side.",
+    "category": "Hybrid Quirk",
+    "userIds": [
+      "mha_todoroki"
+    ],
+    "origin": "Todoroki’s inherited Quirk.",
+    "strengths": [
+      "Combines ice and fire output"
+    ],
+    "weaknesses": [],
+    "specialAbilities": [
+      "Ice generation",
+      "Fire generation"
+    ]
+  },
+  {
+    "id": "power_mha_hardening",
+    "name": "Hardening",
+    "image": "",
+    "description": "Eijiro Kirishima can harden his body, providing offensive and defensive utility.",
+    "category": "Transformation Quirk",
+    "userIds": [
+      "mha_kirishima"
+    ],
+    "origin": "Kirishima’s innate Quirk.",
+    "strengths": [
+      "Improves physical defense",
+      "Can be used offensively"
+    ],
+    "weaknesses": [],
+    "specialAbilities": [
+      "Hardens the body"
+    ]
+  },
+  {
+    "id": "power_mha_creation",
+    "name": "Creation",
+    "image": "",
+    "description": "Momo Yaoyorozu can create non-living objects from her body.",
+    "category": "Creation Quirk",
+    "userIds": [
+      "mha_yaoyorozu"
+    ],
+    "origin": "Yaoyorozu’s innate Quirk.",
+    "strengths": [
+      "Can produce a wide range of non-living objects"
+    ],
+    "weaknesses": [],
+    "specialAbilities": [
+      "Creates non-living objects"
+    ]
+  },
+  {
+    "id": "power_mha_engine",
+    "name": "Engine",
+    "image": "",
+    "description": "Tenya Iida has engine-like organs in his calves that allow him to run at extraordinary speed.",
+    "category": "Mutant Quirk",
+    "userIds": [
+      "mha_iida"
+    ],
+    "origin": "Iida’s innate Quirk.",
+    "strengths": [
+      "Enables very high running speed"
+    ],
+    "weaknesses": [],
+    "specialAbilities": [
+      "High-speed running"
+    ]
+  },
+  {
+    "id": "power_jjk_ten_shadows",
+    "name": "Ten Shadows Technique",
+    "image": "",
+    "description": "A hereditary jujutsu technique of the Zenin family used by Megumi Fushiguro.",
+    "category": "Inherited Cursed Technique",
+    "userIds": [
+      "jujutsu_megumi"
+    ],
+    "origin": "Inherited through the Zenin family.",
+    "strengths": [],
+    "weaknesses": [],
+    "specialAbilities": []
+  },
+  {
+    "id": "power_jjk_construction",
+    "name": "Construction Technique",
+    "image": "",
+    "description": "Mai Zenin uses cursed energy to construct matter from nothing.",
+    "category": "Cursed Technique",
+    "userIds": [
+      "jujutsu_mai_zenin"
+    ],
+    "origin": "Mai Zenin’s innate cursed technique.",
+    "strengths": [
+      "Can construct matter using cursed energy"
+    ],
+    "weaknesses": [],
+    "specialAbilities": [
+      "Matter construction"
+    ]
+  },
+  {
+    "id": "power_jjk_cursed_speech",
+    "name": "Cursed Speech",
+    "image": "",
+    "description": "A cursed technique associated with the Inumaki family; Toge Inumaki is a user.",
+    "category": "Inherited Cursed Technique",
+    "userIds": [
+      "jujutsu_toge"
+    ],
+    "origin": "Inherited through the Inumaki family.",
+    "strengths": [],
+    "weaknesses": [],
+    "specialAbilities": [
+      "Uses spoken commands as a cursed technique"
+    ]
+  },
+  {
+    "id": "power_demon_exploding_blood",
+    "name": "Exploding Blood",
+    "image": "",
+    "description": "Nezuko Kamado’s Blood Demon Art ignites her blood in a pink flame.",
+    "category": "Blood Demon Art",
+    "userIds": [
+      "demon_slayer_nezuko"
+    ],
+    "origin": "Nezuko’s demon abilities after being transformed by Muzan Kibutsuji.",
+    "strengths": [
+      "Can ignite her blood"
+    ],
+    "weaknesses": [],
+    "specialAbilities": [
+      "Creates an explosive pink flame from blood"
+    ]
+  },
+  {
+    "id": "power_dandadan_psychic",
+    "name": "Psychic Powers",
+    "image": "",
+    "description": "Momo Ayase awakens hidden psychic powers after being abducted by the Serpoians.",
+    "category": "Psychic Ability",
+    "userIds": [
+      "dandadan_momo"
+    ],
+    "origin": "Awakened during her encounter with the Serpoians.",
+    "strengths": [],
+    "weaknesses": [],
+    "specialAbilities": [
+      "Psychic abilities; individual techniques are tracked separately when verified"
+    ]
+  },
+  {
+    "id": "power_dandadan_medium_barrier",
+    "name": "Spirit-Medium Barrier",
+    "image": "",
+    "description": "Seiko Ayase is a spirit medium capable of placing a barrier around her house.",
+    "category": "Spiritual Ability",
+    "userIds": [
+      "dandadan_seiko"
+    ],
+    "origin": "Seiko’s mediumship.",
+    "strengths": [
+      "Can establish a protective barrier around her home"
+    ],
+    "weaknesses": [],
+    "specialAbilities": [
+      "Barrier creation"
+    ]
+  },
+  {
+    "id": "power_mob_esper",
+    "name": "Esper / Psychic Powers",
+    "image": "",
+    "description": "Shigeo “Mob” Kageyama possesses exceptionally powerful psychic abilities.",
+    "category": "Esper Ability",
+    "userIds": [
+      "mob_psycho_mob"
+    ],
+    "origin": "Shigeo Kageyama’s innate psychic potential.",
+    "strengths": [
+      "Extremely powerful psychic abilities"
+    ],
+    "weaknesses": [],
+    "specialAbilities": [
+      "Psychic power; individual named techniques require further title-specific verification"
+    ]
+  },
+  {
+    "id": "power_frozen_ice_magic",
+    "name": "Ice and Snow Powers",
+    "image": "",
+    "description": "Elsa has magical ice and snow powers; Disney’s official film synopsis states that her powers trap Arendelle in eternal winter.",
+    "category": "Elemental Magic",
+    "userIds": [
+      "frozen_elsa"
+    ],
+    "origin": "Elsa’s innate magical powers.",
+    "strengths": [
+      "Can generate ice and snow"
+    ],
+    "weaknesses": [],
+    "specialAbilities": [
+      "Ice generation",
+      "Snow generation"
+    ]
+  }
+]

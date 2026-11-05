@@ -1,0 +1,3021 @@
+[
+  {
+    "titleId": "tt2357547",
+    "title": "Jessica Jones",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_jessica_jones",
+      "char_series_trish_walker",
+      "char_series_luke_cage",
+      "char_series_malcolm_ducasse",
+      "char_series_jeri_hogarth",
+      "char_series_kilgrave",
+      "char_series_will_simpson",
+      "char_series_hope_shlottman"
+    ],
+    "characterCount": 8,
+    "actorCharacterCreditCount": 7,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt2357547",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt2357547/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn632645search14",
+      "turn632645search121"
+    ],
+    "scopeNote": "Character roles and short bios compiled from public cast listings and synopsis sources. Role classes are editorial where sources do not state Main/Supporting/Antagonist explicitly."
+  },
+  {
+    "titleId": "tt18923754",
+    "title": "Daredevil: Born Again",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_matt_murdock",
+      "char_series_foggy_nelson",
+      "char_series_karen_page",
+      "char_series_wilson_fisk",
+      "char_series_vanessa_fisk",
+      "char_series_frank_castle",
+      "char_series_heather_glenn",
+      "char_series_kirsten_mcduffie",
+      "char_series_bb_urich",
+      "char_series_muse_born_again"
+    ],
+    "characterCount": 10,
+    "actorCharacterCreditCount": 10,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt18923754",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt18923754/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn416951search13",
+      "turn632645search12",
+      "turn632645search14"
+    ],
+    "scopeNote": "Official Marvel/Disney and D23 cast references; recurring characters cross-checked with Daredevil."
+  },
+  {
+    "titleId": "tt15173012",
+    "title": "Crush",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_su_nianqin",
+      "char_series_sang_wuyan",
+      "char_series_wei_hao_crush",
+      "char_series_nie_xi_crush",
+      "char_series_yu_weilan_crush",
+      "char_series_mother_sang_crush",
+      "char_series_su_huaishan",
+      "char_series_zhong_cheng_crush",
+      "char_series_peng_ruixing",
+      "char_series_wu_yu_crush",
+      "char_series_xu_qian_crush"
+    ],
+    "characterCount": 11,
+    "actorCharacterCreditCount": 11,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt15173012",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt15173012/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      },
+      {
+        "name": "CPOP HOME cast list",
+        "url": "https://www.cpophome.com/crush-lin-yanjun-wan-peng/cast/",
+        "scope": "Named cast/character pairings and editorial role labels."
+      },
+      {
+        "name": "WeTV official series page",
+        "url": "https://wetv.vip/en/play/gn5ti7sdli7frcn-Crush/s0040snav2b-EP1-1",
+        "scope": "Official synopsis and lead-character relationship; episode listing."
+      },
+      {
+        "name": "Apple TV series page",
+        "url": "https://tv.apple.com/in/show/crush/umc.cmc.7c9btsmf8c2zhtz5xgvdcnaxt",
+        "scope": "Synopsis and story premise."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn749557view3",
+      "turn467909search1",
+      "turn467909search2",
+      "turn467909search4",
+      "turn467909search8",
+      "turn467909search11"
+    ],
+    "scopeNote": "Character roles and short bios compiled from public cast listings and synopsis sources. Role classes are editorial where sources do not state Main/Supporting/Antagonist explicitly."
+  },
+  {
+    "titleId": "tt5936884",
+    "title": "Don't Dare to Dream",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_pyo_na_ri",
+      "char_series_lee_hwa_shin",
+      "char_series_go_jung_won",
+      "char_series_park_eun_ji",
+      "char_series_gye_seong_sook",
+      "char_series_bang_ja_yeong",
+      "char_series_lee_pal_gang"
+    ],
+    "characterCount": 7,
+    "actorCharacterCreditCount": 7,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt5936884",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt5936884/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [],
+    "scopeNote": "Cast/character listings and series premise."
+  },
+  {
+    "titleId": "tt10234724",
+    "title": "Moon Knight",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_marc_spector",
+      "char_series_layla_elfaouly",
+      "char_series_arthur_harrow",
+      "char_series_khonshu",
+      "char_series_taweret"
+    ],
+    "characterCount": 5,
+    "actorCharacterCreditCount": 5,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt10234724",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt10234724/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn516061search8"
+    ],
+    "scopeNote": "Marvel official character page and series cast reference."
+  },
+  {
+    "titleId": "tt10160804",
+    "title": "Hawkeye",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_clint_barton",
+      "char_series_kate_bishop",
+      "char_series_maya_lopez",
+      "char_series_yelena_belova",
+      "char_series_jack_duquesne",
+      "char_series_eleanor_bishop",
+      "char_series_kazi_kazimierczak"
+    ],
+    "characterCount": 7,
+    "actorCharacterCreditCount": 7,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt10160804",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt10160804/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn632645search11",
+      "turn632645search16"
+    ],
+    "scopeNote": "Disney/Marvel media-kit and cast references."
+  },
+  {
+    "titleId": "tt3322312",
+    "title": "Daredevil",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_matt_murdock",
+      "char_series_foggy_nelson",
+      "char_series_karen_page",
+      "char_series_wilson_fisk",
+      "char_series_vanessa_fisk",
+      "char_series_claire_temple",
+      "char_series_elektra_natchios",
+      "char_series_stick"
+    ],
+    "characterCount": 8,
+    "actorCharacterCreditCount": 8,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt3322312",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt3322312/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn632645search14",
+      "turn632645search121"
+    ],
+    "scopeNote": "D23 and IMDb cast references; shared Matt Murdock, Foggy Nelson, Karen Page and Wilson Fisk identities linked to Born Again."
+  },
+  {
+    "titleId": "tt5675620",
+    "title": "The Punisher",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_karen_page",
+      "char_series_frank_castle",
+      "char_series_billy_russo",
+      "char_series_dinah_madani",
+      "char_series_david_lieberman",
+      "char_series_curtis_hoyle",
+      "char_series_amy_bendix",
+      "char_series_john_pilgrim",
+      "char_series_krista_dumont"
+    ],
+    "characterCount": 9,
+    "actorCharacterCreditCount": 9,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt5675620",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt5675620/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn632645search3",
+      "turn632645search4",
+      "turn632645search6",
+      "turn632645search21"
+    ],
+    "scopeNote": "Cast listings and role references; Karen Page linked to the Daredevil appearances."
+  },
+  {
+    "titleId": "tt26545992",
+    "title": "Lanterns",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_john_stewart",
+      "char_series_hal_jordan",
+      "char_series_kerry_kane",
+      "char_series_sinestro",
+      "char_series_guy_gardner",
+      "char_series_william_macon",
+      "char_series_zoe_macon",
+      "char_series_billy_macon",
+      "char_series_bernadette_stewart",
+      "char_series_john_stewart_sr"
+    ],
+    "characterCount": 10,
+    "actorCharacterCreditCount": 10,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt26545992",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt26545992/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn416951search9",
+      "turn416951search11",
+      "turn416951search12"
+    ],
+    "scopeNote": "Recent cast announcements and series listings; some role identities are provisional/pre-release."
+  },
+  {
+    "titleId": "tt13146488",
+    "title": "Peacemaker",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_peacemaker",
+      "char_series_leota_adebayo",
+      "char_series_adrian_chase",
+      "char_series_emilia_harcourt",
+      "char_series_john_economos",
+      "char_series_clemson_murn",
+      "char_series_auggie_smith",
+      "char_series_judomaster"
+    ],
+    "characterCount": 8,
+    "actorCharacterCreditCount": 8,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt13146488",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt13146488/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn416951search14",
+      "turn632645search1",
+      "turn632645search9",
+      "turn632645search13",
+      "turn632645search10",
+      "turn632645search2",
+      "turn632645search15"
+    ],
+    "scopeNote": "DC/WB series cast and character guides."
+  },
+  {
+    "titleId": "tt10147644",
+    "title": "The Innocent",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_mateo_vidal",
+      "char_series_olivia_costa",
+      "char_series_lorena_ortiz",
+      "char_series_teo_aguilar",
+      "char_series_kimmy_dale",
+      "char_series_emma_innocent",
+      "char_series_jaime_innocent",
+      "char_series_sonia_innocent",
+      "char_series_anibal_innocent",
+      "char_series_zoe_innocent"
+    ],
+    "characterCount": 10,
+    "actorCharacterCreditCount": 10,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt10147644",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt10147644/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn516061search6",
+      "turn516061search118"
+    ],
+    "scopeNote": "Character roles and short bios compiled from public cast listings and synopsis sources. Role classes are editorial where sources do not state Main/Supporting/Antagonist explicitly."
+  },
+  {
+    "titleId": "tt33035373",
+    "title": "His & Hers",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_anna_andrews",
+      "char_series_jack_harper",
+      "char_series_priya",
+      "char_series_zoe_harper",
+      "char_series_helen_wang",
+      "char_series_rachel_his_hers",
+      "char_series_alice_andrews",
+      "char_series_lexy_jones",
+      "char_series_richard_his_hers",
+      "char_series_clyde_duffie"
+    ],
+    "characterCount": 10,
+    "actorCharacterCreditCount": 10,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt33035373",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt33035373/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn971422search3",
+      "turn971422search9",
+      "turn971422search10",
+      "turn971422search13",
+      "turn726345search4"
+    ],
+    "scopeNote": "Netflix official cast guide and cast listings."
+  },
+  {
+    "titleId": "tt15289042",
+    "title": "First Love",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_yae_noguchi",
+      "char_series_harumichi_namiki",
+      "char_series_tsunemi_arikawa",
+      "char_series_yu_namiki",
+      "char_series_bonji_kawano",
+      "char_series_tsuzuru_kosaka",
+      "char_series_uta_komori"
+    ],
+    "characterCount": 7,
+    "actorCharacterCreditCount": 8,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt15289042",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt15289042/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn971422search11",
+      "turn971422search120"
+    ],
+    "scopeNote": "Character roles and short bios compiled from public cast listings and synopsis sources. Role classes are editorial where sources do not state Main/Supporting/Antagonist explicitly."
+  },
+  {
+    "titleId": "tt15135104",
+    "title": "Kleo",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_kleo_straub",
+      "char_series_sven_petzold",
+      "char_series_andi_wolf",
+      "char_series_thilo_kleo",
+      "char_series_uwe_mittig",
+      "char_series_jenny_schneider",
+      "char_series_anne_geike",
+      "char_series_min_sun",
+      "char_series_margot_honecker"
+    ],
+    "characterCount": 9,
+    "actorCharacterCreditCount": 9,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt15135104",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt15135104/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [],
+    "scopeNote": "Character roles and short bios compiled from public cast listings and synopsis sources. Role classes are editorial where sources do not state Main/Supporting/Antagonist explicitly."
+  },
+  {
+    "titleId": "tt31806037",
+    "title": "Adolescence",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_jamie_miller",
+      "char_series_eddie_miller",
+      "char_series_manda_miller",
+      "char_series_luke_bascombe",
+      "char_series_misha_frank",
+      "char_series_briony_ariston",
+      "char_series_lisa_miller",
+      "char_series_paul_barlow",
+      "char_series_adam_bascombe",
+      "char_series_mrs_fenumore"
+    ],
+    "characterCount": 10,
+    "actorCharacterCreditCount": 10,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt31806037",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt31806037/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn726345search1",
+      "turn726345search2",
+      "turn726345search3",
+      "turn726345search5",
+      "turn726345search6",
+      "turn726345search8"
+    ],
+    "scopeNote": "Netflix Tudum character guide and cast references."
+  },
+  {
+    "titleId": "tt10834220",
+    "title": "The Chestnut Man",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_naia_thulin",
+      "char_series_mark_hess",
+      "char_series_rosa_hartung",
+      "char_series_steen_hartung",
+      "char_series_simon_genz",
+      "char_series_nylander",
+      "char_series_aksel_larsen",
+      "char_series_frank_abildgaard"
+    ],
+    "characterCount": 8,
+    "actorCharacterCreditCount": 8,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt10834220",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt10834220/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn748007search4",
+      "turn748007search6",
+      "turn748007search9",
+      "turn748007search10",
+      "turn748007search12",
+      "turn748007search14"
+    ],
+    "scopeNote": "Cast and character references for central investigators and suspects."
+  },
+  {
+    "titleId": "tt31631015",
+    "title": "The Witness",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_andre_hanscombe",
+      "char_series_alex_hanscombe",
+      "char_series_rachel_nickell",
+      "char_series_keith_pedder",
+      "char_series_ivan_agnew",
+      "char_series_nicholas_campbell",
+      "char_series_colin_stagg",
+      "char_series_robert_napper",
+      "char_series_mick_wickerson",
+      "char_series_jean_harris_hendriks"
+    ],
+    "characterCount": 10,
+    "actorCharacterCreditCount": 10,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt31631015",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt31631015/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn971422search1",
+      "turn971422search4",
+      "turn971422search5",
+      "turn971422search118",
+      "turn971422search12"
+    ],
+    "scopeNote": "Netflix/IMDb cast and character role references."
+  },
+  {
+    "titleId": "tt11337908",
+    "title": "Maid",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_alex_russell",
+      "char_series_maddy_boyd",
+      "char_series_sean_boyd",
+      "char_series_paula_langley",
+      "char_series_regina_maid",
+      "char_series_yolanda_maid"
+    ],
+    "characterCount": 6,
+    "actorCharacterCreditCount": 6,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt11337908",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt11337908/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn516061search9",
+      "turn516061search12",
+      "turn516061search13"
+    ],
+    "scopeNote": "Character roles and short bios compiled from public cast listings and synopsis sources. Role classes are editorial where sources do not state Main/Supporting/Antagonist explicitly."
+  },
+  {
+    "titleId": "tt7909970",
+    "title": "Unbelievable",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_marie_adler",
+      "char_series_grace_rasmussen",
+      "char_series_karen_duvall",
+      "char_series_chris_mccarthy",
+      "char_series_rosemarie_unbelievable",
+      "char_series_mia_unbelievable"
+    ],
+    "characterCount": 6,
+    "actorCharacterCreditCount": 6,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt7909970",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt7909970/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn516061search1",
+      "turn516061search7"
+    ],
+    "scopeNote": "Character roles and short bios compiled from public cast listings and synopsis sources. Role classes are editorial where sources do not state Main/Supporting/Antagonist explicitly."
+  },
+  {
+    "titleId": "tt2707408",
+    "title": "Narcos",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_pablo_escobar",
+      "char_series_steve_murphy",
+      "char_series_javier_pena",
+      "char_series_pacho_herrera",
+      "char_series_tata_escobar",
+      "char_series_cesar_gaviria",
+      "char_series_gilberto_rodriguez",
+      "char_series_miguel_rodriguez",
+      "char_series_la_quica",
+      "char_series_gustavo_gaviria"
+    ],
+    "characterCount": 10,
+    "actorCharacterCreditCount": 10,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt2707408",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt2707408/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn748007search8",
+      "turn748007search13"
+    ],
+    "scopeNote": "Cast and character references; role classes are editorial."
+  },
+  {
+    "titleId": "tt31183656",
+    "title": "Maamla Legal Hai",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_vd_tyagi",
+      "char_series_ananya_shroff",
+      "char_series_sujata_negi",
+      "char_series_vishwas_pandey",
+      "char_series_lakhmir_mintu",
+      "char_series_mahendra_phorey",
+      "char_series_jagdish_gupta",
+      "char_series_law_nikunj",
+      "char_series_judge_bainsla",
+      "char_series_naina_arora"
+    ],
+    "characterCount": 10,
+    "actorCharacterCreditCount": 10,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt31183656",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt31183656/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn148213search3",
+      "turn148213search7",
+      "turn148213search9",
+      "turn148213search122"
+    ],
+    "scopeNote": "Cast role listings and official/streaming summaries."
+  },
+  {
+    "titleId": "tt5768840",
+    "title": "Bring It On, Ghost",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_park_bong_pal",
+      "char_series_kim_hyun_ji",
+      "char_series_joo_hye_sung",
+      "char_series_monk_myung_cheol",
+      "char_series_choi_cheon_sang",
+      "char_series_kim_in_rang",
+      "char_series_hong_myung_hee",
+      "char_series_oh_kyung_ja"
+    ],
+    "characterCount": 8,
+    "actorCharacterCreditCount": 8,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt5768840",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt5768840/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn748007search1",
+      "turn748007search118"
+    ],
+    "scopeNote": "CJ ENM official page and cast listings."
+  },
+  {
+    "titleId": "tt4135572",
+    "title": "Modern Farmer",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_lee_min_ki_mf",
+      "char_series_han_gi_joon",
+      "char_series_kang_hyeok",
+      "char_series_yoo_han_cheol",
+      "char_series_kang_yoon_hee"
+    ],
+    "characterCount": 5,
+    "actorCharacterCreditCount": 5,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt4135572",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt4135572/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [],
+    "scopeNote": "Character roles and short bios compiled from public cast listings and synopsis sources. Role classes are editorial where sources do not state Main/Supporting/Antagonist explicitly."
+  },
+  {
+    "titleId": "tt5679572",
+    "title": "Another Miss Oh",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_park_do_gyeong",
+      "char_series_oh_hae_young_ordinary",
+      "char_series_oh_hae_young_pretty",
+      "char_series_park_su_gyeong",
+      "char_series_lee_jin_sang",
+      "char_series_han_tae_jin"
+    ],
+    "characterCount": 6,
+    "actorCharacterCreditCount": 6,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt5679572",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt5679572/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn302598search13"
+    ],
+    "scopeNote": "Character roles and short bios compiled from public cast listings and synopsis sources. Role classes are editorial where sources do not state Main/Supporting/Antagonist explicitly."
+  },
+  {
+    "titleId": "tt4799574",
+    "title": "Oh My Ghost",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_na_bong_sun",
+      "char_series_kang_sun_woo",
+      "char_series_shin_soon_ae",
+      "char_series_choi_sung_jae",
+      "char_series_kang_eun_hee",
+      "char_series_heominsoo"
+    ],
+    "characterCount": 6,
+    "actorCharacterCreditCount": 6,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt4799574",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt4799574/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn302598search10",
+      "turn302598search102"
+    ],
+    "scopeNote": "Character roles and short bios compiled from public cast listings and synopsis sources. Role classes are editorial where sources do not state Main/Supporting/Antagonist explicitly."
+  },
+  {
+    "titleId": "tt2255085",
+    "title": "My Girlfriend Is a Gumiho",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_gu_mi_ho",
+      "char_series_cha_dae_woong",
+      "char_series_park_dong_joo",
+      "char_series_eun_hye_in",
+      "char_series_cha_pung"
+    ],
+    "characterCount": 5,
+    "actorCharacterCreditCount": 5,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt2255085",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt2255085/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn302598search0",
+      "turn302598search1",
+      "turn302598search4",
+      "turn302598search103"
+    ],
+    "scopeNote": "Character roles and short bios compiled from public cast listings and synopsis sources. Role classes are editorial where sources do not state Main/Supporting/Antagonist explicitly."
+  },
+  {
+    "titleId": "tt31989291",
+    "title": "Super Subbu",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_subbu",
+      "char_series_swathi_super_subbu",
+      "char_series_kukku",
+      "char_series_divya_super_subbu",
+      "char_series_madhusudan_rao",
+      "char_series_alekhya_super_subbu",
+      "char_series_benjamin_super_subbu",
+      "char_series_sunil_super_subbu"
+    ],
+    "characterCount": 8,
+    "actorCharacterCreditCount": 8,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt31989291",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt31989291/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn405586search112"
+    ],
+    "scopeNote": "Character roles and short bios compiled from public cast listings and synopsis sources. Role classes are editorial where sources do not state Main/Supporting/Antagonist explicitly."
+  },
+  {
+    "titleId": "tt28077038",
+    "title": "Pritam Pedro",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_pedro_gonsalves",
+      "char_series_pritam_parker",
+      "char_series_martin_fonseca",
+      "char_series_dn_sardesai",
+      "char_series_shraddha_sardesai",
+      "char_series_arvind_rao",
+      "char_series_stacey_gonsalves"
+    ],
+    "characterCount": 7,
+    "actorCharacterCreditCount": 7,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt28077038",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt28077038/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn405586search0",
+      "turn405586search1",
+      "turn405586search2"
+    ],
+    "scopeNote": "Cast/character credit references; descriptions kept brief where credits do not explain the roles."
+  },
+  {
+    "titleId": "tt31173610",
+    "title": "Smile Code",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_liang_daiwen",
+      "char_series_gu_yi",
+      "char_series_xu_guanrui",
+      "char_series_guan_xingxin",
+      "char_series_yu_dule",
+      "char_series_wang_meixia",
+      "char_series_jacqueline_smile_code",
+      "char_series_zhang_qingya"
+    ],
+    "characterCount": 8,
+    "actorCharacterCreditCount": 8,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt31173610",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt31173610/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn405586search8"
+    ],
+    "scopeNote": "Character roles and short bios compiled from public cast listings and synopsis sources. Role classes are editorial where sources do not state Main/Supporting/Antagonist explicitly."
+  },
+  {
+    "titleId": "tt29930328",
+    "title": "The Tale of Rose",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_huang_yimei",
+      "char_series_huang_zhenhua",
+      "char_series_zhuang_guodong",
+      "char_series_fang_xiewen",
+      "char_series_su_gengsheng",
+      "char_series_fu_jiaming",
+      "char_series_he_xi",
+      "char_series_jiang_xueqiong"
+    ],
+    "characterCount": 8,
+    "actorCharacterCreditCount": 8,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt29930328",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt29930328/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn746921search0",
+      "turn746921search1"
+    ],
+    "scopeNote": "Character roles and short bios compiled from public cast listings and synopsis sources. Role classes are editorial where sources do not state Main/Supporting/Antagonist explicitly."
+  },
+  {
+    "titleId": "tt29367004",
+    "title": "Derailment",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_jiang_xiaoyuan",
+      "char_series_qi_lian",
+      "char_series_jiang_bo",
+      "char_series_feng_ruixue",
+      "char_series_chen_fangzhou",
+      "char_series_huo_boyu"
+    ],
+    "characterCount": 6,
+    "actorCharacterCreditCount": 6,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt29367004",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt29367004/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn746921search2",
+      "turn746921search7",
+      "turn746921search8"
+    ],
+    "scopeNote": "Character roles and short bios compiled from public cast listings and synopsis sources. Role classes are editorial where sources do not state Main/Supporting/Antagonist explicitly."
+  },
+  {
+    "titleId": "tt28131856",
+    "title": "Everyone Loves Me",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_gu_xun",
+      "char_series_yue_qianling",
+      "char_series_chen_xinyi",
+      "char_series_jiang_junnan",
+      "char_series_su_zheng",
+      "char_series_jiang_yishi",
+      "char_series_huang_jie"
+    ],
+    "characterCount": 7,
+    "actorCharacterCreditCount": 7,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt28131856",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt28131856/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [],
+    "scopeNote": "Character roles and short bios compiled from public cast listings and synopsis sources. Role classes are editorial where sources do not state Main/Supporting/Antagonist explicitly."
+  },
+  {
+    "titleId": "tt38781492",
+    "title": "Mahabharat: Ek Dharmayudh",
+    "researchStatus": "no_named_cast_roles_found",
+    "characterIds": [],
+    "characterCount": 0,
+    "actorCharacterCreditCount": 0,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt38781492",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt38781492/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      },
+      {
+        "name": "IMDb full credits",
+        "url": "https://www.imdb.com/title/tt38781492/fullcredits/",
+        "scope": "Reviewed public credits page; cast section did not expose named character credits in the available result."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn974200search1",
+      "turn440625search0"
+    ],
+    "scopeNote": "Reviewed public full-credits result showed creative/production credits but no named cast-character entries; no character profiles invented."
+  },
+  {
+    "titleId": "tt3212600",
+    "title": "Mahabharat",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_krishna_mahabharat",
+      "char_series_arjuna_mahabharat",
+      "char_series_draupadi_mahabharat",
+      "char_series_karna_mahabharat",
+      "char_series_duryodhana_mahabharat",
+      "char_series_shakuni_mahabharat",
+      "char_series_bhishma_mahabharat",
+      "char_series_dhritarashtra_mahabharat",
+      "char_series_gandhari_mahabharat",
+      "char_series_kunti_mahabharat",
+      "char_series_yudhishthira_mahabharat",
+      "char_series_bhima_mahabharat",
+      "char_series_drona_mahabharat",
+      "char_series_ashwatthama_mahabharat"
+    ],
+    "characterCount": 14,
+    "actorCharacterCreditCount": 14,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt3212600",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt3212600/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn746921search3",
+      "turn746921search11",
+      "turn746921search14"
+    ],
+    "scopeNote": "Cast references and historical/mythological character mapping."
+  },
+  {
+    "titleId": "tt24532414",
+    "title": "Fireworks of My Heart",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_song_yan",
+      "char_series_xu_qin",
+      "char_series_zhai_miao",
+      "char_series_meng_yanchen",
+      "char_series_yu_xiaoxiao",
+      "char_series_jiang_yi"
+    ],
+    "characterCount": 6,
+    "actorCharacterCreditCount": 6,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt24532414",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt24532414/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn746921search6",
+      "turn746921search10"
+    ],
+    "scopeNote": "Character roles and short bios compiled from public cast listings and synopsis sources. Role classes are editorial where sources do not state Main/Supporting/Antagonist explicitly."
+  },
+  {
+    "titleId": "tt6486762",
+    "title": "The Continental",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_winston_scott_young",
+      "char_series_cormac_oconnor",
+      "char_series_kd_continental",
+      "char_series_miles_continental",
+      "char_series_yen_continental",
+      "char_series_lou_continental",
+      "char_series_charon_young",
+      "char_series_mayhew",
+      "char_series_lemmy",
+      "char_series_adjudicator_continental"
+    ],
+    "characterCount": 10,
+    "actorCharacterCreditCount": 10,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt6486762",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt6486762/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn148213search0",
+      "turn148213search1"
+    ],
+    "scopeNote": "Character roles and short bios compiled from public cast listings and synopsis sources. Role classes are editorial where sources do not state Main/Supporting/Antagonist explicitly."
+  },
+  {
+    "titleId": "tt29764006",
+    "title": "90's - A Middle Class Biopic",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_madham_chandra_sekhar",
+      "char_series_madham_shobha_rani",
+      "char_series_raghu_teja",
+      "char_series_madham_divya",
+      "char_series_madham_aditya",
+      "char_series_suchita_david_paul",
+      "char_series_karthik_90s",
+      "char_series_naveed_90s"
+    ],
+    "characterCount": 8,
+    "actorCharacterCreditCount": 8,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt29764006",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt29764006/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn971422search0",
+      "turn971422search119",
+      "turn971422search14"
+    ],
+    "scopeNote": "Character roles and short bios compiled from public cast listings and synopsis sources. Role classes are editorial where sources do not state Main/Supporting/Antagonist explicitly."
+  },
+  {
+    "titleId": "tt36812904",
+    "title": "Ekaki",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_kartik_ekaki",
+      "char_series_aryan_ekaki",
+      "char_series_karan_ekaki",
+      "char_series_tanni_ekaki",
+      "char_series_jagu_ekaki",
+      "char_series_jashu_ekaki",
+      "char_series_pinku_ekaki",
+      "char_series_inspector_sangam"
+    ],
+    "characterCount": 8,
+    "actorCharacterCreditCount": 8,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt36812904",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt36812904/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn971422search6"
+    ],
+    "scopeNote": "Character roles and short bios compiled from public cast listings and synopsis sources. Role classes are editorial where sources do not state Main/Supporting/Antagonist explicitly."
+  },
+  {
+    "titleId": "tt37660537",
+    "title": "Two Much with Kajol and Twinkle",
+    "researchStatus": "unscripted_nonfiction",
+    "characterIds": [],
+    "characterCount": 0,
+    "actorCharacterCreditCount": 0,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt37660537",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt37660537/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      },
+      {
+        "name": "Apple TV official listing",
+        "url": "https://tv.apple.com/in/show/two-much-with-kajol-and-twinkle/umc.cmc.5ch40172f3fk7crk0s7bmbk9g",
+        "scope": "Talk-show classification, hosts, guest self-appearances, and crew."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn440625search5",
+      "turn749557view5"
+    ],
+    "scopeNote": "Talk/reality show. Hosts and guests are real people, so they are held in a separate presenter/guest file instead of being labelled fictional characters."
+  },
+  {
+    "titleId": "tt5445338",
+    "title": "One More Happy Ending",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_han_mi_mo",
+      "char_series_song_soo_hyuk",
+      "char_series_goo_hae_joon",
+      "char_series_go_dong_mi",
+      "char_series_baek_da_jung",
+      "char_series_hong_ae_ran",
+      "char_series_kim_gun_hak",
+      "char_series_woo_yeon_soo",
+      "char_series_song_min_woo"
+    ],
+    "characterCount": 9,
+    "actorCharacterCreditCount": 9,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt5445338",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt5445338/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn584428search107",
+      "turn584428search4",
+      "turn584428search5",
+      "turn584428search7",
+      "turn584428search9"
+    ],
+    "scopeNote": "Character roles and short bios compiled from public cast listings and synopsis sources. Role classes are editorial where sources do not state Main/Supporting/Antagonist explicitly."
+  },
+  {
+    "titleId": "tt27687545",
+    "title": "Gen Z",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_ren_xinzheng",
+      "char_series_sun_toutou",
+      "char_series_ren_tianzhen",
+      "char_series_yang_xiaohong",
+      "char_series_song_linglan",
+      "char_series_peng_shiyan",
+      "char_series_zhao_liquan",
+      "char_series_xu_meng"
+    ],
+    "characterCount": 8,
+    "actorCharacterCreditCount": 8,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt27687545",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt27687545/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn584428search2",
+      "turn584428search11"
+    ],
+    "scopeNote": "Character roles and short bios compiled from public cast listings and synopsis sources. Role classes are editorial where sources do not state Main/Supporting/Antagonist explicitly."
+  },
+  {
+    "titleId": "tt5994364",
+    "title": "Guardian: The Lonely and Great God",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_kim_shin",
+      "char_series_ji_eun_tak",
+      "char_series_wang_yeo",
+      "char_series_kim_sun",
+      "char_series_yoo_deok_hwa",
+      "char_series_samshin_granny",
+      "char_series_park_joong_heon"
+    ],
+    "characterCount": 7,
+    "actorCharacterCreditCount": 7,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt5994364",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt5994364/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn302598search2",
+      "turn302598search7",
+      "turn302598search105",
+      "turn302598search12"
+    ],
+    "scopeNote": "Character roles and short bios compiled from public cast listings and synopsis sources. Role classes are editorial where sources do not state Main/Supporting/Antagonist explicitly."
+  },
+  {
+    "titleId": "tt7441984",
+    "title": "JL50",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_shantanu_jl50",
+      "char_series_subroto_das_jl50",
+      "char_series_bihu_ghosh_jl50",
+      "char_series_biswajit_mitra_jl50",
+      "char_series_gaurango_jl50",
+      "char_series_shriparna_jl50",
+      "char_series_mr_bose_jl50"
+    ],
+    "characterCount": 7,
+    "actorCharacterCreditCount": 7,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt7441984",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt7441984/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      },
+      {
+        "name": "IMDb full credits",
+        "url": "https://www.imdb.com/title/tt7441984/fullcredits/",
+        "scope": "Named cast-to-character credits and director/writer."
+      },
+      {
+        "name": "JL50 plot and cast summary",
+        "url": "https://en.wikipedia.org/wiki/JL50",
+        "scope": "Plot relationships and principal-character context; corroborated against credits."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn974200search2",
+      "turn974200search94",
+      "turn440625search88",
+      "turn467909search45"
+    ],
+    "scopeNote": "Character roles and short bios compiled from public cast listings and synopsis sources. Role classes are editorial where sources do not state Main/Supporting/Antagonist explicitly."
+  },
+  {
+    "titleId": "tt8816186",
+    "title": "Andrew Bennett",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_andrew_bennett",
+      "char_series_victor_hobbs",
+      "char_series_commissaire_marlin",
+      "char_series_jonathan_hillgram",
+      "char_series_officier_schwartz"
+    ],
+    "characterCount": 5,
+    "actorCharacterCreditCount": 5,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt8816186",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt8816186/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn584428search16"
+    ],
+    "scopeNote": "Character roles and short bios compiled from public cast listings and synopsis sources. Role classes are editorial where sources do not state Main/Supporting/Antagonist explicitly."
+  },
+  {
+    "titleId": "tt9208876",
+    "title": "The Falcon and the Winter Soldier",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_sam_wilson",
+      "char_series_bucky_barnes",
+      "char_series_john_walker",
+      "char_series_karli_morgenthau",
+      "char_series_helmut_zemo",
+      "char_series_sharon_carter",
+      "char_series_isaiah_bradley"
+    ],
+    "characterCount": 7,
+    "actorCharacterCreditCount": 7,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt9208876",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt9208876/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn632645search7",
+      "turn632645search8"
+    ],
+    "scopeNote": "Disney official press-kit and series cast references."
+  },
+  {
+    "titleId": "tt15471900",
+    "title": "Rana Naidu",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_rana_naidu",
+      "char_series_naga_naidu",
+      "char_series_tej_naidu",
+      "char_series_jaffa_naidu",
+      "char_series_naina_naidu",
+      "char_series_surya_naidu",
+      "char_series_srini_rana",
+      "char_series_ob_mahajan"
+    ],
+    "characterCount": 8,
+    "actorCharacterCreditCount": 8,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt15471900",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt15471900/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn148213search121",
+      "turn148213search14"
+    ],
+    "scopeNote": "Cast role references and series synopsis."
+  },
+  {
+    "titleId": "tt31924772",
+    "title": "The Rana Daggubati Show",
+    "researchStatus": "unscripted_nonfiction",
+    "characterIds": [],
+    "characterCount": 0,
+    "actorCharacterCreditCount": 0,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt31924772",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt31924772/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      },
+      {
+        "name": "Amazon India official announcement",
+        "url": "https://www.aboutamazon.in/news/entertainment/prime-video-rana-daggubati-talk-show",
+        "scope": "Unscripted talk-show format, host and featured guest list."
+      },
+      {
+        "name": "Spirit Media official title page",
+        "url": "https://thespiritmedia.com/title-item/the-rana-daggubati-show/",
+        "scope": "Official show description and format."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn974200search4",
+      "turn974200search12",
+      "turn749557view6"
+    ],
+    "scopeNote": "Talk/reality show. Hosts and guests are real people, so they are held in a separate presenter/guest file instead of being labelled fictional characters."
+  },
+  {
+    "titleId": "tt2236126",
+    "title": "Power Rangers Megaforce",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_troy_burrows",
+      "char_series_emma_goodall",
+      "char_series_jake_holling",
+      "char_series_gia_moran",
+      "char_series_noah_carver",
+      "char_series_robo_knight",
+      "char_series_orion",
+      "char_series_admiral_malkor"
+    ],
+    "characterCount": 8,
+    "actorCharacterCreditCount": 8,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt2236126",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt2236126/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn908748search110",
+      "turn908748search0"
+    ],
+    "scopeNote": "Character roles and short bios compiled from public cast listings and synopsis sources. Role classes are editorial where sources do not state Main/Supporting/Antagonist explicitly."
+  },
+  {
+    "titleId": "tt1704503",
+    "title": "Power Rangers Samurai",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_jayden_shiba",
+      "char_series_kevin_samurai",
+      "char_series_mia_watanabe",
+      "char_series_mike_samurai",
+      "char_series_emily_samurai",
+      "char_series_antonio_garcia",
+      "char_series_master_xandred",
+      "char_series_dayu_samurai",
+      "char_series_mentor_ji"
+    ],
+    "characterCount": 9,
+    "actorCharacterCreditCount": 9,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt1704503",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt1704503/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn908748search5",
+      "turn908748search8",
+      "turn908748search14",
+      "turn908748search114"
+    ],
+    "scopeNote": "Character roles and short bios compiled from public cast listings and synopsis sources. Role classes are editorial where sources do not state Main/Supporting/Antagonist explicitly."
+  },
+  {
+    "titleId": "tt1304612",
+    "title": "Power Rangers RPM",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_scott_truman",
+      "char_series_flynn_mcallister",
+      "char_series_summer_landsdown",
+      "char_series_ziggy_grover",
+      "char_series_dillon_rpm",
+      "char_series_gem_rpm",
+      "char_series_gemma_rpm",
+      "char_series_doctor_k",
+      "char_series_venjix",
+      "char_series_tenaya"
+    ],
+    "characterCount": 10,
+    "actorCharacterCreditCount": 10,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt1304612",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt1304612/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn908748search109",
+      "turn908748search2",
+      "turn908748search4",
+      "turn908748search6"
+    ],
+    "scopeNote": "Character roles and short bios compiled from public cast listings and synopsis sources. Role classes are editorial where sources do not state Main/Supporting/Antagonist explicitly."
+  },
+  {
+    "titleId": "tt1121628",
+    "title": "Power Rangers Jungle Fury",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_casey_rhodes",
+      "char_series_theo_martin",
+      "char_series_lily_chilman",
+      "char_series_robert_rj_james",
+      "char_series_dominic_hargan",
+      "char_series_jarrod_jf",
+      "char_series_dai_shi",
+      "char_series_camille_jf",
+      "char_series_fran_jf"
+    ],
+    "characterCount": 9,
+    "actorCharacterCreditCount": 9,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt1121628",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt1121628/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn908748search112",
+      "turn908748search113",
+      "turn908748search9"
+    ],
+    "scopeNote": "Character roles and short bios compiled from public cast listings and synopsis sources. Role classes are editorial where sources do not state Main/Supporting/Antagonist explicitly."
+  },
+  {
+    "titleId": "tt0451469",
+    "title": "Power Rangers Mystic Force",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_nick_russell",
+      "char_series_vida_rocca",
+      "char_series_xander_bly",
+      "char_series_chip_thorn",
+      "char_series_madison_rocca",
+      "char_series_udonna",
+      "char_series_leanbow",
+      "char_series_daggeron",
+      "char_series_imperious"
+    ],
+    "characterCount": 9,
+    "actorCharacterCreditCount": 9,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt0451469",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt0451469/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn908748search1"
+    ],
+    "scopeNote": "Character roles and short bios compiled from public cast listings and synopsis sources. Role classes are editorial where sources do not state Main/Supporting/Antagonist explicitly."
+  },
+  {
+    "titleId": "tt0414762",
+    "title": "Power Rangers S.P.D.",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_jack_landors",
+      "char_series_sky_tate",
+      "char_series_bridge_carson",
+      "char_series_z_delgado",
+      "char_series_syd_drew",
+      "char_series_doggie_cruger",
+      "char_series_kat_manx",
+      "char_series_sam_spd",
+      "char_series_emperor_grumm"
+    ],
+    "characterCount": 9,
+    "actorCharacterCreditCount": 9,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt0414762",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt0414762/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn908748search108",
+      "turn908748search11",
+      "turn908748search3"
+    ],
+    "scopeNote": "Character roles and short bios compiled from public cast listings and synopsis sources. Role classes are editorial where sources do not state Main/Supporting/Antagonist explicitly."
+  },
+  {
+    "titleId": "tt0373587",
+    "title": "Power Rangers DinoThunder",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_conner_mcknight",
+      "char_series_ethan_james",
+      "char_series_kira_ford",
+      "char_series_tommy_oliver",
+      "char_series_trent_fernandez",
+      "char_series_mesogog",
+      "char_series_zeltrax",
+      "char_series_hayley_ziktor",
+      "char_series_elsa_dino",
+      "char_series_shane_clarke",
+      "char_series_tori_hanson",
+      "char_series_dustin_brooks"
+    ],
+    "characterCount": 12,
+    "actorCharacterCreditCount": 12,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt0373587",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt0373587/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn908748search111",
+      "turn908748search13"
+    ],
+    "scopeNote": "Power Rangers cast references; three Ninja Storm rangers are intentionally shared across the crossover appearances."
+  },
+  {
+    "titleId": "tt0312189",
+    "title": "Power Rangers Ninja Storm",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_shane_clarke",
+      "char_series_tori_hanson",
+      "char_series_dustin_brooks",
+      "char_series_hunter_bradley",
+      "char_series_blake_bradley",
+      "char_series_cam_watanabe",
+      "char_series_lothor",
+      "char_series_marah",
+      "char_series_kapri"
+    ],
+    "characterCount": 9,
+    "actorCharacterCreditCount": 9,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt0312189",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt0312189/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn908748search7"
+    ],
+    "scopeNote": "Power Rangers cast references; three recurring ranger identities are shared with DinoThunder."
+  },
+  {
+    "titleId": "tt3402548",
+    "title": "Comedy Nights with Kapil",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_bittu_sharma",
+      "char_series_manju_sharma",
+      "char_series_daadi_cnk",
+      "char_series_bua_cnk",
+      "char_series_palak_cnk",
+      "char_series_gutthi",
+      "char_series_servant_cnk"
+    ],
+    "characterCount": 7,
+    "actorCharacterCreditCount": 7,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt3402548",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt3402548/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn746921search13"
+    ],
+    "scopeNote": "Official network and cast references for recurring comedy personas."
+  },
+  {
+    "titleId": "tt5747326",
+    "title": "The Kapil Sharma Show",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_kapil_sharma_tkss",
+      "char_series_sunil_grover_tkss",
+      "char_series_archana_puran_singh",
+      "char_series_kiku_sharda_tkss",
+      "char_series_krushna_abhishek_tkss"
+    ],
+    "characterCount": 5,
+    "actorCharacterCreditCount": 5,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt5747326",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt5747326/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [],
+    "scopeNote": "Character roles and short bios compiled from public cast listings and synopsis sources. Role classes are editorial where sources do not state Main/Supporting/Antagonist explicitly."
+  },
+  {
+    "titleId": "tt30003786",
+    "title": "The Great Indian Kapil Show",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_kapil_sharma_giks",
+      "char_series_sunil_grover_giks",
+      "char_series_archana_puran_singh_giks",
+      "char_series_krushna_abhishek_giks",
+      "char_series_kiku_sharda_giks"
+    ],
+    "characterCount": 5,
+    "actorCharacterCreditCount": 5,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt30003786",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt30003786/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn746921search9",
+      "turn746921search111"
+    ],
+    "scopeNote": "Netflix official series/cast references; recurring on-screen personas treated as performance characters, not all real guests."
+  },
+  {
+    "titleId": "tt27111295",
+    "title": "Citadel: Honey Bunny",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_nadia_sinh",
+      "char_series_bunny_gambhir",
+      "char_series_honey_raj",
+      "char_series_guru_citadel_hb",
+      "char_series_shaan_hb",
+      "char_series_kedar_kd",
+      "char_series_zooni_shatsang",
+      "char_series_ludo_hb",
+      "char_series_chacko_hb",
+      "char_series_vivek_hb"
+    ],
+    "characterCount": 10,
+    "actorCharacterCreditCount": 10,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt27111295",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt27111295/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn584428search106",
+      "turn584428search1",
+      "turn584428search8",
+      "turn584428search10",
+      "turn584428search14"
+    ],
+    "scopeNote": "Cast and character sources; Nadia Sinh profile shared with Citadel."
+  },
+  {
+    "titleId": "tt14872986",
+    "title": "You are My Glory",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_qiao_jingjing",
+      "char_series_yu_tu",
+      "char_series_pei_pei",
+      "char_series_su_zhi",
+      "char_series_a_guo"
+    ],
+    "characterCount": 5,
+    "actorCharacterCreditCount": 5,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt14872986",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt14872986/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn302598search8"
+    ],
+    "scopeNote": "Character roles and short bios compiled from public cast listings and synopsis sources. Role classes are editorial where sources do not state Main/Supporting/Antagonist explicitly."
+  },
+  {
+    "titleId": "tt9794044",
+    "title": "Citadel",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_nadia_sinh",
+      "char_series_mason_kane",
+      "char_series_bernard_orlick",
+      "char_series_abby_conroy",
+      "char_series_dahlia_archer",
+      "char_series_carter_spence",
+      "char_series_hendrix_conroy",
+      "char_series_anders_silje",
+      "char_series_davik_silje"
+    ],
+    "characterCount": 9,
+    "actorCharacterCreditCount": 9,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt9794044",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt9794044/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn584428search106",
+      "turn584428search1",
+      "turn584428search8",
+      "turn584428search10",
+      "turn584428search14"
+    ],
+    "scopeNote": "Cast and character sources; Nadia Sinh profile shared with Citadel: Honey Bunny."
+  },
+  {
+    "titleId": "tt10314692",
+    "title": "Déjà vu",
+    "researchStatus": "limited_named_cast_profiles",
+    "characterIds": [
+      "char_series_wang_da_le_dejavu",
+      "char_series_ho_yung_chi_dejavu",
+      "char_series_wang_shih_yuan_dejavu",
+      "char_series_ting_pei_chung_dejavu",
+      "char_series_wang_mei_le_dejavu",
+      "char_series_yao_chiung_ling_dejavu",
+      "char_series_wang_bai_fu_dejavu",
+      "char_series_ting_sha_sha_dejavu",
+      "char_series_chang_ai_lien_dejavu",
+      "char_series_mike_dejavu",
+      "char_series_hung_yu_chien_dejavu",
+      "char_series_jack_dejavu",
+      "char_series_tchaikov_dejavu",
+      "char_series_pomelo_dejavu",
+      "char_series_meng_dejavu",
+      "char_series_tung_en_hsi_dejavu",
+      "char_series_tina_yeh_dejavu",
+      "char_series_gary_dejavu",
+      "char_series_bar_manager_dejavu",
+      "char_series_mrs_hung_dejavu",
+      "char_series_lulu_dejavu",
+      "char_series_mr_hung_dejavu",
+      "char_series_johnny_dejavu",
+      "char_series_king_dejavu",
+      "char_series_wang_ruini_dejavu",
+      "char_series_nan_dejavu",
+      "char_series_dr_sung_dejavu",
+      "char_series_su_chen_dejavu",
+      "char_series_irving_dejavu",
+      "char_series_peggy_dejavu",
+      "char_series_sandy_dejavu"
+    ],
+    "characterCount": 31,
+    "actorCharacterCreditCount": 31,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt10314692",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt10314692/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      },
+      {
+        "name": "IMDb full credits",
+        "url": "https://www.imdb.com/title/tt10314692/fullcredits/",
+        "scope": "Named character-role credits; character biographies and relationships are not supplied by the listing."
+      },
+      {
+        "name": "RF Taiwanese drama information page",
+        "url": "https://tvdrama2019.routefun.com/2019/07/DejaVu.html",
+        "scope": "Cast list, biographies, ages, gender, personality traits, relationships and story synopsis."
+      },
+      {
+        "name": "TTV official series page",
+        "url": "https://www.ttv.com.tw/drama19/iottdejavu/default.asp",
+        "scope": "Official programme page linked from the detailed cast/story reference."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn440625search1",
+      "turn440625search4",
+      "turn749557view0",
+      "turn127769view0",
+      "turn958973search0",
+      "turn958973search2"
+    ],
+    "scopeNote": "Main character biographies, ages, gender, personality and core relationships are summarized from the detailed Taiwanese drama reference; supporting role credits are cross-checked with IMDb and cast listings."
+  },
+  {
+    "titleId": "tt15295490",
+    "title": "Campus Diaries",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_abhilash",
+      "char_series_sanya",
+      "char_series_sushmita",
+      "char_series_raghav_gupta",
+      "char_series_sudheer_junior",
+      "char_series_priyanka_cd"
+    ],
+    "characterCount": 6,
+    "actorCharacterCreditCount": 6,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt15295490",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt15295490/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn148213search10"
+    ],
+    "scopeNote": "Character roles and short bios compiled from public cast listings and synopsis sources. Role classes are editorial where sources do not state Main/Supporting/Antagonist explicitly."
+  },
+  {
+    "titleId": "tt7521778",
+    "title": "I'm Not a Robot",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_kim_min_kyu",
+      "char_series_jo_ji_a",
+      "char_series_hong_baek_gyun",
+      "char_series_pi_ina",
+      "char_series_hoktal",
+      "char_series_ssanip",
+      "char_series_hwang_yoo_cheol",
+      "char_series_ye_ri_el"
+    ],
+    "characterCount": 8,
+    "actorCharacterCreditCount": 8,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt7521778",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt7521778/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn746921search4",
+      "turn746921search112"
+    ],
+    "scopeNote": "Character roles and short bios compiled from public cast listings and synopsis sources. Role classes are editorial where sources do not state Main/Supporting/Antagonist explicitly."
+  },
+  {
+    "titleId": "tt12392504",
+    "title": "Scam 1992: The Harshad Mehta Story",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_harshad_mehta",
+      "char_series_sucheta_dalal",
+      "char_series_jyoti_mehta",
+      "char_series_ashwin_mehta",
+      "char_series_bhushan_bhatt",
+      "char_series_pranav_sheth",
+      "char_series_manu_mundra",
+      "char_series_ks_tyagi"
+    ],
+    "characterCount": 8,
+    "actorCharacterCreditCount": 8,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt12392504",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt12392504/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn148213search4",
+      "turn148213search120"
+    ],
+    "scopeNote": "Cast role mappings and biographical-series references."
+  },
+  {
+    "titleId": "tt16296870",
+    "title": "The Railway Men: The Untold Story of Bhopal 1984",
+    "researchStatus": "character_profiles_from_credits_and_official_synopsis",
+    "characterIds": [
+      "char_series_rati_pandey",
+      "char_series_iftekaar_siddiqui",
+      "char_series_imad_riaz",
+      "char_series_himani_railway",
+      "char_series_madsen_railway"
+    ],
+    "characterCount": 5,
+    "actorCharacterCreditCount": 5,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt16296870",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt16296870/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      },
+      {
+        "name": "YRF Entertainment official page",
+        "url": "https://www.yashrajfilms.com/movies/the-railway-men",
+        "scope": "Official synopsis, cast and crew credits."
+      },
+      {
+        "name": "Netflix official title page",
+        "url": "https://www.netflix.com/in/title/81711003?fromWatch=true",
+        "scope": "Official series synopsis and cast listing."
+      },
+      {
+        "name": "IMDb full credits",
+        "url": "https://www.imdb.com/title/tt16296870/fullcredits/",
+        "scope": "Named actor-to-character credits."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn974200search0",
+      "turn974200search3",
+      "turn974200search9",
+      "turn440625search6",
+      "turn467909search3"
+    ],
+    "scopeNote": "Named role credits were available; series summary is based on YRF/Netflix synopsis. It is a dramatization inspired by true events."
+  },
+  {
+    "titleId": "tt12228014",
+    "title": "Intense Love",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_su_jinbei",
+      "char_series_zhou_shiyun",
+      "char_series_xiao_yuansong",
+      "char_series_wu_di_intense",
+      "char_series_gao_zitong",
+      "char_series_xu_jiawei",
+      "char_series_zhou_suying",
+      "char_series_zhao_xueyan",
+      "char_series_xiao_tao"
+    ],
+    "characterCount": 9,
+    "actorCharacterCreditCount": 9,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt12228014",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt12228014/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      },
+      {
+        "name": "CPOP HOME series and cast page",
+        "url": "https://www.cpophome.com/intense-love-ryan-ding-zhang-yuxi/",
+        "scope": "Series synopsis, principal character relationships and cast."
+      },
+      {
+        "name": "CPOP HOME cast list",
+        "url": "https://www.cpophome.com/intense-love-ryan-ding-zhang-yuxi/cast/",
+        "scope": "Named actor-to-character pairings and role labels."
+      },
+      {
+        "name": "JustWatch India",
+        "url": "https://www.justwatch.com/in/tv-show/intense-love",
+        "scope": "Cast/character pairing and series metadata."
+      },
+      {
+        "name": "IMDb full credits",
+        "url": "https://www.imdb.com/title/tt12228014/fullcredits/",
+        "scope": "Cast and crew credits."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn749557view4",
+      "turn974200search7",
+      "turn974200search8",
+      "turn974200search10",
+      "turn974200search5"
+    ],
+    "scopeNote": "Character roles and short bios compiled from public cast listings and synopsis sources. Role classes are editorial where sources do not state Main/Supporting/Antagonist explicitly."
+  },
+  {
+    "titleId": "tt8178468",
+    "title": "Rich Man",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_lee_yoo_chan",
+      "char_series_kim_bo_ra",
+      "char_series_min_tae_joo",
+      "char_series_min_tae_ra",
+      "char_series_cha_do_jin",
+      "char_series_nam_cheol_woo",
+      "char_series_park_mi_so"
+    ],
+    "characterCount": 7,
+    "actorCharacterCreditCount": 7,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt8178468",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt8178468/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn746921search5",
+      "turn746921search113"
+    ],
+    "scopeNote": "Character roles and short bios compiled from public cast listings and synopsis sources. Role classes are editorial where sources do not state Main/Supporting/Antagonist explicitly."
+  },
+  {
+    "titleId": "tt9544034",
+    "title": "The Family Man",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_srikant_tiwari",
+      "char_series_suchitra_tiwari",
+      "char_series_jk_talpade",
+      "char_series_dhriti_tiwari",
+      "char_series_atharv_tiwari",
+      "char_series_sajid_ghani",
+      "char_series_moosa_rehman",
+      "char_series_raji_sekharan",
+      "char_series_zoya_ali",
+      "char_series_milind_hinduja"
+    ],
+    "characterCount": 10,
+    "actorCharacterCreditCount": 10,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt9544034",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt9544034/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn632645search120",
+      "turn632645search17"
+    ],
+    "scopeNote": "Cast/character listings and series premise."
+  },
+  {
+    "titleId": "tt17524566",
+    "title": "Guns & Gulaabs",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_tipu_tiger",
+      "char_series_arjun_varma",
+      "char_series_jugnu_ganchi",
+      "char_series_atmaram_four_cut",
+      "char_series_lekha",
+      "char_series_ganchi_sr",
+      "char_series_madhu_varma",
+      "char_series_yamini"
+    ],
+    "characterCount": 8,
+    "actorCharacterCreditCount": 8,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt17524566",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt17524566/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn516061search117",
+      "turn516061search3",
+      "turn516061search5",
+      "turn516061search10",
+      "turn516061search14"
+    ],
+    "scopeNote": "Cast role and synopsis references."
+  },
+  {
+    "titleId": "tt12026524",
+    "title": "Love Scenery",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_liang_chen",
+      "char_series_lu_jing",
+      "char_series_ding_jiayun",
+      "char_series_sun_binyu",
+      "char_series_ma_shanshan",
+      "char_series_liu_yiqing"
+    ],
+    "characterCount": 6,
+    "actorCharacterCreditCount": 6,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt12026524",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt12026524/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn302598search104"
+    ],
+    "scopeNote": "Character roles and short bios compiled from public cast listings and synopsis sources. Role classes are editorial where sources do not state Main/Supporting/Antagonist explicitly."
+  },
+  {
+    "titleId": "tt10919420",
+    "title": "Squid Game",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_seong_gi_hun",
+      "char_series_cho_sang_woo",
+      "char_series_kang_sae_byeok",
+      "char_series_oh_il_nam",
+      "char_series_ali_abdul",
+      "char_series_hwang_jun_ho",
+      "char_series_jang_deok_su",
+      "char_series_han_mi_nyeo",
+      "char_series_front_man",
+      "char_series_choi_myung_ki"
+    ],
+    "characterCount": 10,
+    "actorCharacterCreditCount": 10,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt10919420",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt10919420/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn726345search4",
+      "turn746921search9"
+    ],
+    "scopeNote": "Character roles and short bios compiled from public cast listings and synopsis sources. Role classes are editorial where sources do not state Main/Supporting/Antagonist explicitly."
+  },
+  {
+    "titleId": "tt0096657",
+    "title": "Mr. Bean",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_mr_bean",
+      "char_series_irma_gobb",
+      "char_series_teddy_mr_bean"
+    ],
+    "characterCount": 3,
+    "actorCharacterCreditCount": 2,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt0096657",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt0096657/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [],
+    "scopeNote": "Character roles and short bios compiled from public cast listings and synopsis sources. Role classes are editorial where sources do not state Main/Supporting/Antagonist explicitly."
+  },
+  {
+    "titleId": "tt11766170",
+    "title": "Meeting You",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_nan_xi",
+      "char_series_xia_rui",
+      "char_series_zhao_yishu",
+      "char_series_cheng_erluo",
+      "char_series_gao_ting",
+      "char_series_li_da_meet"
+    ],
+    "characterCount": 6,
+    "actorCharacterCreditCount": 6,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt11766170",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt11766170/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn302598search3",
+      "turn302598search5"
+    ],
+    "scopeNote": "Character roles and short bios compiled from public cast listings and synopsis sources. Role classes are editorial where sources do not state Main/Supporting/Antagonist explicitly."
+  },
+  {
+    "titleId": "tt4201628",
+    "title": "Pinocchio",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_ki_ha_myung",
+      "char_series_choi_in_ha",
+      "char_series_seo_beom_jo",
+      "char_series_yoon_yoo_rae",
+      "char_series_choi_gong_pil"
+    ],
+    "characterCount": 5,
+    "actorCharacterCreditCount": 5,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt4201628",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt4201628/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [],
+    "scopeNote": "Character roles and short bios compiled from public cast listings and synopsis sources. Role classes are editorial where sources do not state Main/Supporting/Antagonist explicitly."
+  },
+  {
+    "titleId": "tt15477488",
+    "title": "Farzi",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_sunny_farzi",
+      "char_series_michael_vedanayagam",
+      "char_series_mansoor_dalal",
+      "char_series_megha_vyas",
+      "char_series_firoz_farzi",
+      "char_series_yasir_farzi",
+      "char_series_pawan_gahlot",
+      "char_series_shekhar_ahlawat",
+      "char_series_madhav_farzi"
+    ],
+    "characterCount": 9,
+    "actorCharacterCreditCount": 9,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt15477488",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt15477488/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn148213search124",
+      "turn148213search13"
+    ],
+    "scopeNote": "Cast role listings and synopsis."
+  },
+  {
+    "titleId": "tt12299458",
+    "title": "My Little Happiness",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_cong_rong",
+      "char_series_wen_shaoqing",
+      "char_series_zhou_chengcheng",
+      "char_series_wen_rang",
+      "char_series_qin_chu",
+      "char_series_zhong_zhen"
+    ],
+    "characterCount": 6,
+    "actorCharacterCreditCount": 6,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt12299458",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt12299458/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn302598search11"
+    ],
+    "scopeNote": "Character roles and short bios compiled from public cast listings and synopsis sources. Role classes are editorial where sources do not state Main/Supporting/Antagonist explicitly."
+  },
+  {
+    "titleId": "tt10283742",
+    "title": "Master Devil Do Not Kiss Me",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_han_qilu",
+      "char_series_an_chuxia",
+      "char_series_ling_hanyu",
+      "char_series_meng_xiaonan",
+      "char_series_jiang_chenchuan",
+      "char_series_mo_xinwei"
+    ],
+    "characterCount": 6,
+    "actorCharacterCreditCount": 6,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt10283742",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt10283742/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn584428search0",
+      "turn584428search6",
+      "turn584428search17"
+    ],
+    "scopeNote": "Character roles and short bios compiled from public cast listings and synopsis sources. Role classes are editorial where sources do not state Main/Supporting/Antagonist explicitly."
+  },
+  {
+    "titleId": "tt11570202",
+    "title": "The Silent Sea",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_song_jian",
+      "char_series_han_yun_jae",
+      "char_series_ryu_tae_seok",
+      "char_series_hong_gayoung",
+      "char_series_gong_soo_chan"
+    ],
+    "characterCount": 5,
+    "actorCharacterCreditCount": 5,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt11570202",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt11570202/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn746921search12",
+      "turn746921search15",
+      "turn516061search16"
+    ],
+    "scopeNote": "Character roles and short bios compiled from public cast listings and synopsis sources. Role classes are editorial where sources do not state Main/Supporting/Antagonist explicitly."
+  },
+  {
+    "titleId": "tt6055498",
+    "title": "Love O2O",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_bei_weiwei",
+      "char_series_xiao_nai",
+      "char_series_zhao_erxi",
+      "char_series_cao_guang",
+      "char_series_yu_banshan",
+      "char_series_qiu_yonghou",
+      "char_series_hao_mei",
+      "char_series_meng_yiran"
+    ],
+    "characterCount": 8,
+    "actorCharacterCreditCount": 8,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt6055498",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt6055498/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn302598search6",
+      "turn302598search9",
+      "turn302598search101"
+    ],
+    "scopeNote": "Character roles and short bios compiled from public cast listings and synopsis sources. Role classes are editorial where sources do not state Main/Supporting/Antagonist explicitly."
+  },
+  {
+    "titleId": "tt14782230",
+    "title": "Yeonnam Family",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_yoo_gwon",
+      "char_series_jeong_ju_yeon",
+      "char_series_jeong_ju_dong",
+      "char_series_yoo_su_nyeong",
+      "char_series_jeong_ju_nam"
+    ],
+    "characterCount": 5,
+    "actorCharacterCreditCount": 5,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt14782230",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt14782230/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [],
+    "scopeNote": "Character roles and short bios compiled from public cast listings and synopsis sources. Role classes are editorial where sources do not state Main/Supporting/Antagonist explicitly."
+  },
+  {
+    "titleId": "tt9140560",
+    "title": "WandaVision",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_wanda_maximoff",
+      "char_series_vision",
+      "char_series_agatha_harkness",
+      "char_series_monica_rambeau",
+      "char_series_jimmy_woo",
+      "char_series_darcy_lewis",
+      "char_series_billy_maximoff",
+      "char_series_tommy_maximoff"
+    ],
+    "characterCount": 8,
+    "actorCharacterCreditCount": 8,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt9140560",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt9140560/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [],
+    "scopeNote": "Character roles and short bios compiled from public cast listings and synopsis sources. Role classes are editorial where sources do not state Main/Supporting/Antagonist explicitly."
+  },
+  {
+    "titleId": "tt9140554",
+    "title": "Loki",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_loki",
+      "char_series_mobius_mobius",
+      "char_series_sylvie",
+      "char_series_ravonna_renslayer",
+      "char_series_hunter_b15",
+      "char_series_he_who_remains",
+      "char_series_miss_minutes"
+    ],
+    "characterCount": 7,
+    "actorCharacterCreditCount": 7,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt9140554",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt9140554/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [],
+    "scopeNote": "Disney/Marvel series references; recurring TVA character identities grouped by canonical character."
+  },
+  {
+    "titleId": "tt10874298",
+    "title": "My Girlfriend Is an Alien",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_chai_xiaoqi",
+      "char_series_fang_leng",
+      "char_series_fang_lie",
+      "char_series_jiang_xue",
+      "char_series_sister_chai",
+      "char_series_assistant_han",
+      "char_series_fang_shida",
+      "char_series_doctor_zhang",
+      "char_series_ai_lun"
+    ],
+    "characterCount": 9,
+    "actorCharacterCreditCount": 9,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt10874298",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt10874298/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn584428search106",
+      "turn584428search1",
+      "turn584428search8",
+      "turn584428search10",
+      "turn584428search14"
+    ],
+    "scopeNote": "Character roles and short bios compiled from public cast listings and synopsis sources. Role classes are editorial where sources do not state Main/Supporting/Antagonist explicitly."
+  },
+  {
+    "titleId": "tt13868972",
+    "title": "Rocket Boys",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_homi_bhabha",
+      "char_series_vikram_sarabhai",
+      "char_series_parvana_irani",
+      "char_series_mrinalini_sarabhai",
+      "char_series_mehdi_raza"
+    ],
+    "characterCount": 5,
+    "actorCharacterCreditCount": 5,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt13868972",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt13868972/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [],
+    "scopeNote": "Character roles and short bios compiled from public cast listings and synopsis sources. Role classes are editorial where sources do not state Main/Supporting/Antagonist explicitly."
+  },
+  {
+    "titleId": "tt10265158",
+    "title": "Put Your Head on My Shoulder",
+    "researchStatus": "partial_character_profiles",
+    "characterIds": [
+      "char_series_si_tu_mo",
+      "char_series_gu_wei_yi",
+      "char_series_fu_pei",
+      "char_series_wang_shan",
+      "char_series_lin_zhicun"
+    ],
+    "characterCount": 5,
+    "actorCharacterCreditCount": 5,
+    "sources": [
+      {
+        "name": "IMDb title page (from supplied export)",
+        "url": "https://www.imdb.com/title/tt10265158",
+        "scope": "Title identity and original user-supplied metadata; not by itself evidence for every character detail."
+      },
+      {
+        "name": "IMDb full credits reference",
+        "url": "https://www.imdb.com/title/tt10265158/fullcredits/",
+        "scope": "External credit-check starting point. Use the title-specific research note below to understand what was actually verified."
+      }
+    ],
+    "webResearchReferenceIds": [
+      "turn584428search108",
+      "turn584428search13",
+      "turn584428search15"
+    ],
+    "scopeNote": "Character roles and short bios compiled from public cast listings and synopsis sources. Role classes are editorial where sources do not state Main/Supporting/Antagonist explicitly."
+  }
+]

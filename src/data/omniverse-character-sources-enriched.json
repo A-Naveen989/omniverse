@@ -1,0 +1,2116 @@
+[
+  {
+    "title": "Jailer 2",
+    "titleId": "tt33318732",
+    "source": "IMDb; BookMyShow; Sun Pictures",
+    "url": "https://www.imdb.com/title/tt33318732/fullcredits/",
+    "scope": "Web-researched cast and crew. The actor-character list is based on public credit listings; several performers are credited without a character name in the reviewed excerpts. Ramya Krishnan's character is inconsistent across sources: IMDb lists Viji Pandian while BookMyShow lists Ashtalakshmi. The pre-existing character file contains 30 named/credited entries; this web-researched cast list is not a claim that every entry has a confirmed actor mapping."
+  },
+  {
+    "title": "Dhoomakethu",
+    "titleId": "tt38990864",
+    "source": "Fi1m; IMDb; Moviefone",
+    "url": "https://film.one/film/dhoomakethu/cast-and-crew",
+    "scope": "Web-researched cast and crew. The public listings provide all 17 cast-character pairs. IMDb additionally lists Chaman Chakko as an editor; Fi1m prominently lists Vivek Harshan."
+  },
+  {
+    "title": "Dorothy",
+    "titleId": "tt38915678",
+    "source": "Sony Music South (official trailer and credits); IMDb; Netflix; Box Office Mojo",
+    "url": "https://www.youtube.com/watch?v=cCbiVWgEW1w",
+    "scope": "Web-researched cast and crew. Only the four actor-character pairs explicitly visible in full-credit listings are mapped to character records. Additional actors are included only as cast members because a role name was not confirmed in the reviewed sources."
+  },
+  {
+    "title": "The Paradise",
+    "titleId": "tt31969655",
+    "source": "IMDb; Bollywood Hungama; Moviefone",
+    "url": "https://www.imdb.com/title/tt31969655/fullcredits/",
+    "scope": "Web-researched cast and crew. Character transliterations differ between sources (for example, Samakka/Sammakka and Shikanja Malik/Shikanja Maalik). Easwari Rao and some other cast members are listed without a mapped character where the reviewed sources did not agree or did not provide a role."
+  },
+  {
+    "title": "Laxmii",
+    "titleId": "tt10350922",
+    "source": "IMDb; Rotten Tomatoes",
+    "url": "https://www.imdb.com/title/tt10350922/fullcredits/",
+    "scope": "Web-researched cast and crew. IMDb credits distinguish Akshay Kumar's Asif/Laxmi performance and Sharad Kelkar's Laxmi role; Rotten Tomatoes labels Sharad Kelkar's role as Laxman Sharma. This needs cautious display or a source note. The character file has nine named characters; the researched cast list includes additional cast members without mapped character names."
+  },
+  {
+    "title": "Kanchana: Muni 2",
+    "titleId": "tt2034026",
+    "source": "IMDb title and cast listing",
+    "url": "https://www.imdb.com/title/tt2034026/",
+    "scope": "Top cast roles; character biography fields beyond cast roles are not fully sourced."
+  },
+  {
+    "title": "Chandramukhi",
+    "titleId": "tt0449869",
+    "source": "Rajinifans cast and crew",
+    "url": "https://rajinifans.com/movies/chandramukhi/cast-crew.php",
+    "scope": "Named character roles from cast list."
+  },
+  {
+    "title": "Mr. Bharath",
+    "titleId": "tt0319887",
+    "source": "IMDb full credits and synopsis",
+    "url": "https://www.imdb.com/title/tt0319887/fullcredits/",
+    "scope": "Named cast roles and basic premise."
+  },
+  {
+    "title": "Nallavanukku Nallavan",
+    "titleId": "tt0320134",
+    "source": "Wikipedia article and IMDb full credits",
+    "url": "https://en.wikipedia.org/wiki/Nallavanukku_Nallavan",
+    "scope": "Named roles, plot relationships and character arc details."
+  },
+  {
+    "title": "Animals",
+    "titleId": "tt31049299",
+    "source": "Netflix Tudum official cast guide",
+    "url": "https://www.netflix.com/tudum/articles/animals-cast-guide",
+    "scope": "Official named roles, character descriptions and relationships."
+  },
+  {
+    "title": "Salt",
+    "titleId": "tt0944835",
+    "source": "Rotten Tomatoes cast and synopsis",
+    "url": "https://www.rottentomatoes.com/m/1213717-salt/cast-and-crew",
+    "scope": "Named credited roles and synopsis."
+  },
+  {
+    "title": "Bethlehem Kudumba Unit",
+    "titleId": "tt37535100",
+    "source": "IMDb full credits, Cinemate and film overview",
+    "url": "https://en.wikipedia.org/wiki/Bethlehem_Kudumba_Unit",
+    "scope": "Named cast roles and family/romantic relationships; character-role classifications inferred."
+  },
+  {
+    "title": "DC",
+    "titleId": "tt37501035",
+    "source": "IMDb full credits",
+    "url": "https://www.imdb.com/title/tt37501035/fullcredits/",
+    "scope": "Named character roles from currently available credits."
+  },
+  {
+    "title": "Ram and Leela",
+    "titleId": "tt39073377",
+    "source": "IMDb full credits",
+    "url": "https://www.imdb.com/title/tt39073377/fullcredits/",
+    "scope": "The two named title roles only; other credits lacked character names."
+  },
+  {
+    "title": "Spider-Man: Brand New Day",
+    "titleId": "tt22084616",
+    "source": "Rotten Tomatoes cast list and Sony Pictures official gallery/FAQs",
+    "url": "https://www.rottentomatoes.com/m/spider_man_brand_new_day/cast-and-crew",
+    "scope": "Named Marvel characters and official premise; role classes inferred."
+  },
+  {
+    "title": "Mandaadi",
+    "titleId": "tt36596965",
+    "source": "Moviefone cast and characters",
+    "url": "https://www.moviefone.com/movie/rs13/32LYgDTJqK0xVdUaqPe9s3/credits/",
+    "scope": "Named credited character roles; biographies not supplied by listing."
+  },
+  {
+    "title": "Sardar 2",
+    "titleId": "tt28541577",
+    "source": "Rotten Tomatoes, Moviefone and Indonesian Film Censorship Institution",
+    "url": "https://lsf.go.id/en/film/sardar-2/1494",
+    "scope": "Named character identities, premise and Sardar/Vijay relationship from censorship authority; role classes inferred."
+  },
+  {
+    "title": "Sleepers",
+    "titleId": "tt0117665",
+    "source": "Barry Levinson official film website and Rotten Tomatoes cast page",
+    "url": "https://www.levinson.com/sleepers",
+    "scope": "Named character credits and core premise; relationships summarized from synopsis."
+  },
+  {
+    "title": "Don't Look Up",
+    "titleId": "tt11286314",
+    "source": "Rotten Tomatoes synopsis and IMDb full credits",
+    "url": "https://www.rottentomatoes.com/m/dont_look_up_2021/cast-and-crew",
+    "scope": "Named roles, central premise and key relationships."
+  },
+  {
+    "title": "The Irishman",
+    "titleId": "tt1302006",
+    "source": "IMDb full credits",
+    "url": "https://www.imdb.com/title/tt1302006/fullcredits",
+    "scope": "First four named cast-character matches only; expanded character details need further research."
+  },
+  {
+    "title": "Finding 'Ohana",
+    "titleId": "tt10332588",
+    "source": "IMDb full credits",
+    "url": "https://www.imdb.com/title/tt10332588/fullcredits/",
+    "scope": "Named character roles; family relationships summarized from premise and credits."
+  },
+  {
+    "title": "Layer Cake",
+    "titleId": "tt0375912",
+    "source": "Sony Classics official press kit and IMDb full credits",
+    "url": "https://www.sonyclassics.com/layercake/externalLoads/layercake_PRESSKIT.pdf",
+    "scope": "Official cast character names; brief role summaries are conservative."
+  },
+  {
+    "title": "Rebel Ridge",
+    "titleId": "tt11301886",
+    "source": "Netflix Tudum, Moviefone and IMDb full credits",
+    "url": "https://www.netflix.com/tudum/articles/rebel-ridge-release-date-photos-news",
+    "scope": "Named character roles and core premise."
+  },
+  {
+    "title": "Remarkably Bright Creatures",
+    "titleId": "tt33100314",
+    "source": "Netflix Tudum official cast guide",
+    "url": "https://www.netflix.com/tudum/articles/remarkably-bright-creatures-cast",
+    "scope": "Tova, Cameron and Marcellus character summaries."
+  },
+  {
+    "title": "Julie & Julia",
+    "titleId": "tt1135503",
+    "source": "IMDb full credits",
+    "url": "https://www.imdb.com/title/tt1135503/fullcredits/",
+    "scope": "Named character roles from credits."
+  },
+  {
+    "title": "World War Z",
+    "titleId": "tt0816711",
+    "source": "IMDb full credits and film cast list",
+    "url": "https://www.imdb.com/title/tt0816711/fullcredits",
+    "scope": "Named character roles and family/mission context."
+  },
+  {
+    "title": "The Truman Show",
+    "titleId": "tt0120382",
+    "source": "Paramount official film page and IMDb full credits",
+    "url": "https://www.paramount.com/movies/the-truman-show",
+    "scope": "Official premise and principal character identities."
+  },
+  {
+    "title": "6 Underground",
+    "titleId": "tt8106534",
+    "source": "IMDb full credits",
+    "url": "https://www.imdb.com/title/tt8106534/fullcredits/",
+    "scope": "Codename/character identities and core premise."
+  },
+  {
+    "title": "Hum Tum",
+    "titleId": "tt0378072",
+    "source": "Yash Raj Films official movie page and IMDb full credits",
+    "url": "https://www.yashrajfilms.com/movies/hum-tum",
+    "scope": "Official synopsis, lead character personalities and relationship arc."
+  },
+  {
+    "title": "The Pale Blue Eye",
+    "titleId": "tt14138650",
+    "source": "IMDb full credits",
+    "url": "https://www.imdb.com/title/tt14138650/fullcredits/",
+    "scope": "Named credited characters; limited character narrative."
+  },
+  {
+    "title": "Easy A",
+    "titleId": "tt1282140",
+    "source": "Rotten Tomatoes cast and synopsis",
+    "url": "https://www.rottentomatoes.com/m/easy-a/cast-and-crew",
+    "scope": "Named roles and premise; relationships from the film synopsis."
+  },
+  {
+    "title": "Hit Man",
+    "titleId": "tt20215968",
+    "source": "IMDb full credits",
+    "url": "https://www.imdb.com/title/tt20215968/fullcredits/cast/",
+    "scope": "Named character roles; main premise summarized from film story."
+  },
+  {
+    "title": "Inside Man",
+    "titleId": "tt0454848",
+    "source": "IMDb full credits and Rotten Tomatoes synopsis",
+    "url": "https://www.imdb.com/title/tt0454848/fullcredits/cast",
+    "scope": "Principal character identities and synopsis."
+  },
+  {
+    "title": "Snow White and the Huntsman",
+    "titleId": "tt1735898",
+    "source": "Rotten Tomatoes cast page",
+    "url": "https://www.rottentomatoes.com/m/snow_white_and_the_huntsman/cast-and-crew",
+    "scope": "Named character roles and synopsis; shared character IDs use franchise matches."
+  },
+  {
+    "title": "The Huntsman: Winter's War",
+    "titleId": "tt2381991",
+    "source": "Rotten Tomatoes cast page and IMDb full credits",
+    "url": "https://www.rottentomatoes.com/m/the_huntsman_winters_war/cast-and-crew",
+    "scope": "Named character roles and premise; shared character IDs for Eric, Ravenna, William and Nion."
+  },
+  {
+    "title": "War Machine",
+    "titleId": "tt4758646",
+    "source": "IMDb full credits and Rotten Tomatoes synopsis",
+    "url": "https://www.rottentomatoes.com/m/war_machine_2016/cast-and-crew",
+    "scope": "Named character roles and official synopsis."
+  },
+  {
+    "title": "Bullet Train",
+    "titleId": "tt12593682",
+    "source": "IMDb full credits",
+    "url": "https://www.imdb.com/title/tt12593682/fullcredits/cast",
+    "scope": "Named character roles and primary cast."
+  },
+  {
+    "title": "Chain Kulii Ki Main Kulii",
+    "titleId": "tt1016159",
+    "source": "Times of India synopsis and cast listing",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/previews/chain-kulii-ki-main-kulii-now-playing/articleshow/2123061.cms",
+    "scope": "Named roles and central premise."
+  },
+  {
+    "title": "Chalo",
+    "titleId": "tt7589670",
+    "source": "IMDb plot summary and cast listings",
+    "url": "https://www.imdb.com/title/tt7589670/plotsummary/",
+    "scope": "Named character roles, romance and village-conflict relationships."
+  },
+  {
+    "title": "Irumudi",
+    "titleId": "tt39108319",
+    "source": "IMDb full credits",
+    "url": "https://www.imdb.com/title/tt39108319/fullcredits/",
+    "scope": "Named character roles available in the credits listing."
+  },
+  {
+    "title": "The Devil's Own",
+    "titleId": "tt0118972",
+    "source": "Rotten Tomatoes cast & synopsis; IMDb full credits",
+    "url": "https://www.rottentomatoes.com/m/devils_own/cast-and-crew",
+    "scope": "Named characters from the cited cast/character sources; role classifications are editorial inference based on story function where not explicitly designated."
+  },
+  {
+    "title": "The Change-Up",
+    "titleId": "tt1488555",
+    "source": "IMDb full cast and crew; film synopsis",
+    "url": "https://www.imdb.com/title/tt1488555/fullcredits/",
+    "scope": "Named characters from the cited cast/character sources; role classifications are editorial inference based on story function where not explicitly designated."
+  },
+  {
+    "title": "The Half of It",
+    "titleId": "tt9683478",
+    "source": "Rotten Tomatoes and IMDb full credits",
+    "url": "https://www.rottentomatoes.com/m/the_half_of_it/cast-and-crew",
+    "scope": "Named characters from the cited cast/character sources; role classifications are editorial inference based on story function where not explicitly designated."
+  },
+  {
+    "title": "Vishwanath and Sons",
+    "titleId": "tt35836025",
+    "source": "Cinemate cast listing; IMDb full credits",
+    "url": "https://www.cinemate.film/movies/vishwanath-sons-2026/cast",
+    "scope": "Named characters from the cited cast/character sources; role classifications are editorial inference based on story function where not explicitly designated."
+  },
+  {
+    "title": "Supergirl",
+    "titleId": "tt8814476",
+    "source": "DC Studios official movie page; Rotten Tomatoes and IMDb character credits",
+    "url": "https://www.dc.com/movies/supergirl-2026",
+    "scope": "Named characters from the cited cast/character sources; role classifications are editorial inference based on story function where not explicitly designated."
+  },
+  {
+    "title": "Superman",
+    "titleId": "tt5950044",
+    "source": "DC Studios official movie and starring-character page",
+    "url": "https://www.dc.com/movies/superman-2025",
+    "scope": "Named characters from the cited cast/character sources; role classifications are editorial inference based on story function where not explicitly designated."
+  },
+  {
+    "title": "Aquaman and the Lost Kingdom",
+    "titleId": "tt9663764",
+    "source": "DC official plot and character roles; Netflix Tudum character cast guide",
+    "url": "https://www.dc.com/movies/aquaman-and-the-lost-kingdom-2023",
+    "scope": "Named characters from the cited cast/character sources; role classifications are editorial inference based on story function where not explicitly designated."
+  },
+  {
+    "title": "Blue Beetle",
+    "titleId": "tt9362930",
+    "source": "DC official character and movie pages; IMDb full credits",
+    "url": "https://www.dc.com/movies/blue-beetle-2023",
+    "scope": "Named characters from the cited cast/character sources; role classifications are editorial inference based on story function where not explicitly designated."
+  },
+  {
+    "title": "The Flash",
+    "titleId": "tt0439572",
+    "source": "Rotten Tomatoes cast and official synopsis",
+    "url": "https://www.rottentomatoes.com/m/the_flash_2023/cast-and-crew",
+    "scope": "Named characters from the cited cast/character sources; role classifications are editorial inference based on story function where not explicitly designated."
+  },
+  {
+    "title": "Batman Returns",
+    "titleId": "tt0103776",
+    "source": "Rotten Tomatoes cast & synopsis; DC movie page",
+    "url": "https://www.rottentomatoes.com/m/batman_returns/cast-and-crew",
+    "scope": "Named characters from the cited cast/character sources; role classifications are editorial inference based on story function where not explicitly designated."
+  },
+  {
+    "title": "Batman",
+    "titleId": "tt0096895",
+    "source": "DC official movie page; IMDb full cast",
+    "url": "https://www.dc.com/movies/batman-1989",
+    "scope": "Named characters from the cited cast/character sources; role classifications are editorial inference based on story function where not explicitly designated."
+  },
+  {
+    "title": "Shazam! Fury of the Gods",
+    "titleId": "tt10151854",
+    "source": "DC official character/actor role list and synopsis",
+    "url": "https://www.dc.com/movies/shazam-fury-of-the-gods-2023",
+    "scope": "Named characters from the cited cast/character sources; role classifications are editorial inference based on story function where not explicitly designated."
+  },
+  {
+    "title": "Black Adam",
+    "titleId": "tt6443346",
+    "source": "DC official synopsis and Justice Society character list",
+    "url": "https://www.dc.com/movies/black-adam-2022",
+    "scope": "Named characters from the cited cast/character sources; role classifications are editorial inference based on story function where not explicitly designated."
+  },
+  {
+    "title": "The Suicide Squad",
+    "titleId": "tt6334354",
+    "source": "Rotten Tomatoes cast and character roles; DC official movie page",
+    "url": "https://www.rottentomatoes.com/m/the_suicide_squad/cast-and-crew",
+    "scope": "Named characters from the cited cast/character sources; role classifications are editorial inference based on story function where not explicitly designated."
+  },
+  {
+    "title": "Birds of Prey and the Fantabulous Emancipation of One Harley Quinn",
+    "titleId": "tt7713068",
+    "source": "DC official synopsis and named character roles; Rotten Tomatoes cast list",
+    "url": "https://www.dc.com/movies/birds-of-prey-2020",
+    "scope": "Named movie characters from cast/character sources; role labels are editorial classifications based on narrative function. Some short biographies summarize the cited film synopsis; unsourced optional profile fields remain empty."
+  },
+  {
+    "title": "Shazam!",
+    "titleId": "tt0448115",
+    "source": "DC official cast descriptions; Rotten Tomatoes and IMDb character credits",
+    "url": "https://www.dc.com/movies/shazam-2019",
+    "scope": "Named movie characters from cast/character sources; role labels are editorial classifications based on narrative function. Some short biographies summarize the cited film synopsis; unsourced optional profile fields remain empty."
+  },
+  {
+    "title": "Aquaman",
+    "titleId": "tt1477834",
+    "source": "DC official synopsis and named character cast; Rotten Tomatoes full cast",
+    "url": "https://www.dc.com/movies/aquaman-2018",
+    "scope": "Named movie characters from cast/character sources; role labels are editorial classifications based on narrative function. Some short biographies summarize the cited film synopsis; unsourced optional profile fields remain empty."
+  },
+  {
+    "title": "Zack Snyder's Justice League",
+    "titleId": "tt12361974",
+    "source": "DC official synopsis and Rotten Tomatoes/IMDb cast-character listings",
+    "url": "https://www.dc.com/movies/zack-snyders-justice-league-2021",
+    "scope": "Named movie characters from cast/character sources; role labels are editorial classifications based on narrative function. Some short biographies summarize the cited film synopsis; unsourced optional profile fields remain empty."
+  },
+  {
+    "title": "Suicide Squad",
+    "titleId": "tt1386697",
+    "source": "DC official movie page; Rotten Tomatoes and Fandango named cast credits",
+    "url": "https://www.dc.com/movies/suicide-squad-2016",
+    "scope": "Named movie characters from cast/character sources; role labels are editorial classifications based on narrative function. Some short biographies summarize the cited film synopsis; unsourced optional profile fields remain empty."
+  },
+  {
+    "title": "Wonder Woman 1984",
+    "titleId": "tt7126948",
+    "source": "DC official character descriptions; Rotten Tomatoes/Metacritic cast list",
+    "url": "https://www.dc.com/movies/wonder-woman-1984-2020",
+    "scope": "Named movie characters from cast/character sources; role labels are editorial classifications based on narrative function. Some short biographies summarize the cited film synopsis; unsourced optional profile fields remain empty."
+  },
+  {
+    "title": "Wonder Woman",
+    "titleId": "tt0451279",
+    "source": "DC official synopsis and featured characters; Rotten Tomatoes cast/role list",
+    "url": "https://www.dc.com/movies/wonder-woman-2017",
+    "scope": "Named movie characters from cast/character sources; role labels are editorial classifications based on narrative function. Some short biographies summarize the cited film synopsis; unsourced optional profile fields remain empty."
+  },
+  {
+    "title": "Batman v Superman: Dawn of Justice",
+    "titleId": "tt2975590",
+    "source": "DC official movie and starring character information; Rotten Tomatoes cast credits",
+    "url": "https://www.dc.com/movies/batman-v-superman-dawn-of-justice-2016",
+    "scope": "Named movie characters from cast/character sources; role labels are editorial classifications based on narrative function. Some short biographies summarize the cited film synopsis; unsourced optional profile fields remain empty."
+  },
+  {
+    "title": "Man of Steel",
+    "titleId": "tt0770828",
+    "source": "Rotten Tomatoes and IMDb full cast with character credits",
+    "url": "https://www.rottentomatoes.com/m/superman_man_of_steel/cast-and-crew",
+    "scope": "Named movie characters from cast/character sources; role labels are editorial classifications based on narrative function. Some short biographies summarize the cited film synopsis; unsourced optional profile fields remain empty."
+  },
+  {
+    "title": "The Great Grand Superhero: Aliens Ka Aagman",
+    "titleId": "tt40769151",
+    "source": "Rotten Tomatoes synopsis and IMDb credited character names",
+    "url": "https://www.rottentomatoes.com/m/the_great_grand_superhero_aliens_ka_aagman/cast-and-crew",
+    "scope": "Named character credits and plot details from the listed source(s). Role classifications are editorial inferences based on narrative prominence; fields not established by sources remain empty."
+  },
+  {
+    "title": "Ghost in the Shell",
+    "titleId": "tt1219827",
+    "source": "Paramount official synopsis and character cast",
+    "url": "https://www.paramount.com/movies/ghost-in-the-shell",
+    "scope": "Named character credits and plot details from the listed source(s). Role classifications are editorial inferences based on narrative prominence; fields not established by sources remain empty."
+  },
+  {
+    "title": "Seems Like Old Times",
+    "titleId": "tt0081480",
+    "source": "AFI Catalog cast credits; Rotten Tomatoes synopsis and role descriptions",
+    "url": "https://catalog.afi.com/Film/56469-SEEMS-LIKE-OLD-TIMES",
+    "scope": "Named character credits and plot details from the listed source(s). Role classifications are editorial inferences based on narrative prominence; fields not established by sources remain empty."
+  },
+  {
+    "title": "Need for Speed",
+    "titleId": "tt2369135",
+    "source": "IMDb full cast and credited character names",
+    "url": "https://www.imdb.com/title/tt2369135/fullcredits/cast",
+    "scope": "Named character credits and plot details from the listed source(s). Role classifications are editorial inferences based on narrative prominence; fields not established by sources remain empty."
+  },
+  {
+    "title": "Obsession",
+    "titleId": "tt37287335",
+    "source": "IMDb full cast and credited character names",
+    "url": "https://www.imdb.com/title/tt37287335/fullcredits/",
+    "scope": "Named character credits and plot details from the listed source(s). Role classifications are editorial inferences based on narrative prominence; fields not established by sources remain empty."
+  },
+  {
+    "title": "Welcome to the Jungle",
+    "titleId": "tt28540171",
+    "source": "IMDb full cast/role credits",
+    "url": "https://www.imdb.com/title/tt28540171/fullcredits/",
+    "scope": "Named character credits and plot details from the listed source(s). Role classifications are editorial inferences based on narrative prominence; fields not established by sources remain empty."
+  },
+  {
+    "title": "Disclosure Day",
+    "titleId": "tt15047880",
+    "source": "Rotten Tomatoes and IMDb full cast/role credits",
+    "url": "https://www.rottentomatoes.com/m/disclosure_day/cast-and-crew",
+    "scope": "Named character credits and plot details from the listed source(s). Role classifications are editorial inferences based on narrative prominence; fields not established by sources remain empty."
+  },
+  {
+    "title": "Rao Bahadur",
+    "titleId": "tt37895011",
+    "source": "IMDb full cast/role credits",
+    "url": "https://www.imdb.com/title/tt37895011/fullcredits/",
+    "scope": "Named character credits and plot details from the listed source(s). Role classifications are editorial inferences based on narrative prominence; fields not established by sources remain empty."
+  },
+  {
+    "title": "Voicemails for Isabelle",
+    "titleId": "tt10375624",
+    "source": "IMDb full cast/role credits",
+    "url": "https://www.imdb.com/title/tt10375624/fullcredits/",
+    "scope": "Named character credits and plot details from the listed source(s). Role classifications are editorial inferences based on narrative prominence; fields not established by sources remain empty."
+  },
+  {
+    "title": "Meiyazhagan",
+    "titleId": "tt26758372",
+    "source": "IMDb full cast/role credits",
+    "url": "https://www.imdb.com/title/tt26758372/fullcredits/",
+    "scope": "Named character credits and plot details from the listed source(s). Role classifications are editorial inferences based on narrative prominence; fields not established by sources remain empty."
+  },
+  {
+    "title": "Maa Inti Bangaram",
+    "titleId": "tt32237111",
+    "source": "Cinemate and IMDb full cast/role credits",
+    "url": "https://www.cinemate.film/movies/maa-inti-bangaram-2026/cast",
+    "scope": "Named character credits and plot details from the listed source(s). Role classifications are editorial inferences based on narrative prominence; fields not established by sources remain empty."
+  },
+  {
+    "title": "Masters of the Universe",
+    "titleId": "tt0427340",
+    "source": "IMDb full cast/role credits",
+    "url": "https://www.imdb.com/title/tt0427340/fullcredits/cast",
+    "scope": "Named character credits and plot details from the listed source(s). Role classifications are editorial inferences based on narrative prominence; fields not established by sources remain empty."
+  },
+  {
+    "title": "Nagabandham - The Secret Treasure",
+    "titleId": "tt32065777",
+    "source": "IMDb full cast/role credits",
+    "url": "https://www.imdb.com/title/tt32065777/fullcredits/",
+    "scope": "Named character credits and plot details from the listed source(s). Role classifications are editorial inferences based on narrative prominence; fields not established by sources remain empty."
+  },
+  {
+    "title": "Purushaha",
+    "titleId": "tt39388107",
+    "source": "IMDb full cast/role credits",
+    "url": "https://www.imdb.com/title/tt39388107/fullcredits/",
+    "scope": "Named character credits and plot details from the listed source(s). Role classifications are editorial inferences based on narrative prominence; fields not established by sources remain empty."
+  },
+  {
+    "title": "Brahmotsavam",
+    "titleId": "tt5457722",
+    "source": "Apple TV cast and synopsis; IMDb full cast credits",
+    "url": "https://tv.apple.com/in/movie/brahmotsavam/umc.cmc.2yod2waqigg8jhcb864b2rejc",
+    "scope": "Named character credits and plot details from the listed source(s). Role classifications are editorial inferences based on narrative prominence; fields not established by sources remain empty."
+  },
+  {
+    "title": "Raja Kumarudu",
+    "titleId": "tt0285940",
+    "source": "TV Guide plot and named cast credits; IMDb full credits",
+    "url": "https://www.tvguide.com/movies/raja-kumarudu/cast/2000158271/",
+    "scope": "Named character credits and plot details from cited source(s). Main/supporting/antagonist classifications are editorial judgements; information not supported by source text remains blank."
+  },
+  {
+    "title": "Nijam",
+    "titleId": "tt0368896",
+    "source": "IMDb full cast and Plex character-credit listing",
+    "url": "https://www.imdb.com/title/tt0368896/fullcredits/",
+    "scope": "Named character credits and plot details from cited source(s). Main/supporting/antagonist classifications are editorial judgements; information not supported by source text remains blank."
+  },
+  {
+    "title": "Arjun",
+    "titleId": "tt0907619",
+    "source": "Film plot and named role cast listing",
+    "url": "https://en.wikipedia.org/wiki/Arjun_(2004_film)",
+    "scope": "Named character credits and plot details from cited source(s). Main/supporting/antagonist classifications are editorial judgements; information not supported by source text remains blank."
+  },
+  {
+    "title": "1: Nenokkadine",
+    "titleId": "tt2375559",
+    "source": "TV Guide plot and named character credits; IMDb full credits",
+    "url": "https://www.tvguide.com/movies/1-nenokkadine/cast/2000314633/",
+    "scope": "Named character credits and plot details from cited source(s). Main/supporting/antagonist classifications are editorial judgements; information not supported by source text remains blank."
+  },
+  {
+    "title": "Okkadu",
+    "titleId": "tt0366840",
+    "source": "Apple TV official synopsis and named cast credits; IMDb full cast",
+    "url": "https://tv.apple.com/in/movie/okkadu/umc.cmc.5grjzlo971bpu6tqwog4cvl8b",
+    "scope": "Named character credits and plot details from cited source(s). Main/supporting/antagonist classifications are editorial judgements; information not supported by source text remains blank."
+  },
+  {
+    "title": "Bujjigaadu: Made in Chennai",
+    "titleId": "tt1194104",
+    "source": "TV Guide synopsis and named cast credits; IMDb full credits",
+    "url": "https://www.tvguide.com/movies/bujjigaadu-made-in-chennai/cast/2000169685/",
+    "scope": "Named character credits and plot details from cited source(s). Main/supporting/antagonist classifications are editorial judgements; information not supported by source text remains blank."
+  },
+  {
+    "title": "Pournami",
+    "titleId": "tt0471862",
+    "source": "IMDb and Apple TV named character credits",
+    "url": "https://www.imdb.com/title/tt0471862/fullcredits/",
+    "scope": "Named character credits and plot details from cited source(s). Main/supporting/antagonist classifications are editorial judgements; information not supported by source text remains blank."
+  },
+  {
+    "title": "Chakram",
+    "titleId": "tt0455385",
+    "source": "Film synopsis and named cast list",
+    "url": "https://en.wikipedia.org/wiki/Chakram_(2005_film)",
+    "scope": "Named character credits and plot details from cited source(s). Main/supporting/antagonist classifications are editorial judgements; information not supported by source text remains blank."
+  },
+  {
+    "title": "Ride",
+    "titleId": "tt1580017",
+    "source": "Rotten Tomatoes synopsis and named credits; IMDb full cast",
+    "url": "https://www.rottentomatoes.com/m/ride_2009/cast-and-crew",
+    "scope": "Named character credits and plot details from cited source(s). Main/supporting/antagonist classifications are editorial judgements; information not supported by source text remains blank."
+  },
+  {
+    "title": "Snehithuda",
+    "titleId": "tt1580023",
+    "source": "Sun NXT synopsis and lead character names; IMDb full cast",
+    "url": "https://www.sunnxt.com/telugu-movie-snehithuda-2009/detail/9063",
+    "scope": "Named character credits and plot details from cited source(s). Main/supporting/antagonist classifications are editorial judgements; information not supported by source text remains blank."
+  },
+  {
+    "title": "Krishnarjuna Yudham",
+    "titleId": "tt7770192",
+    "source": "IMDb cast and character credits",
+    "url": "https://www.imdb.com/title/tt7770192/",
+    "scope": "Named character credits and plot details from cited source(s). Main/supporting/antagonist classifications are editorial judgements; information not supported by source text remains blank."
+  },
+  {
+    "title": "Yevade Subramanyam",
+    "titleId": "tt4515070",
+    "source": "IMDb full cast credits and film plot",
+    "url": "https://www.imdb.com/title/tt4515070/fullcredits/",
+    "scope": "Named character credits and plot details from cited source(s). Main/supporting/antagonist classifications are editorial judgements; information not supported by source text remains blank."
+  },
+  {
+    "title": "Pelli Choopulu",
+    "titleId": "tt5824826",
+    "source": "IMDb full cast credits and film synopsis",
+    "url": "https://www.imdb.com/title/tt5824826/fullcredits/",
+    "scope": "Named character credits and plot details from cited source(s). Main/supporting/antagonist classifications are editorial judgements; information not supported by source text remains blank."
+  },
+  {
+    "title": "Mayabazar",
+    "titleId": "tt0249795",
+    "source": "IMDb full credits; EOFFTV cast list",
+    "url": "https://www.imdb.com/title/tt0249795/fullcredits/",
+    "scope": "Named character credits and plot details from cited source(s). Main/supporting/antagonist classifications are editorial judgements; information not supported by source text remains blank."
+  },
+  {
+    "title": "Brochevarevarura",
+    "titleId": "tt9742334",
+    "source": "IMDb full cast and character credits",
+    "url": "https://www.imdb.com/title/tt9742334/fullcredits/",
+    "scope": "Named character credits and plot details from cited source(s). Main/supporting/antagonist classifications are editorial judgements; information not supported by source text remains blank."
+  },
+  {
+    "title": "Manam",
+    "titleId": "tt2926068",
+    "source": "IMDb full credits and Filmibeat cast listing",
+    "url": "https://www.imdb.com/title/tt2926068/fullcredits/",
+    "scope": "Named character roles are taken from IMDb full credits and corroborating cast listing; several secondary actor credits have no named role and are excluded."
+  },
+  {
+    "title": "Majili",
+    "titleId": "tt8737614",
+    "source": "IMDb, Rotten Tomatoes and Filmibeat cast credits",
+    "url": "https://www.imdb.com/title/tt8737614/fullcredits",
+    "scope": "Character names were cross-checked across cast listings; unnamed cast entries omitted."
+  },
+  {
+    "title": "Krishna Gaadi Veera Prema Gaadha",
+    "titleId": "tt5457840",
+    "source": "Wikipedia cast list",
+    "url": "https://en.wikipedia.org/wiki/Krishna_Gaadi_Veera_Prema_Gaadha",
+    "scope": "Named cast and roles from the film’s cast section; unnamed actor credits omitted."
+  },
+  {
+    "title": "100% Love",
+    "titleId": "tt1869226",
+    "source": "Wikipedia cast section",
+    "url": "https://en.wikipedia.org/wiki/100%25_Love_(2011_film)",
+    "scope": "Named cast roles and story relationships; cameo performers without a named character are not individually represented."
+  },
+  {
+    "title": "Manmadhudu",
+    "titleId": "tt0355742",
+    "source": "IMDb full credits and GoldPoster cast listing",
+    "url": "https://www.imdb.com/title/tt0355742/fullcredits/cast",
+    "scope": "Character names are taken from IMDb full credits and cross-checked against a supplementary cast listing; generic actor-only credits omitted."
+  },
+  {
+    "title": "Aditya 369",
+    "titleId": "tt0252196",
+    "source": "Cinegraph and IMDb full credits",
+    "url": "https://cinegraph.org/movies/aditya-369-1991",
+    "scope": "Named characters are drawn from available cast/role listings; role categories are editorial classification."
+  },
+  {
+    "title": "Sing Geetham",
+    "titleId": "tt34547719",
+    "source": "IMDb full credits",
+    "url": "https://www.imdb.com/title/tt34547719/fullcredits/",
+    "scope": "IMDb credits include named roles and some role descriptions; unnamed villagers and generic extras are excluded."
+  },
+  {
+    "title": "Con City",
+    "titleId": "tt39182439",
+    "source": "IMDb full credits",
+    "url": "https://www.imdb.com/title/tt39182439/fullcredits/",
+    "scope": "Only IMDb credits with an explicit character name or role label are included; generic Actor/Actress entries excluded."
+  },
+  {
+    "title": "Parimala and Co",
+    "titleId": "tt39385419",
+    "source": "IMDb full credits",
+    "url": "https://www.imdb.com/title/tt39385419/fullcredits/",
+    "scope": "The available IMDb cast extract identifies only a small number of character-role pairings; other credited actors lack a published role name in the retrieved extract."
+  },
+  {
+    "title": "Mollywood Times",
+    "titleId": "tt29959401",
+    "source": "Rotten Tomatoes cast credits and Onmanorama synopsis",
+    "url": "https://www.rottentomatoes.com/m/mollywood_times/cast-and-crew",
+    "scope": "Role names are based on cast listing and synopsis; only credited named roles included."
+  },
+  {
+    "title": "Peddi",
+    "titleId": "tt23865918",
+    "source": "Rotten Tomatoes and Irish Film Classification Office cast listing",
+    "url": "https://www.rottentomatoes.com/m/peddi/cast-and-crew",
+    "scope": "Named roles taken from Rotten Tomatoes credits; roles for actor-only entries without a character label are omitted."
+  },
+  {
+    "title": "Demon Hunters",
+    "titleId": "tt31409599",
+    "source": "IMDb full credits and title synopsis",
+    "url": "https://www.imdb.com/title/tt31409599/fullcredits/",
+    "scope": "Named characters and plot roles from IMDb; secondary character labels from cast credits."
+  },
+  {
+    "title": "Bhooth Bangla",
+    "titleId": "tt29540862",
+    "source": "IMDb full credits and Irish Film Classification Office cast confirmation",
+    "url": "https://www.imdb.com/title/tt29540862/fullcredits/",
+    "scope": "Named character-role credits from IMDb; role classifications are editorial inference."
+  },
+  {
+    "title": "Seven Years in Tibet",
+    "titleId": "tt0120102",
+    "source": "Rotten Tomatoes full cast listing",
+    "url": "https://www.rottentomatoes.com/m/1079716-seven_years_in_tibet/cast-and-crew",
+    "scope": "Character names and roles based on Rotten Tomatoes cast credits; real historical figures portrayed in the film are represented as characters."
+  },
+  {
+    "title": "Michael",
+    "titleId": "tt15309808",
+    "source": "Rotten Tomatoes, Irish Film Classification Office and film cast listings",
+    "url": "https://www.rottentomatoes.com/m/michael/cast-and-crew",
+    "scope": "Biographical figures represented as on-screen characters; character identities follow published cast credits."
+  },
+  {
+    "title": "Patriot",
+    "titleId": "tt33412884",
+    "source": "Moviefone and IMDb full cast credits",
+    "url": "https://www.moviefone.com/movie/mammootty-mahesh-narayanan-movie/y1NzzNy6pxhJGqAQGYWo87/credits/",
+    "scope": "Named character-role credits; generic actor-only entries excluded. Story role classifications are editorial."
+  },
+  {
+    "title": "Karuppu",
+    "titleId": "tt33988385",
+    "source": "IMDb and Socinety cast credits",
+    "url": "https://www.imdb.com/title/tt33988385/fullcredits/",
+    "scope": "IMDb full credits and Socinety cast-credit aggregation; actor-only entries not treated as character identities."
+  },
+  {
+    "title": "Athiradi",
+    "titleId": "tt38721131",
+    "source": "IMDb full credits and Shalimar Pictures official film page",
+    "url": "https://www.imdb.com/title/tt38721131/fullcredits/",
+    "scope": "Main role names and supporting roles from published cast credits; self-portrayed public figures marked as characters only where the credits name a role."
+  },
+  {
+    "title": "Enemy",
+    "titleId": "tt13131186",
+    "source": "IMDb full credits and Wikipedia cast section",
+    "url": "https://www.imdb.com/title/tt13131186/fullcredits/",
+    "scope": "Named cast/role credits and principal backstory from film reference; roles classified editorially."
+  },
+  {
+    "title": "Panda Plan 2: The Magical Tribe",
+    "titleId": "tt35514520",
+    "source": "IMDb title and top-cast listing",
+    "url": "https://www.imdb.com/title/tt35514520/",
+    "scope": "Named characters shown in IMDb top-cast section; character descriptions are kept minimal where plot-level detail is not established."
+  },
+  {
+    "title": "Moneyball",
+    "titleId": "tt1210166",
+    "source": "Rotten Tomatoes full cast listing and IMDb credits",
+    "url": "https://www.rottentomatoes.com/m/moneyball/cast-and-crew",
+    "scope": "Named character-role credits and plot context; team affiliation information follows the film’s stated story."
+  },
+  {
+    "title": "Godari Gattupaina",
+    "titleId": "tt34545743",
+    "source": "IMDb, BookMyShow and Filmibeat cast listings",
+    "url": "https://www.imdb.com/title/tt34545743/fullcredits/",
+    "scope": "Named character roles cross-checked against multiple cast listings; actor-only roles excluded."
+  },
+  {
+    "title": "Kara",
+    "titleId": "tt37458112",
+    "source": "IMDb full credits",
+    "url": "https://www.imdb.com/title/tt37458112/fullcredits/",
+    "scope": "Named credits from the IMDb full-cast listing; role classification is editorial."
+  },
+  {
+    "title": "One Week Friends",
+    "titleId": "tt17506728",
+    "source": "IMDb full credits and title synopsis",
+    "url": "https://www.imdb.com/title/tt17506728/fullcredits/",
+    "scope": "Named roles and premise from IMDb; minor roles included only where a character label is supplied."
+  },
+  {
+    "title": "Madhuvidhu",
+    "titleId": "tt38781091",
+    "source": "IMDb full credits and Wikipedia cast list",
+    "url": "https://www.imdb.com/title/tt38781091/fullcredits/",
+    "scope": "Separate character entries created for actors listed in dual roles; only named roles included."
+  },
+  {
+    "title": "Mission: Impossible - The Final Reckoning",
+    "titleId": "tt9603208",
+    "source": "Paramount official film page and Rotten Tomatoes cast listing",
+    "url": "https://www.paramount.com/movies/mission-impossible-the-final-reckoning",
+    "scope": "Official studio cast identities and full cast listing; continuing characters use franchise-wide IDs."
+  },
+  {
+    "title": "Mission: Impossible - Dead Reckoning Part One",
+    "titleId": "tt9603212",
+    "source": "Paramount official film page and Rotten Tomatoes cast listing",
+    "url": "https://www.paramount.com/movies/mission-impossible-dead-reckoning",
+    "scope": "Official studio named cast and supplemental credited roles; sequel character IDs reused across films."
+  },
+  {
+    "title": "Mission: Impossible - Fallout",
+    "titleId": "tt4912910",
+    "source": "Paramount official and IMDb full cast credits",
+    "url": "https://www.paramountpictures.com/movies/mission-impossible-fallout",
+    "scope": "Official cast names and plot context; character identity aliases included only where documented."
+  },
+  {
+    "title": "Mission: Impossible - Rogue Nation",
+    "titleId": "tt2381249",
+    "source": "Paramount official film page",
+    "url": "https://www.paramountpictures.com/movies/mission-impossible-rogue-nation",
+    "scope": "Official studio cast and synopsis; shared IMF characters use same IDs as sequels."
+  },
+  {
+    "title": "Mission: Impossible - Ghost Protocol",
+    "titleId": "tt1229238",
+    "source": "Paramount official film page",
+    "url": "https://www.paramount.com/movies/mission-impossible-ghost-protocol",
+    "scope": "Official studio cast and plot information; shared franchise identities use canonical character IDs."
+  },
+  {
+    "title": "Mission: Impossible III",
+    "titleId": "tt0317919",
+    "source": "Paramount official movie page",
+    "url": "https://www.paramountmovies.com/movies/mission-impossible-iii",
+    "scope": "Official synopsis and named cast roles; recurring franchise characters use canonical IDs."
+  },
+  {
+    "title": "Mission: Impossible II",
+    "titleId": "tt0120755",
+    "source": "Paramount Pictures official movie page",
+    "url": "https://www.paramountpictures.com/movies/mission-impossible-ii",
+    "scope": "Official cast-role listings and synopsis; canonical Ethan Hunt and Luther Stickell records reused."
+  },
+  {
+    "title": "Mission: Impossible",
+    "titleId": "tt0117060",
+    "source": "Paramount Pictures official movie page",
+    "url": "https://www.paramountpictures.com/movies/mission-impossible",
+    "scope": "Official studio cast roles and synopsis; Ethan Hunt, Luther Stickell and Kittridge are linked to the franchise-wide identities."
+  },
+  {
+    "title": "Project Hail Mary",
+    "titleId": "tt12042730",
+    "source": "IMDb full cast and crew; Cinemate cast list",
+    "url": "https://www.imdb.com/title/tt12042730/fullcredits/",
+    "scope": "Named role credits from IMDb and cross-check against Cinemate; character descriptions are limited to verified premise/role context."
+  },
+  {
+    "title": "Jetlee",
+    "titleId": "tt38907386",
+    "source": "IMDb and Plex credits; CineXMark cast-role list",
+    "url": "https://watch.plex.tv/it/movie/jetlee/credits",
+    "scope": "Role names cross-checked across Plex, IMDb and CineXMark; unnamed actor-only cast entries excluded."
+  },
+  {
+    "title": "LIK: Love Insurance Kompany",
+    "titleId": "tt30460421",
+    "source": "IMDb full credits and IMDbPro synopsis",
+    "url": "https://www.imdb.com/title/tt30460421/fullcredits/",
+    "scope": "Role names and story relationship drawn from IMDb credits and synopsis; actor-only entries omitted."
+  },
+  {
+    "title": "Dacoit: A Love Story",
+    "titleId": "tt30413898",
+    "source": "IMDb full credits and Plex credits",
+    "url": "https://watch.plex.tv/en-GB/movie/dacoit-a-love-story/credits",
+    "scope": "Named character credits cross-checked against IMDb and Plex; plot relationships are included where source synopsis/cast descriptions establish them."
+  },
+  {
+    "title": "Raakaasa",
+    "titleId": "tt36451817",
+    "source": "IMDb full credits",
+    "url": "https://www.imdb.com/title/tt36451817/fullcredits/",
+    "scope": "Named role credits; only roles explicitly shown in the public cast listing included."
+  },
+  {
+    "title": "Prati Roju Pandaage",
+    "titleId": "tt10940334",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt10940334/fullcredits/",
+    "scope": "Named IMDb cast roles; supporting family roles retained where character names are supplied."
+  },
+  {
+    "title": "Anaganaga Oka Raju",
+    "titleId": "tt15427952",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt15427952/fullcredits/",
+    "scope": "Only named character roles visible in IMDb credits included; actor-only cast names excluded."
+  },
+  {
+    "title": "Biker",
+    "titleId": "tt31593809",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt31593809/fullcredits/",
+    "scope": "Named character roles from IMDb full credits; generic crowd/unnamed roles omitted."
+  },
+  {
+    "title": "The Imitation Game",
+    "titleId": "tt2084970",
+    "source": "IMDb full cast and crew; Metacritic credits",
+    "url": "https://www.metacritic.com/movie/the-imitation-game/credits/",
+    "scope": "Named character-role credits from two cast listings; historical biographical context limited to the film’s central premise."
+  },
+  {
+    "title": "Apex",
+    "titleId": "tt16431404",
+    "source": "IMDb full credits, Metacritic and Rotten Tomatoes cast listings",
+    "url": "https://www.imdb.com/title/tt16431404/fullcredits/",
+    "scope": "Character role names cross-checked across three cast listings; roles editorially classified."
+  },
+  {
+    "title": "Project Y",
+    "titleId": "tt37658798",
+    "source": "Korean Film Council official database; IMDb and Plex credits",
+    "url": "https://www.koreanfilm.or.kr/eng/films/index/filmsView.jsp?movieCd=20249624",
+    "scope": "Official KOFIC entry confirms title/release/cast; role names from IMDb/Plex cast-credit pages."
+  },
+  {
+    "title": "Raja Shivaji",
+    "titleId": "tt31390893",
+    "source": "Cinemate and Bollywood Hungama cast pages",
+    "url": "https://www.cinemate.film/movies/raja-shivaji-2026/cast",
+    "scope": "Named cast-role credits from two film cast listings; role classifications are editorial and historical summaries are brief."
+  },
+  {
+    "title": "Dhurandhar: The Revenge",
+    "titleId": "tt39139925",
+    "source": "Netflix Tudum and IMDb full credits",
+    "url": "https://www.netflix.com/tudum/articles/dhurandhar-the-revenge-release-date-news",
+    "scope": "Named character cast from Netflix and IMDb; character descriptions only where supported by cast descriptions and synopsis."
+  },
+  {
+    "title": "Death Proof",
+    "titleId": "tt1028528",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt1028528/fullcredits/cast",
+    "scope": "Named role credits; real performer name Zoë Bell is used as the character name where that is the credited role."
+  },
+  {
+    "title": "Sambhavam Adhyayam Onnu",
+    "titleId": "tt36628923",
+    "source": "IMDb full credits; Actors.app and Plex cast list",
+    "url": "https://www.imdb.com/title/tt36628923/fullcredits/",
+    "scope": "Named character roles cross-referenced with two additional cast listings."
+  },
+  {
+    "title": "Happy Patel: Khatarnak Jasoos",
+    "titleId": "tt32245870",
+    "source": "IMDb full credits and Netflix/press cast summaries",
+    "url": "https://www.imdb.com/title/tt32245870/fullcredits/",
+    "scope": "Named IMDb role credits; plot premise cross-checked with the film synopsis."
+  },
+  {
+    "title": "Tu Yaa Main",
+    "titleId": "tt36118360",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt36118360/fullcredits/",
+    "scope": "Named role credits from IMDb; duplicate friend roles consolidated where only one label is supplied."
+  },
+  {
+    "title": "Humint",
+    "titleId": "tt32606470",
+    "source": "IMDb full credits",
+    "url": "https://www.imdb.com/title/tt32606470/fullcredits/",
+    "scope": "Named characters from IMDb full cast credits; basic story context from film synopsis."
+  },
+  {
+    "title": "Thaai Kizhavi",
+    "titleId": "tt39255646",
+    "source": "IMDb full credits",
+    "url": "https://www.imdb.com/title/tt39255646/fullcredits/",
+    "scope": "Only explicitly identified character roles in the IMDb cast credits are included; other actors are not converted into character names."
+  },
+  {
+    "title": "Hey Balwanth",
+    "titleId": "tt37342587",
+    "source": "IMDb title page top cast",
+    "url": "https://www.imdb.com/title/tt37342587/",
+    "scope": "Named roles available in the top-cast section; actor-only supporting cast omitted."
+  },
+  {
+    "title": "Crime 101",
+    "titleId": "tt32430579",
+    "source": "Working Title Films official site, IMDb full credits and Rotten Tomatoes",
+    "url": "https://www.workingtitlefilms.com/film/crime-101/",
+    "scope": "Plot and starring cast from production company; full character-role names cross-checked with IMDb cast credits."
+  },
+  {
+    "title": "Sampradayaini Suppini Suddapusaani",
+    "titleId": "tt33183872",
+    "source": "IMDb full credits",
+    "url": "https://www.imdb.com/title/tt33183872/fullcredits/",
+    "scope": "Only role names explicitly displayed in the retrieved IMDb credits are included; actors listed without role names are excluded."
+  },
+  {
+    "title": "Sicario: Day of the Soldado",
+    "titleId": "tt5052474",
+    "source": "IMDb full credits and Rotten Tomatoes cast/plot",
+    "url": "https://www.imdb.com/title/tt5052474/fullcredits/",
+    "scope": "Named role credits from IMDb; franchise characters Alejandro, Matt Graver and Steve Forsing use shared IDs."
+  },
+  {
+    "title": "Sicario",
+    "titleId": "tt3397884",
+    "source": "IMDb full credits",
+    "url": "https://www.imdb.com/title/tt3397884/fullcredits/cast",
+    "scope": "Named roles from IMDb complete cast listing; shared recurring roles use the same IDs as Day of the Soldado."
+  },
+  {
+    "title": "Border 2",
+    "titleId": "tt30387012",
+    "source": "Rotten Tomatoes and IMDb full credits",
+    "url": "https://www.rottentomatoes.com/m/border_2/cast-and-crew",
+    "scope": "Character role names from cast listing and IMDb credits; roles classified by narrative prominence and conflict alignment."
+  },
+  {
+    "title": "Good Fortune",
+    "titleId": "tt27543578",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt27543578/fullcredits/",
+    "scope": "Named IMDb role credits; plot roles summarized conservatively."
+  },
+  {
+    "title": "Now You See Me: Now You Don't",
+    "titleId": "tt4712810",
+    "source": "IMDb full cast and franchise cast matrix",
+    "url": "https://www.imdb.com/title/tt4712810/fullcredits/",
+    "scope": "Role names from IMDb; franchise identities reuse canonical character IDs where continuity supports it."
+  },
+  {
+    "title": "Vishnu Vinyasam",
+    "titleId": "tt39195804",
+    "source": "IMDb top cast and official Prime Video synopsis",
+    "url": "https://www.primevideo.com/detail/0IWHME9CNX10EIZ2HLFPVHZVU5?tr=in",
+    "scope": "Role names and synopsis from IMDb and Prime Video; unnamed cast entries excluded."
+  },
+  {
+    "title": "Made in Korea",
+    "titleId": "tt38674977",
+    "source": "IMDb full credits",
+    "url": "https://www.imdb.com/title/tt38674977/fullcredits/",
+    "scope": "Named IMDb role credits; descriptions limited to synopsis-supported lead context."
+  },
+  {
+    "title": "Funky",
+    "titleId": "tt33083471",
+    "source": "IMDb full credits and Filmibeat cast list",
+    "url": "https://www.filmibeat.com/telugu/movies/vishwak-sen-funky/cast-crew.html",
+    "scope": "Named cast-role pairings from Filmibeat and IMDb; only specific roles represented."
+  },
+  {
+    "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
+    "titleId": "tt1790809",
+    "source": "Fandango full cast and crew",
+    "url": "https://www.fandango.com/pirates-of-the-caribbean-dead-men-tell-no-tales-161866/cast-and-crew",
+    "scope": "Named character-role cast entries from Fandango; returning franchise characters share canonical IDs."
+  },
+  {
+    "title": "Pirates of the Caribbean: On Stranger Tides",
+    "titleId": "tt1298650",
+    "source": "Disney Pirates official character guide; Rotten Tomatoes and IMDb cast credits",
+    "url": "https://pirates.disney.com/pirates-of-the-caribbean-on-stranger-tides/characters",
+    "scope": "Disney official character descriptions for principal characters; supporting named roles from full cast credits."
+  },
+  {
+    "title": "Pirates of the Caribbean: At World's End",
+    "titleId": "tt0449088",
+    "source": "Disney official character page and film cast",
+    "url": "https://pirates.disney.com/pirates-of-the-caribbean-at-worlds-end/characters",
+    "scope": "Named character roles taken from the cited cast/character source. Main/Supporting/Antagonist are editorial classifications of story function, not labels from the source. Unestablished profile fields remain empty."
+  },
+  {
+    "title": "Pirates of the Caribbean: Dead Man's Chest",
+    "titleId": "tt0383574",
+    "source": "Disney official character page",
+    "url": "https://pirates.disney.com/pirates-of-the-caribbean-dead-mans-chest/characters",
+    "scope": "Named character roles taken from the cited cast/character source. Main/Supporting/Antagonist are editorial classifications of story function, not labels from the source. Unestablished profile fields remain empty."
+  },
+  {
+    "title": "Jurassic World: Rebirth",
+    "titleId": "tt31036941",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt31036941/fullcredits/",
+    "scope": "IMDb credits provide named character roles. Descriptive context is limited to the publicly stated premise and role descriptions."
+  },
+  {
+    "title": "Jurassic World: Dominion",
+    "titleId": "tt8041270",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt8041270/fullcredits/cast",
+    "scope": "Named character roles taken from the cited cast/character source. Main/Supporting/Antagonist are editorial classifications of story function, not labels from the source. Unestablished profile fields remain empty."
+  },
+  {
+    "title": "Jurassic World: Fallen Kingdom",
+    "titleId": "tt4881806",
+    "source": "Rotten Tomatoes full cast and crew",
+    "url": "https://www.rottentomatoes.com/m/jurassic_world_fallen_kingdom/cast-and-crew",
+    "scope": "Named character roles taken from the cited cast/character source. Main/Supporting/Antagonist are editorial classifications of story function, not labels from the source. Unestablished profile fields remain empty."
+  },
+  {
+    "title": "Jurassic World",
+    "titleId": "tt0369610",
+    "source": "IMDb / Universal Pictures cast listings",
+    "url": "https://www.imdb.com/title/tt0369610/fullcredits/",
+    "scope": "Named character roles from cast credits; dinosaurs Blue, Charlie, Delta and Echo are included as named animal characters."
+  },
+  {
+    "title": "Jurassic Park III",
+    "titleId": "tt0163025",
+    "source": "Rotten Tomatoes and IMDb full cast",
+    "url": "https://www.rottentomatoes.com/m/jurassic_park_iii/cast-and-crew",
+    "scope": "Named character roles taken from the cited cast/character source. Main/Supporting/Antagonist are editorial classifications of story function, not labels from the source. Unestablished profile fields remain empty."
+  },
+  {
+    "title": "The Lost World: Jurassic Park",
+    "titleId": "tt0119567",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt0119567/fullcredits/cast",
+    "scope": "Named character roles taken from the cited cast/character source. Main/Supporting/Antagonist are editorial classifications of story function, not labels from the source. Unestablished profile fields remain empty."
+  },
+  {
+    "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "titleId": "tt0325980",
+    "source": "Disney official film page and cast credits",
+    "url": "https://movies.disney.com/pirates-of-the-caribbean-the-curse-of-the-black-pearl",
+    "scope": "Disney synopsis and cast page used for film context; named character roles cross-checked against cast credits."
+  },
+  {
+    "title": "Jurassic Park",
+    "titleId": "tt0107290",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt0107290/fullcredits/",
+    "scope": "Named character roles taken from the cited cast/character source. Main/Supporting/Antagonist are editorial classifications of story function, not labels from the source. Unestablished profile fields remain empty."
+  },
+  {
+    "title": "Laalo: Krishna Sada Sahaayate",
+    "titleId": "tt37956153",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt37956153/fullcredits/",
+    "scope": "Named character roles taken from the cited cast/character source. Main/Supporting/Antagonist are editorial classifications of story function, not labels from the source. Unestablished profile fields remain empty."
+  },
+  {
+    "title": "With Love",
+    "titleId": "tt38123566",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt38123566/fullcredits/",
+    "scope": "Named character roles taken from the cited cast/character source. Main/Supporting/Antagonist are editorial classifications of story function, not labels from the source. Unestablished profile fields remain empty."
+  },
+  {
+    "title": "Lara Croft: Tomb Raider - The Cradle of Life",
+    "titleId": "tt0325703",
+    "source": "Paramount Pictures official film page",
+    "url": "https://www.paramountpictures.com/movies/lara-croft-tomb-raider-the-cradle-of-life",
+    "scope": "Named character roles taken from the cited cast/character source. Main/Supporting/Antagonist are editorial classifications of story function, not labels from the source. Unestablished profile fields remain empty."
+  },
+  {
+    "title": "Lara Croft: Tomb Raider",
+    "titleId": "tt0146316",
+    "source": "Paramount Pictures official film page",
+    "url": "https://www.paramountpictures.com/movies/lara-croft-tomb-raider",
+    "scope": "Named character roles taken from the cited cast/character source. Main/Supporting/Antagonist are editorial classifications of story function, not labels from the source. Unestablished profile fields remain empty."
+  },
+  {
+    "title": "The Raja Saab",
+    "titleId": "tt23790696",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt23790696/fullcredits/",
+    "scope": "Named character roles taken from the cited cast/character source. Main/Supporting/Antagonist are editorial classifications of story function, not labels from the source. Unestablished profile fields remain empty."
+  },
+  {
+    "title": "Om Shanti Shanti Shantihi",
+    "titleId": "tt34446638",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt34446638/fullcredits/",
+    "scope": "Named character roles taken from the cited cast/character source. Main/Supporting/Antagonist are editorial classifications of story function, not labels from the source. Unestablished profile fields remain empty."
+  },
+  {
+    "title": "Gandhi Talks",
+    "titleId": "tt8205190",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt8205190/fullcredits/",
+    "scope": "Named character roles taken from the cited cast/character source. Main/Supporting/Antagonist are editorial classifications of story function, not labels from the source. Unestablished profile fields remain empty."
+  },
+  {
+    "title": "Kennedy",
+    "titleId": "tt27502523",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt27502523/fullcredits/",
+    "scope": "Named character roles taken from the cited cast/character source. Main/Supporting/Antagonist are editorial classifications of story function, not labels from the source. Unestablished profile fields remain empty."
+  },
+  {
+    "title": "Firebreak",
+    "titleId": "tt33474179",
+    "source": "Netflix Tudum and official About Netflix announcement",
+    "url": "https://www.netflix.com/tudum/articles/firebreak-release-date-news",
+    "scope": "Character names and family relationships from Netflix’s official synopsis and cast announcement; no unconfirmed role name assigned to the child actor Mika Arias."
+  },
+  {
+    "title": "Any Body Can Dance 2",
+    "titleId": "tt3679000",
+    "source": "IMDb and Metacritic cast credits",
+    "url": "https://www.metacritic.com/movie/any-body-can-dance-2/credits/",
+    "scope": "Named character roles taken from the cited cast/character source. Main/Supporting/Antagonist are editorial classifications of story function, not labels from the source. Unestablished profile fields remain empty."
+  },
+  {
+    "title": "Boss",
+    "titleId": "tt2571140",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt2571140/fullcredits/",
+    "scope": "Named character roles from the cited credits/source. Main/Supporting/Antagonist are editorial classifications of narrative function, not labels supplied by the source. Unsupported profile details are left empty."
+  },
+  {
+    "title": "Good Newwz",
+    "titleId": "tt8504014",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt8504014/fullcredits/",
+    "scope": "Named character roles from the cited credits/source. Main/Supporting/Antagonist are editorial classifications of narrative function, not labels supplied by the source. Unsupported profile details are left empty."
+  },
+  {
+    "title": "Deewane Huye Paagal",
+    "titleId": "tt0444781",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt0444781/fullcredits/",
+    "scope": "Named character roles from the cited credits/source. Main/Supporting/Antagonist are editorial classifications of narrative function, not labels supplied by the source. Unsupported profile details are left empty."
+  },
+  {
+    "title": "Redux Redux",
+    "titleId": "tt33295741",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt33295741/fullcredits/",
+    "scope": "Named character roles from the cited credits/source. Main/Supporting/Antagonist are editorial classifications of narrative function, not labels supplied by the source. Unsupported profile details are left empty."
+  },
+  {
+    "title": "Even If This Love Disappears from the World Tonight",
+    "titleId": "tt39049192",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt39049192/fullcredits/",
+    "scope": "Named character roles from the cited credits/source. Main/Supporting/Antagonist are editorial classifications of narrative function, not labels supplied by the source. Unsupported profile details are left empty."
+  },
+  {
+    "title": "Check",
+    "titleId": "tt13199716",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt13199716/fullcredits/",
+    "scope": "Named character roles from the cited credits/source. Main/Supporting/Antagonist are editorial classifications of narrative function, not labels supplied by the source. Unsupported profile details are left empty."
+  },
+  {
+    "title": "Padi Padi Leche Manasu",
+    "titleId": "tt8093952",
+    "source": "IMDb and Rotten Tomatoes cast credits",
+    "url": "https://www.imdb.com/title/tt8093952/fullcredits/",
+    "scope": "Named character roles from the cited credits/source. Main/Supporting/Antagonist are editorial classifications of narrative function, not labels supplied by the source. Unsupported profile details are left empty."
+  },
+  {
+    "title": "Shatamanam Bhavati",
+    "titleId": "tt6417204",
+    "source": "Rotten Tomatoes full cast and synopsis",
+    "url": "https://www.rottentomatoes.com/m/sathamanam_bhavati/cast-and-crew",
+    "scope": "Named character roles from the cited credits/source. Main/Supporting/Antagonist are editorial classifications of narrative function, not labels supplied by the source. Unsupported profile details are left empty."
+  },
+  {
+    "title": "Mahanubhavudu",
+    "titleId": "tt7268732",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt7268732/fullcredits/",
+    "scope": "Named character roles from the cited credits/source. Main/Supporting/Antagonist are editorial classifications of narrative function, not labels supplied by the source. Unsupported profile details are left empty."
+  },
+  {
+    "title": "Run Raja Run",
+    "titleId": "tt3916700",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt3916700/fullcredits/",
+    "scope": "Named character roles from the cited credits/source. Main/Supporting/Antagonist are editorial classifications of narrative function, not labels supplied by the source. Unsupported profile details are left empty."
+  },
+  {
+    "title": "Express Raja",
+    "titleId": "tt5340534",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt5340534/fullcredits/",
+    "scope": "Named character roles from the cited credits/source. Main/Supporting/Antagonist are editorial classifications of narrative function, not labels supplied by the source. Unsupported profile details are left empty."
+  },
+  {
+    "title": "Nari Nari Naduma Murari",
+    "titleId": "tt29638896",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt29638896/fullcredits/",
+    "scope": "Named character roles from the cited credits/source. Main/Supporting/Antagonist are editorial classifications of narrative function, not labels supplied by the source. Unsupported profile details are left empty."
+  },
+  {
+    "title": "Awara Paagal Deewana",
+    "titleId": "tt0319020",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt0319020/fullcredits/",
+    "scope": "Named character roles from the cited credits/source. Main/Supporting/Antagonist are editorial classifications of narrative function, not labels supplied by the source. Unsupported profile details are left empty."
+  },
+  {
+    "title": "Dhurandhar",
+    "titleId": "tt33014583",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt33014583/fullcredits/",
+    "scope": "Named roles from full credits. Recurring characters with the sequel use shared IDs. Characters with uncertain or actor-only labels are not inferred."
+  },
+  {
+    "title": "Jaan-E-Mann: Let's Fall in Love... Again",
+    "titleId": "tt0456481",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt0456481/fullcredits/",
+    "scope": "Named character roles from the cited credits/source. Main/Supporting/Antagonist are editorial classifications of narrative function, not labels supplied by the source. Unsupported profile details are left empty."
+  },
+  {
+    "title": "Bhool Bhulaiyaa",
+    "titleId": "tt0995031",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt0995031/fullcredits/",
+    "scope": "Named character roles from the cited credits/source. Main/Supporting/Antagonist are editorial classifications of narrative function, not labels supplied by the source. Unsupported profile details are left empty."
+  },
+  {
+    "title": "Bhagam Bhag",
+    "titleId": "tt0805184",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt0805184/fullcredits/",
+    "scope": "Named character roles from the cited credits/source. Main/Supporting/Antagonist are editorial classifications of narrative function, not labels supplied by the source. Unsupported profile details are left empty."
+  },
+  {
+    "title": "Pad Man",
+    "titleId": "tt7218518",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt7218518/fullcredits/",
+    "scope": "Named character roles from the cited credits/source. Main/Supporting/Antagonist are editorial classifications of narrative function, not labels supplied by the source. Unsupported profile details are left empty."
+  },
+  {
+    "title": "Toilet: A Love Story",
+    "titleId": "tt5785170",
+    "source": "IMDb full cast and crew and Metacritic cast credits",
+    "url": "https://www.imdb.com/title/tt5785170/fullcredits/",
+    "scope": "Named character roles from the cited credits/source. Main/Supporting/Antagonist are editorial classifications of narrative function, not labels supplied by the source. Unsupported profile details are left empty."
+  },
+  {
+    "title": "Mission Mangal",
+    "titleId": "tt9248972",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt9248972/fullcredits/",
+    "scope": "Named character roles from the cited credits/source. Main/Supporting/Antagonist are editorial classifications of narrative function, not labels supplied by the source. Unsupported profile details are left empty."
+  },
+  {
+    "title": "Barfi!",
+    "titleId": "tt2082197",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt2082197/fullcredits/",
+    "scope": "Named character roles are taken from the cited cast/character source. Main/Supporting/Antagonist are editorial classifications of narrative function, not labels supplied by the source. Unsupported profile details remain empty."
+  },
+  {
+    "title": "Sholay",
+    "titleId": "tt0073707",
+    "source": "IMDb full cast and MIT Global Shakespeares film synopsis",
+    "url": "https://www.imdb.com/title/tt0073707/fullcredits/",
+    "scope": "Named character roles are taken from the cited cast/character source. Main/Supporting/Antagonist are editorial classifications of narrative function, not labels supplied by the source. Unsupported profile details remain empty."
+  },
+  {
+    "title": "Border",
+    "titleId": "tt0118751",
+    "source": "Bollywood Hungama cast listing and film cast references",
+    "url": "https://www.bollywoodhungama.com/movie/border/cast/",
+    "scope": "Named character roles are taken from the cited cast/character source. Main/Supporting/Antagonist are editorial classifications of narrative function, not labels supplied by the source. Unsupported profile details remain empty."
+  },
+  {
+    "title": "Tere Ishk Mein",
+    "titleId": "tt28142095",
+    "source": "IMDb full cast and top-cast roles",
+    "url": "https://www.imdb.com/title/tt28142095/fullcredits/",
+    "scope": "Named character roles are taken from the cited cast/character source. Main/Supporting/Antagonist are editorial classifications of narrative function, not labels supplied by the source. Unsupported profile details remain empty."
+  },
+  {
+    "title": "Gurram Paapi Reddy",
+    "titleId": "tt36815135",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt36815135/fullcredits/",
+    "scope": "Named character roles are taken from the cited cast/character source. Main/Supporting/Antagonist are editorial classifications of narrative function, not labels supplied by the source. Unsupported profile details remain empty."
+  },
+  {
+    "title": "Caught Stealing",
+    "titleId": "tt1493274",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt1493274/fullcredits/",
+    "scope": "Named character roles are taken from the cited cast/character source. Main/Supporting/Antagonist are editorial classifications of narrative function, not labels supplied by the source. Unsupported profile details remain empty."
+  },
+  {
+    "title": "The Running Man",
+    "titleId": "tt14107334",
+    "source": "IMDb full cast and film synopsis",
+    "url": "https://www.imdb.com/title/tt14107334/fullcredits/cast",
+    "scope": "Named roles are included where available from cast credits; supporting roles not established by the retrieved credit text are omitted."
+  },
+  {
+    "title": "The Rip",
+    "titleId": "tt32642706",
+    "source": "IMDb top cast and Rotten Tomatoes synopsis",
+    "url": "https://www.imdb.com/title/tt32642706/",
+    "scope": "Character role names from IMDb cast listing; team premise cross-checked against Rotten Tomatoes."
+  },
+  {
+    "title": "Bhartha Mahasayulaku Wignyapthi",
+    "titleId": "tt36017918",
+    "source": "FilmiBeat cast and crew and AMC synopsis",
+    "url": "https://filmibeat.com/telugu/movies/bhartha-mahasayulaku-wignyapthi/cast-crew.html",
+    "scope": "Named character roles are taken from the cited cast/character source. Main/Supporting/Antagonist are editorial classifications of narrative function, not labels supplied by the source. Unsupported profile details remain empty."
+  },
+  {
+    "title": "Mana ShankaraVaraprasad Garu",
+    "titleId": "tt28629017",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt28629017/fullcredits/",
+    "scope": "Named character roles are taken from the cited cast/character source. Main/Supporting/Antagonist are editorial classifications of narrative function, not labels supplied by the source. Unsupported profile details remain empty."
+  },
+  {
+    "title": "Ballerina",
+    "titleId": "tt7181546",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt7181546/fullcredits/",
+    "scope": "Named character roles are taken from the cited cast/character source. Main/Supporting/Antagonist are editorial classifications of narrative function, not labels supplied by the source. Unsupported profile details remain empty."
+  },
+  {
+    "title": "John Wick: Chapter 4",
+    "titleId": "tt10366206",
+    "source": "IMDb and Metacritic full cast credits",
+    "url": "https://www.imdb.com/title/tt10366206/fullcredits/",
+    "scope": "Named character roles are taken from the cited cast/character source. Main/Supporting/Antagonist are editorial classifications of narrative function, not labels supplied by the source. Unsupported profile details remain empty."
+  },
+  {
+    "title": "John Wick: Chapter 3 - Parabellum",
+    "titleId": "tt6146586",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt6146586/fullcredits/cast",
+    "scope": "Named character roles are taken from the cited cast/character source. Main/Supporting/Antagonist are editorial classifications of narrative function, not labels supplied by the source. Unsupported profile details remain empty."
+  },
+  {
+    "title": "John Wick: Chapter 2",
+    "titleId": "tt4425200",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt4425200/fullcredits/",
+    "scope": "Named character roles are taken from the cited cast/character source. Main/Supporting/Antagonist are editorial classifications of narrative function, not labels supplied by the source. Unsupported profile details remain empty."
+  },
+  {
+    "title": "John Wick",
+    "titleId": "tt2911666",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt2911666/fullcredits/cast",
+    "scope": "Named character roles are taken from the cited cast/character source. Main/Supporting/Antagonist are editorial classifications of narrative function, not labels supplied by the source. Unsupported profile details remain empty."
+  },
+  {
+    "title": "Jigris",
+    "titleId": "tt37495011",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt37495011/fullcredits/",
+    "scope": "Named character roles are taken from the cited cast/character source. Main/Supporting/Antagonist are editorial classifications of narrative function, not labels supplied by the source. Unsupported profile details remain empty."
+  },
+  {
+    "title": "Eko",
+    "titleId": "tt36616410",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt36616410/",
+    "scope": "Named character roles are taken from the cited cast/character source. Main/Supporting/Antagonist are editorial classifications of narrative function, not labels supplied by the source. Unsupported profile details remain empty."
+  },
+  {
+    "title": "Son of Sardaar",
+    "titleId": "tt2178508",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt2178508/fullcredits/",
+    "scope": "Named character roles are taken from the cited cast/character source. Main/Supporting/Antagonist are editorial classifications of narrative function, not labels supplied by the source. Unsupported profile details remain empty."
+  },
+  {
+    "title": "Maryada Ramanna",
+    "titleId": "tt1582546",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt1582546/fullcredits/",
+    "scope": "Named character roles are taken from the cited cast/character source. Main/Supporting/Antagonist are editorial classifications of narrative function, not labels supplied by the source. Unsupported profile details remain empty."
+  },
+  {
+    "title": "Baahubali: The Epic",
+    "titleId": "tt37893389",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt37893389/fullcredits/",
+    "scope": "The Epic is a recut compilation of Baahubali: The Beginning and The Conclusion; recurring characters use stable IDs, and credits explicitly identified as archive footage are still mapped to the same fictional identities."
+  },
+  {
+    "title": "Akhanda 2 - Thaandavam",
+    "titleId": "tt15387182",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt15387182/fullcredits/",
+    "scope": "Cast listing gives character labels for this title. Some entries appear to be credited names rather than independently described roles; brief descriptions are limited to what can be inferred safely from the label or film premise."
+  },
+  {
+    "title": "Transformers: Age of Extinction",
+    "titleId": "tt2109248",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt2109248/fullcredits/cast",
+    "scope": "Named character names/roles are transcribed from the cited cast listing. Main/Supporting/Antagonist are editorial classifications of narrative function; sources do not always label those categories. Unsupported profile fields remain empty."
+  },
+  {
+    "title": "Transformers: The Last Knight",
+    "titleId": "tt3371366",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt3371366/fullcredits/",
+    "scope": "Named character names/roles are transcribed from the cited cast listing. Main/Supporting/Antagonist are editorial classifications of narrative function; sources do not always label those categories. Unsupported profile fields remain empty."
+  },
+  {
+    "title": "Transformers: Dark of the Moon",
+    "titleId": "tt1399103",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt1399103/fullcredits/",
+    "scope": "Named character names/roles are transcribed from the cited cast listing. Main/Supporting/Antagonist are editorial classifications of narrative function; sources do not always label those categories. Unsupported profile fields remain empty."
+  },
+  {
+    "title": "Transformers: Rise of the Beasts",
+    "titleId": "tt5090568",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt5090568/fullcredits/cast",
+    "scope": "Named character names/roles are transcribed from the cited cast listing. Main/Supporting/Antagonist are editorial classifications of narrative function; sources do not always label those categories. Unsupported profile fields remain empty."
+  },
+  {
+    "title": "Transformers: Revenge of the Fallen",
+    "titleId": "tt1055369",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt1055369/fullcredits/",
+    "scope": "Named character names/roles are transcribed from the cited cast listing. Main/Supporting/Antagonist are editorial classifications of narrative function; sources do not always label those categories. Unsupported profile fields remain empty."
+  },
+  {
+    "title": "Transformers",
+    "titleId": "tt0418279",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt0418279/fullcredits/",
+    "scope": "Named character names/roles are transcribed from the cited cast listing. Main/Supporting/Antagonist are editorial classifications of narrative function; sources do not always label those categories. Unsupported profile fields remain empty."
+  },
+  {
+    "title": "Life",
+    "titleId": "tt5442430",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt5442430/fullcredits/",
+    "scope": "Named character names/roles are transcribed from the cited cast listing. Main/Supporting/Antagonist are editorial classifications of narrative function; sources do not always label those categories. Unsupported profile fields remain empty."
+  },
+  {
+    "title": "Oblivion",
+    "titleId": "tt1483013",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt1483013/fullcredits/",
+    "scope": "Named character names/roles are transcribed from the cited cast listing. Main/Supporting/Antagonist are editorial classifications of narrative function; sources do not always label those categories. Unsupported profile fields remain empty."
+  },
+  {
+    "title": "Passengers",
+    "titleId": "tt1355644",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt1355644/fullcredits/",
+    "scope": "Named character names/roles are transcribed from the cited cast listing. Main/Supporting/Antagonist are editorial classifications of narrative function; sources do not always label those categories. Unsupported profile fields remain empty."
+  },
+  {
+    "title": "First Man",
+    "titleId": "tt1213641",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt1213641/fullcredits/",
+    "scope": "Named character names/roles are transcribed from the cited cast listing. Main/Supporting/Antagonist are editorial classifications of narrative function; sources do not always label those categories. Unsupported profile fields remain empty."
+  },
+  {
+    "title": "Ad Astra",
+    "titleId": "tt2935510",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt2935510/fullcredits/",
+    "scope": "Named character names/roles are transcribed from the cited cast listing. Main/Supporting/Antagonist are editorial classifications of narrative function; sources do not always label those categories. Unsupported profile fields remain empty."
+  },
+  {
+    "title": "Gravity",
+    "titleId": "tt1454468",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt1454468/fullcredits/",
+    "scope": "Named character names/roles are transcribed from the cited cast listing. Main/Supporting/Antagonist are editorial classifications of narrative function; sources do not always label those categories. Unsupported profile fields remain empty."
+  },
+  {
+    "title": "Arrival",
+    "titleId": "tt2543164",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt2543164/fullcredits/cast",
+    "scope": "Named character names/roles are transcribed from the cited cast listing. Main/Supporting/Antagonist are editorial classifications of narrative function; sources do not always label those categories. Unsupported profile fields remain empty."
+  },
+  {
+    "title": "Moon",
+    "titleId": "tt1182345",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt1182345/fullcredits/",
+    "scope": "Named character names/roles are transcribed from the cited cast listing. Main/Supporting/Antagonist are editorial classifications of narrative function; sources do not always label those categories. Unsupported profile fields remain empty."
+  },
+  {
+    "title": "The Martian",
+    "titleId": "tt3659388",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt3659388/fullcredits/cast",
+    "scope": "Named character names/roles are transcribed from the cited cast listing. Main/Supporting/Antagonist are editorial classifications of narrative function; sources do not always label those categories. Unsupported profile fields remain empty."
+  },
+  {
+    "title": "Ditto",
+    "titleId": "tt22872370",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt22872370/fullcredits/",
+    "scope": "Named character names/roles are transcribed from the cited cast listing. Main/Supporting/Antagonist are editorial classifications of narrative function; sources do not always label those categories. Unsupported profile fields remain empty."
+  },
+  {
+    "title": "A Taxi Driver",
+    "titleId": "tt6878038",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt6878038/fullcredits/",
+    "scope": "Named character names/roles are transcribed from the cited cast listing. Main/Supporting/Antagonist are editorial classifications of narrative function; sources do not always label those categories. Unsupported profile fields remain empty."
+  },
+  {
+    "title": "Taxi Driver",
+    "titleId": "tt0075314",
+    "source": "IMDb full cast and crew; Rotten Tomatoes synopsis",
+    "url": "https://www.imdb.com/title/tt0075314/fullcredits/",
+    "scope": "Named character names/roles are transcribed from the cited cast listing. Main/Supporting/Antagonist are editorial classifications of narrative function; sources do not always label those categories. Unsupported profile fields remain empty."
+  },
+  {
+    "title": "Avatar: Fire and Ash",
+    "titleId": "tt1757678",
+    "source": "D23 character guide, Disney film page and Rotten Tomatoes cast list",
+    "url": "https://d23.com/meet-the-characters-of-avatar-fire-and-ash-new-and-returning/",
+    "scope": "Character names and principal roles cross-checked against D23, Disney and the cast listing. Some character/plot descriptions reflect publicly described franchise continuity; details not established for this particular installment are not expanded."
+  },
+  {
+    "title": "Ek Deewane Ki Deewaniyat",
+    "titleId": "tt35727678",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt35727678/fullcredits/",
+    "scope": "Character names are taken from the cited cast listing. Main/Supporting/Antagonist are editorial classifications; sources generally list cast credits, not these role categories. Unsupported profile fields remain empty."
+  },
+  {
+    "title": "Revolver Rita",
+    "titleId": "tt26319590",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt26319590/fullcredits/",
+    "scope": "Character names are taken from the cited cast listing. Main/Supporting/Antagonist are editorial classifications; sources generally list cast credits, not these role categories. Unsupported profile fields remain empty."
+  },
+  {
+    "title": "Andhra King Taluka",
+    "titleId": "tt32553651",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt32553651/fullcredits/",
+    "scope": "Character names are taken from the cited cast listing. Main/Supporting/Antagonist are editorial classifications; sources generally list cast credits, not these role categories. Unsupported profile fields remain empty."
+  },
+  {
+    "title": "Don't Buy the Seller",
+    "titleId": "tt22507484",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt22507484/fullcredits/",
+    "scope": "Character names are taken from the cited cast listing. Main/Supporting/Antagonist are editorial classifications; sources generally list cast credits, not these role categories. Unsupported profile fields remain empty."
+  },
+  {
+    "title": "Endless Rain",
+    "titleId": "tt14540764",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt14540764/fullcredits/",
+    "scope": "Character names are taken from the cited cast listing. Main/Supporting/Antagonist are editorial classifications; sources generally list cast credits, not these role categories. Unsupported profile fields remain empty."
+  },
+  {
+    "title": "Parasite",
+    "titleId": "tt6751668",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt6751668/fullcredits/",
+    "scope": "Character names are taken from the cited cast listing. Main/Supporting/Antagonist are editorial classifications; sources generally list cast credits, not these role categories. Unsupported profile fields remain empty."
+  },
+  {
+    "title": "My Worst Neighbor",
+    "titleId": "tt26736481",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt26736481/fullcredits/",
+    "scope": "Character names are taken from the cited cast listing. Main/Supporting/Antagonist are editorial classifications; sources generally list cast credits, not these role categories. Unsupported profile fields remain empty."
+  },
+  {
+    "title": "The Great Flood",
+    "titleId": "tt29927663",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt29927663/fullcredits/",
+    "scope": "Character names are taken from the cited cast listing. Main/Supporting/Antagonist are editorial classifications; sources generally list cast credits, not these role categories. Unsupported profile fields remain empty."
+  },
+  {
+    "title": "Dominic and the Ladies' Purse",
+    "titleId": "tt32887317",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt32887317/",
+    "scope": "Character names are taken from the cited cast listing. Main/Supporting/Antagonist are editorial classifications; sources generally list cast credits, not these role categories. Unsupported profile fields remain empty."
+  },
+  {
+    "title": "Premante",
+    "titleId": "tt32237099",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt32237099/",
+    "scope": "Character names are taken from the cited cast listing. Main/Supporting/Antagonist are editorial classifications; sources generally list cast credits, not these role categories. Unsupported profile fields remain empty."
+  },
+  {
+    "title": "Santhana Prapthirasthu",
+    "titleId": "tt33054635",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt33054635/fullcredits/",
+    "scope": "Character names are taken from the cited cast listing. Main/Supporting/Antagonist are editorial classifications; sources generally list cast credits, not these role categories. Unsupported profile fields remain empty."
+  },
+  {
+    "title": "Mass Jathara",
+    "titleId": "tt32135720",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt32135720/fullcredits/",
+    "scope": "Character names are taken from the cited cast listing. Main/Supporting/Antagonist are editorial classifications; sources generally list cast credits, not these role categories. Unsupported profile fields remain empty."
+  },
+  {
+    "title": "Aaromaley",
+    "titleId": "tt36587142",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt36587142/fullcredits/",
+    "scope": "Character names are taken from the cited cast listing. Main/Supporting/Antagonist are editorial classifications; sources generally list cast credits, not these role categories. Unsupported profile fields remain empty."
+  },
+  {
+    "title": "Bade Miyan Chote Miyan",
+    "titleId": "tt18072316",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt18072316/fullcredits/",
+    "scope": "Character names are taken from the cited cast listing. Main/Supporting/Antagonist are editorial classifications; sources generally list cast credits, not these role categories. Unsupported profile fields remain empty."
+  },
+  {
+    "title": "Padayappa",
+    "titleId": "tt0213969",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt0213969/fullcredits/cast",
+    "scope": "Character names are taken from the cited cast listing. Main/Supporting/Antagonist are editorial classifications; sources generally list cast credits, not these role categories. Unsupported profile fields remain empty."
+  },
+  {
+    "title": "30 Rojullo Preminchadam Ela?",
+    "titleId": "tt11739498",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt11739498/fullcredits/",
+    "scope": "Character names are taken from the cited cast listing. Main/Supporting/Antagonist are editorial classifications; sources generally list cast credits, not these role categories. Unsupported profile fields remain empty."
+  },
+  {
+    "title": "Kaantha",
+    "titleId": "tt28508934",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt28508934/fullcredits/",
+    "scope": "Character names are taken from the cited cast listing. Main/Supporting/Antagonist are editorial classifications; sources generally list cast credits, not these role categories. Unsupported profile fields remain empty."
+  },
+  {
+    "title": "A Nice Indian Boy",
+    "titleId": "tt16431330",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt16431330/fullcredits/cast",
+    "scope": "Character names are taken from the cited cast listing. Main/Supporting/Antagonist are editorial classifications; sources generally list cast credits, not these role categories. Unsupported profile fields remain empty."
+  },
+  {
+    "title": "She Rides Shotgun",
+    "titleId": "tt27986457",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt27986457/fullcredits/",
+    "scope": "Character names are taken from the cited cast listing. Main/Supporting/Antagonist are editorial classifications; sources generally list cast credits, not these role categories. Unsupported profile fields remain empty."
+  },
+  {
+    "title": "Paanch Minar",
+    "titleId": "tt36188425",
+    "source": "Filmibeat cast listing",
+    "url": "https://filmibeat.com/telugu/movies/paanch-minar/cast-crew.html",
+    "scope": "Character names are taken from the cited cast listing. Main/Supporting/Antagonist are editorial classifications; sources generally list cast credits, not these role categories. Unsupported profile fields remain empty."
+  },
+  {
+    "title": "The Pet Detective",
+    "titleId": "tt33333712",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt33333712/fullcredits/",
+    "scope": "Character names are taken from the cited cast listing. Main/Supporting/Antagonist are editorial classifications. Only plot/profile facts supported by the cited material are populated; other fields remain empty."
+  },
+  {
+    "title": "Extra Ordinary Man",
+    "titleId": "tt23846664",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt23846664/fullcredits/",
+    "scope": "Character names are taken from the cited cast listing. Main/Supporting/Antagonist are editorial classifications. Only plot/profile facts supported by the cited material are populated; other fields remain empty."
+  },
+  {
+    "title": "Aan Paavam Pollathathu",
+    "titleId": "tt32284122",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt32284122/fullcredits/",
+    "scope": "Character names are taken from the cited cast listing. Main/Supporting/Antagonist are editorial classifications. Only plot/profile facts supported by the cited material are populated; other fields remain empty."
+  },
+  {
+    "title": "The Bengal Files",
+    "titleId": "tt15416342",
+    "source": "CBFC official certification record",
+    "url": "https://www.cbfcindia.gov.in/cbfcAdmin/search-result.php?recid=Q0EwMTExMDYyMDI1MDAxNTI%3D",
+    "scope": "CBFC supplies the plot summary and main/supporting actor lists, while IMDb supplies named cast roles. Role classifications here are editorial; where the cast excerpt did not identify a character name, no invented name was created."
+  },
+  {
+    "title": "Ufff Yeh Siyapaa",
+    "titleId": "tt37867075",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt37867075/fullcredits/",
+    "scope": "Character names are taken from the cited cast listing. Main/Supporting/Antagonist are editorial classifications. Only plot/profile facts supported by the cited material are populated; other fields remain empty."
+  },
+  {
+    "title": "Ek Chatur Naar",
+    "titleId": "tt37970307",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt37970307/fullcredits/",
+    "scope": "Character names are taken from the cited cast listing. Main/Supporting/Antagonist are editorial classifications. Only plot/profile facts supported by the cited material are populated; other fields remain empty."
+  },
+  {
+    "title": "Jolly LLB 3",
+    "titleId": "tt27996020",
+    "source": "BollywoodMDB cast listing",
+    "url": "https://www.bollywoodmdb.com/movie/jolly-llb-3-18039/cast-crew",
+    "scope": "Character names are taken from the cited cast listing. Main/Supporting/Antagonist are editorial classifications. Only plot/profile facts supported by the cited material are populated; other fields remain empty."
+  },
+  {
+    "title": "Homebound",
+    "titleId": "tt26733325",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt26733325/fullcredits/",
+    "scope": "Character names are taken from the cited cast listing. Main/Supporting/Antagonist are editorial classifications. Only plot/profile facts supported by the cited material are populated; other fields remain empty."
+  },
+  {
+    "title": "K-Ramp",
+    "titleId": "tt35665459",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt35665459/fullcredits/",
+    "scope": "IMDb excerpt identifies Mercy Joy as a character but does not expose a role name for the lead actor in the retrieved cast text. No actor name is substituted as a fictional character name."
+  },
+  {
+    "title": "Lokah Chapter One: Chandra",
+    "titleId": "tt33372494",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt33372494/fullcredits/",
+    "scope": "Character names and credits are taken from IMDb; the yakshi identity and character connections are cross-checked against the Lokah character listing and Onmanorama reporting. Role classifications are editorial."
+  },
+  {
+    "title": "Mithra Mandali",
+    "titleId": "tt37273405",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt37273405/fullcredits/",
+    "scope": "Character names are taken from the cited cast listing. Main/Supporting/Antagonist are editorial classifications. Only plot/profile facts supported by the cited material are populated; other fields remain empty."
+  },
+  {
+    "title": "Avihitham",
+    "titleId": "tt38202962",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt38202962/fullcredits/",
+    "scope": "Character names are taken from the cited cast listing. Main/Supporting/Antagonist are editorial classifications. Only plot/profile facts supported by the cited material are populated; other fields remain empty."
+  },
+  {
+    "title": "Idli Kadai",
+    "titleId": "tt33029024",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt33029024/fullcredits/",
+    "scope": "Character names are taken from the cited cast listing. Main/Supporting/Antagonist are editorial classifications. Only plot/profile facts supported by the cited material are populated; other fields remain empty."
+  },
+  {
+    "title": "Blade Runner 2049",
+    "titleId": "tt1856101",
+    "source": "Rotten Tomatoes cast and synopsis",
+    "url": "https://www.rottentomatoes.com/m/blade_runner_2049/cast-and-crew",
+    "scope": "Character names are taken from the cited cast listing. Main/Supporting/Antagonist are editorial classifications. Only plot/profile facts supported by the cited material are populated; other fields remain empty."
+  },
+  {
+    "title": "Madharaasi",
+    "titleId": "tt28252563",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt28252563/fullcredits/",
+    "scope": "Character names are taken from the cited cast listing. Main/Supporting/Antagonist are editorial classifications. Only plot/profile facts supported by the cited material are populated; other fields remain empty."
+  },
+  {
+    "title": "War 2",
+    "titleId": "tt27425164",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt27425164/fullcredits/",
+    "scope": "Character names and military roles are cross-checked against the cast listing and the film synopsis. Main/Supporting categories are editorial; Kabir and Vikram are both treated as main protagonists despite being opposed."
+  },
+  {
+    "title": "My Best Friend's Wedding",
+    "titleId": "tt5275314",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt5275314/fullcredits/",
+    "scope": "Character names are taken from the cited cast listing. Main/Supporting/Antagonist are editorial classifications. Only plot/profile facts supported by the cited material are populated; other fields remain empty."
+  },
+  {
+    "title": "Love Untangled",
+    "titleId": "tt33549683",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt33549683/fullcredits/",
+    "scope": "Character names are taken from the cited cast listing. Main/Supporting/Antagonist are editorial classifications. Only plot/profile facts supported by the cited material are populated; other fields remain empty."
+  },
+  {
+    "title": "Good News",
+    "titleId": "tt33550069",
+    "source": "Rotten Tomatoes cast and synopsis",
+    "url": "https://www.rottentomatoes.com/m/good_news_2025/cast-and-crew",
+    "scope": "Character names are taken from the cited cast listing. Main/Supporting/Antagonist are editorial classifications. Only plot/profile facts supported by the cited material are populated; other fields remain empty."
+  },
+  {
+    "title": "Agnyaathavaasi: Prince in Exile",
+    "titleId": "tt7711342",
+    "source": "Wikipedia cast and plot; cross-checked with Filmibeat cast listing",
+    "url": "https://en.wikipedia.org/wiki/Agnyaathavaasi",
+    "scope": "Character names and credited role names are taken from the cited cast listing. Main/Supporting/Antagonist labels are editorial classifications. Only supported biographical and relationship facts are populated; unsupported fields remain empty."
+  },
+  {
+    "title": "Thammudu",
+    "titleId": "tt0240084",
+    "source": "IMDb full credits; role details cross-checked with https://en.wikipedia.org/wiki/Thammudu",
+    "url": "https://www.imdb.com/title/tt0240084/fullcredits/",
+    "scope": "Character names and credited role names are taken from the cited cast listing. Main/Supporting/Antagonist labels are editorial classifications. Only supported biographical and relationship facts are populated; unsupported fields remain empty."
+  },
+  {
+    "title": "They Call Him OG",
+    "titleId": "tt24060892",
+    "source": "Moviefone cast and character list; IMDb and FilmiBeat cross-check",
+    "url": "https://www.moviefone.com/movie/dvv-production-no-6/7WbStafEMnt6wYqnEGpes5/credits/",
+    "scope": "Character names and credited role names are taken from the cited cast listing. Main/Supporting/Antagonist labels are editorial classifications. Only supported biographical and relationship facts are populated; unsupported fields remain empty."
+  },
+  {
+    "title": "Mirai",
+    "titleId": "tt30858568",
+    "source": "Wikipedia cast list; character roles and relationships from plot/cast references",
+    "url": "https://en.wikipedia.org/wiki/Mirai_(2025_film)",
+    "scope": "Character names and credited role names are taken from the cited cast listing. Main/Supporting/Antagonist labels are editorial classifications. Only supported biographical and relationship facts are populated; unsupported fields remain empty."
+  },
+  {
+    "title": "Kantara: A Legend - Chapter 1",
+    "titleId": "tt26439764",
+    "source": "Wikipedia cast list; cross-checked with IMDb and Filmibeat cast credits",
+    "url": "https://en.wikipedia.org/wiki/Kantara:_Chapter_1",
+    "scope": "Character names and credited role names are taken from the cited cast listing. Main/Supporting/Antagonist labels are editorial classifications. Only supported biographical and relationship facts are populated; unsupported fields remain empty."
+  },
+  {
+    "title": "Little Hearts",
+    "titleId": "tt37962245",
+    "source": "Wikipedia plot and cast list; IMDb credits used for cross-check",
+    "url": "https://en.wikipedia.org/wiki/Little_Hearts_(2025_film)",
+    "scope": "Character names and credited role names are taken from the cited cast listing. Main/Supporting/Antagonist labels are editorial classifications. Only supported biographical and relationship facts are populated; unsupported fields remain empty."
+  },
+  {
+    "title": "Hridayapoorvam",
+    "titleId": "tt30818546",
+    "source": "Fandango cast and crew",
+    "url": "https://www.fandango.com/hridayapoorvam-2025-241826/cast-and-crew",
+    "scope": "Character names and credited role names are taken from the cited cast listing. Main/Supporting/Antagonist labels are editorial classifications. Only supported biographical and relationship facts are populated; unsupported fields remain empty."
+  },
+  {
+    "title": "Materialists",
+    "titleId": "tt30253473",
+    "source": "IMDb full cast and crew; plot details cross-checked with distributor synopsis",
+    "url": "https://www.imdb.com/title/tt30253473/fullcredits/",
+    "scope": "Character names and credited role names are taken from the cited cast listing. Main/Supporting/Antagonist labels are editorial classifications. Only supported biographical and relationship facts are populated; unsupported fields remain empty."
+  },
+  {
+    "title": "Inspector Zende",
+    "titleId": "tt35076553",
+    "source": "IMDb full cast and crew; Netflix synopsis/cast cross-check",
+    "url": "https://www.imdb.com/title/tt35076553/fullcredits/",
+    "scope": "Character names and credited role names are taken from the cited cast listing. Main/Supporting/Antagonist labels are editorial classifications. Only supported biographical and relationship facts are populated; unsupported fields remain empty."
+  },
+  {
+    "title": "Limitless",
+    "titleId": "tt1219289",
+    "source": "Rotten Tomatoes full cast and synopsis; IMDb full credits cross-check",
+    "url": "https://www.rottentomatoes.com/m/limitless/cast-and-crew",
+    "scope": "Character names and credited role names are taken from the cited cast listing. Main/Supporting/Antagonist labels are editorial classifications. Only supported biographical and relationship facts are populated; unsupported fields remain empty."
+  },
+  {
+    "title": "The Thursday Murder Club",
+    "titleId": "tt12001534",
+    "source": "Netflix official synopsis and cast; IMDb full credits for character names",
+    "url": "https://www.netflix.com/tudum/articles/thursday-murder-club-cast-release-date-plot",
+    "scope": "Character names and credited role names are taken from the cited cast listing. Main/Supporting/Antagonist labels are editorial classifications. Only supported biographical and relationship facts are populated; unsupported fields remain empty."
+  },
+  {
+    "title": "Thunderbolts*",
+    "titleId": "tt20969586",
+    "source": "Marvel official movie overview and Disney official cast/character identification",
+    "url": "https://www.marvel.com/movies/thunderbolts",
+    "scope": "Character names and credited role names are taken from the cited cast listing. Main/Supporting/Antagonist labels are editorial classifications. Only supported biographical and relationship facts are populated; unsupported fields remain empty."
+  },
+  {
+    "title": "KothaPallilo Okappudu",
+    "titleId": "tt37501723",
+    "source": "Wikipedia plot and cast; IMDb credits cross-check. Only named characters and explicitly credited role names are included.",
+    "url": "https://en.wikipedia.org/wiki/Kothapallilo_Okappadu",
+    "scope": "Character names and credited role names are taken from the cited cast listing. Main/Supporting/Antagonist labels are editorial classifications. Only supported biographical and relationship facts are populated; unsupported fields remain empty."
+  },
+  {
+    "title": "Kingdom",
+    "titleId": "tt11773426",
+    "source": "Wikipedia plot and character cast; IMDb full cast cross-check",
+    "url": "https://en.wikipedia.org/wiki/Kingdom_(2025_film)",
+    "scope": "Character names and credited role names are taken from the cited cast listing. Main/Supporting/Antagonist labels are editorial classifications. Only supported biographical and relationship facts are populated; unsupported fields remain empty."
+  },
+  {
+    "title": "Thalaivan Thalaivii",
+    "titleId": "tt32827713",
+    "source": "IMDb full cast and crew",
+    "url": "https://www.imdb.com/title/tt32827713/fullcredits/",
+    "scope": "Character names and credited role names are taken from the cited cast listing. Main/Supporting/Antagonist labels are editorial classifications. Only supported biographical and relationship facts are populated; unsupported fields remain empty."
+  },
+  {
+    "title": "Maareesan",
+    "titleId": "tt29383191",
+    "source": "Wikipedia plot; IMDb full cast cross-check",
+    "url": "https://en.wikipedia.org/wiki/Maareesan",
+    "scope": "Character names and credited role names are taken from the cited cast listing. Main/Supporting/Antagonist labels are editorial classifications. Only supported biographical and relationship facts are populated; unsupported fields remain empty."
+  },
+  {
+    "title": "Coolie",
+    "titleId": "tt27441481",
+    "source": "Wikipedia character cast list; Cinema.com cast listing cross-check",
+    "url": "https://en.wikipedia.org/wiki/Coolie_(2025_film)",
+    "scope": "Character names and credited role names are taken from the cited cast listing. Main/Supporting/Antagonist labels are editorial classifications. Only supported biographical and relationship facts are populated; unsupported fields remain empty."
+  },
+  {
+    "title": "Aagadu",
+    "titleId": "tt2988020",
+    "source": "Flickchart credits and IMDb full cast; character roles taken from the listed credits",
+    "url": "https://www.flickchart.com/movie/aagadu/credits",
+    "scope": "Character names and credited role names are taken from the cited cast listing. Main/Supporting/Antagonist labels are editorial classifications. Only supported biographical and relationship facts are populated; unsupported fields remain empty."
+  },
+  {
+    "title": "Dookudu",
+    "titleId": "tt1756476",
+    "source": "Apple TV character cast and synopsis; IMDb/Filmibeat cast cross-check",
+    "url": "https://tv.apple.com/in/movie/dookudu/umc.cmc.kf141tsby0a3ggi84nk0ny76",
+    "scope": "Character names and credited role names are taken from the cited cast listing. Main/Supporting/Antagonist labels are editorial classifications. Only supported biographical and relationship facts are populated; unsupported fields remain empty."
+  },
+  {
+    "title": "Parugu",
+    "titleId": "tt1198349",
+    "source": "IMDb full cast and crew; plot synopsis and supporting cast cross-check",
+    "url": "https://www.imdb.com/title/tt1198349/fullcredits/",
+    "scope": "Character names and credited role names are taken from the cited cast listing. Main/Supporting/Antagonist labels are editorial classifications. Only supported biographical and relationship facts are populated; unsupported fields remain empty."
+  },
+  {
+    "title": "Michael",
+    "titleId": "tt11378946",
+    "source": "IMDb; Rotten Tomatoes; Cinemate",
+    "url": "https://www.imdb.com/title/tt11378946/fullcredits/",
+    "scope": "Web-researched cast and crew. This record includes selected principal and named character credits from the available full-credit listing, not every background performer or dancer. The film depicts real people. Character biographies are limited to their role in the film and do not claim to be complete biographies."
+  },
+  {
+    "title": "Kenatha Kanom",
+    "titleId": "tt31455863",
+    "source": "IMDb",
+    "url": "https://www.imdb.com/title/tt31455863/fullcredits/",
+    "scope": "Web-researched cast and crew. The reviewed credits list actors but do not establish character names. The app should display the performers without an invented 'as Character' label."
+  },
+  {
+    "title": "Chiranjeeva",
+    "titleId": "tt38589147",
+    "source": "IMDb",
+    "url": "https://www.imdb.com/title/tt38589147/fullcredits/",
+    "scope": "Web-researched cast and crew. The reviewed credits provide performer names and crew roles, but do not identify character names for the listed cast."
+  },
+  {
+    "title": "Seethamma Vaakitlo Sirimalle Chettu",
+    "titleId": "tt2198161",
+    "source": "IMDb; Rotten Tomatoes",
+    "url": "https://www.imdb.com/title/tt2198161/fullcredits/",
+    "scope": "Web-researched cast and crew. The credits contain descriptive role names for several family members rather than personal character names. Those source labels are retained as given."
+  },
+  {
+    "title": "Yamadonga",
+    "titleId": "tt0924317",
+    "source": "IMDb; Rotten Tomatoes",
+    "url": "https://www.imdb.com/title/tt0924317/fullcredits/",
+    "scope": "Web-researched cast and crew. The character-role classifications are editorial labels based on their narrative prominence; actor and character names follow the published credits."
+  }
+]

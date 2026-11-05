@@ -1,0 +1,23 @@
+[
+  {
+    "id": "tool_ben10_omnitrix",
+    "name": "Omnitrix",
+    "image": "",
+    "description": "A watch-like alien device discovered by Ben Tennyson. Cartoon Network’s official material states that it allows Ben to transform into a range of alien heroes.",
+    "category": "Alien DNA Transformation Device",
+    "ownerIds": [
+      "ben10_ben"
+    ],
+    "origin": "An alien device discovered by Ben Tennyson. The source used here establishes its transformation function, not its full creation history.",
+    "functions": [
+      "Allows its wearer to transform into stored alien forms."
+    ],
+    "limitations": [
+      "The exact limitations vary across the different Ben 10 series and are not consolidated in this entry."
+    ],
+    "specialFeatures": [
+      "Stores alien forms",
+      "Enables temporary transformation into alien heroes"
+    ]
+  }
+]

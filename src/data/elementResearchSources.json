@@ -1,0 +1,56 @@
+[
+  {
+    "titleId": "tt10350922",
+    "title": "Laxmii",
+    "elementType": "power",
+    "elementId": "power_spirit_possession_laxmii",
+    "publisher": "CBFC Watch (CBFC synopsis transcription)",
+    "url": "https://cbfc.watch/film/laxmii-2020",
+    "supports": "Synopsis states that Aasif is possessed by the spirit of a transgender person seeking revenge."
+  },
+  {
+    "titleId": "tt10350922",
+    "title": "Laxmii",
+    "elementType": "power",
+    "elementId": "power_spirit_possession_laxmii",
+    "publisher": "Gadgets 360",
+    "url": "https://www.gadgets360.com/entertainment/laxmmi-bomb-movie-90064",
+    "supports": "Film synopsis says the spirit possesses Aasif after he disturbs the buried body."
+  },
+  {
+    "titleId": "tt10350922",
+    "title": "Laxmii",
+    "elementType": "character",
+    "elementId": "char_laxmi_350922",
+    "publisher": "TV Guide",
+    "url": "https://www.tvguide.com/movies/laxmii/2030462050/",
+    "supports": "Synopsis describes the haunting spirit possessing Asif; cast section lists Akshay Kumar as Asif, Kiara Advani as Rashmi, and Sharad Kelkar as Laxmi."
+  },
+  {
+    "titleId": "tt0924317",
+    "title": "Yamadonga",
+    "elementType": "weapon",
+    "elementId": "weapon_yama_paasam_yamadonga",
+    "publisher": "Filmibeat",
+    "url": "https://www.filmibeat.com/telugu/reviews/2007/yamadonga-review-160807.html",
+    "supports": "Plot review calls the Paasam the rope by which Yama punishes people, states Raja steals it, and says possession makes the holder Yama."
+  },
+  {
+    "titleId": "tt0924317",
+    "title": "Yamadonga",
+    "elementType": "character",
+    "elementId": "char_yama_dharmaraju_924317",
+    "publisher": "Apple TV",
+    "url": "https://tv.apple.com/in/movie/yamadonga/umc.cmc.x30dap4xuvtxfi9pviwv7jsw",
+    "supports": "Official platform synopsis identifies Yama as the vengeful god of death."
+  },
+  {
+    "titleId": "tt0924317",
+    "title": "Yamadonga",
+    "elementType": "character",
+    "elementId": "char_raja_924317",
+    "publisher": "Filmibeat",
+    "url": "https://www.filmibeat.com/telugu/reviews/2007/yamadonga-review-160807.html",
+    "supports": "Plot review identifies Raja as a thief who enters the conflict with Yama and steals the Paasam."
+  }
+]

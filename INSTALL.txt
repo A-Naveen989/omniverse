@@ -1,0 +1,20 @@
+OMNIVERSE — UPDATED PROJECT
+
+1. Extract the archive.
+2. Open a terminal in Omniverse/project.
+3. Install dependencies on your computer:
+
+   npm install
+
+4. Start the development server:
+
+   npm run dev
+
+5. Check the production build:
+
+   npm run build
+
+The archive intentionally excludes node_modules. Do not copy the old node_modules folder from another operating system. Use npm install to create a local dependency installation.
+
+See INTEGRATION_NOTES.md for the updated character database integration, known limitations, and test URLs.
+Anime data: `src/data/anime.json` contains 108 cleaned records (68 movies, 37 TV series, 2 TV mini-series, and 1 video; no individual episodes). The Anime page is available at `/anime`; each Anime card opens `/anime/:titleId`. A version-2 local-storage migration removes the 30 episode entries from the previous import.

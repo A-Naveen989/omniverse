@@ -1,0 +1,131 @@
+[
+  {
+    "id": "tech_demon_water_breathing",
+    "name": "Water Breathing",
+    "image": "",
+    "description": "A swordsmanship style used by Tanjiro Kamado and Giyu Tomioka. The official Demon Slayer character materials identify both characters with this style.",
+    "category": "Breathing Style",
+    "userIds": [
+      "demon_slayer_tanjiro",
+      "demon_slayer_giyu"
+    ],
+    "origin": "Demon Slayer Corps swordsmanship training.",
+    "powerIds": [],
+    "strengths": [],
+    "weaknesses": [],
+    "specialEffects": [],
+    "requirements": [
+      "Demon Slayer swordsmanship training"
+    ]
+  },
+  {
+    "id": "tech_demon_hinokami_kagura",
+    "name": "Hinokami Kagura",
+    "image": "",
+    "description": "A traditional dance technique used by Tanjiro Kamado in combat; official anime material identifies Tanjiro as a user.",
+    "category": "Breathing / Sword Technique",
+    "userIds": [
+      "demon_slayer_tanjiro"
+    ],
+    "origin": "Kamado family tradition; further history is not expanded in this record.",
+    "powerIds": [],
+    "strengths": [],
+    "weaknesses": [],
+    "specialEffects": [],
+    "requirements": []
+  },
+  {
+    "id": "tech_demon_thunder_breathing",
+    "name": "Thunder Breathing",
+    "image": "",
+    "description": "A swordsmanship style used by Zenitsu Agatsuma. Official Demon Slayer character materials identify him as its wielder.",
+    "category": "Breathing Style",
+    "userIds": [
+      "demon_slayer_zenitsu"
+    ],
+    "origin": "Demon Slayer Corps swordsmanship training.",
+    "powerIds": [],
+    "strengths": [],
+    "weaknesses": [],
+    "specialEffects": [],
+    "requirements": [
+      "Demon Slayer swordsmanship training"
+    ]
+  },
+  {
+    "id": "tech_demon_beast_breathing",
+    "name": "Beast Breathing",
+    "image": "",
+    "description": "A swordsmanship style used by Inosuke Hashibira. Official Demon Slayer character materials identify him as its user.",
+    "category": "Breathing Style",
+    "userIds": [
+      "demon_slayer_inosuke"
+    ],
+    "origin": "Inosuke’s self-developed combat style, as represented in the anime character materials.",
+    "powerIds": [],
+    "strengths": [],
+    "weaknesses": [],
+    "specialEffects": [],
+    "requirements": []
+  },
+  {
+    "id": "tech_jjk_ten_shadows",
+    "name": "Ten Shadows Technique",
+    "image": "",
+    "description": "A hereditary Zenin-family jujutsu technique used by Megumi Fushiguro.",
+    "category": "Cursed Technique",
+    "userIds": [
+      "jujutsu_megumi"
+    ],
+    "origin": "Zenin family inherited technique.",
+    "powerIds": [
+      "power_jjk_ten_shadows"
+    ],
+    "strengths": [],
+    "weaknesses": [],
+    "specialEffects": [],
+    "requirements": [
+      "Cursed technique use"
+    ]
+  },
+  {
+    "id": "tech_jjk_construction",
+    "name": "Construction Technique",
+    "image": "",
+    "description": "Mai Zenin’s cursed technique constructs matter from cursed energy.",
+    "category": "Cursed Technique",
+    "userIds": [
+      "jujutsu_mai_zenin"
+    ],
+    "origin": "Mai Zenin’s innate cursed technique.",
+    "powerIds": [
+      "power_jjk_construction"
+    ],
+    "strengths": [],
+    "weaknesses": [],
+    "specialEffects": [],
+    "requirements": [
+      "Cursed energy"
+    ]
+  },
+  {
+    "id": "tech_jjk_cursed_speech",
+    "name": "Cursed Speech",
+    "image": "",
+    "description": "A cursed technique used by Toge Inumaki. Its commands are delivered through speech.",
+    "category": "Cursed Technique",
+    "userIds": [
+      "jujutsu_toge"
+    ],
+    "origin": "Inumaki family inherited technique.",
+    "powerIds": [
+      "power_jjk_cursed_speech"
+    ],
+    "strengths": [],
+    "weaknesses": [],
+    "specialEffects": [],
+    "requirements": [
+      "Spoken command"
+    ]
+  }
+]

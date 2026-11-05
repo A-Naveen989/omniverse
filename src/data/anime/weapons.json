@@ -1,0 +1,20 @@
+[
+  {
+    "id": "weapon_jjk_playful_cloud",
+    "name": "Playful Cloud",
+    "image": "",
+    "description": "A special-grade cursed tool in the form of a three-section staff. A reputable ORICON feature on Maki Zenin describes her expertise with cursed tools and identifies Playful Cloud as one of the weapons in her arsenal.",
+    "category": "Cursed Tool / Three-section Staff",
+    "wielderIds": [
+      "jujutsu_maki"
+    ],
+    "origin": "A special-grade cursed tool in the Jujutsu Kaisen continuity; detailed creation history is not verified in the current source set.",
+    "strengths": [
+      "Destructive output is closely tied to the wielder’s physical strength."
+    ],
+    "weaknesses": [],
+    "specialAbilities": [
+      "Functions as a close-range three-section staff; no unique innate technique is assigned in the source used."
+    ]
+  }
+]

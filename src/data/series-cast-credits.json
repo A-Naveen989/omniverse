@@ -1,0 +1,4622 @@
+[
+  {
+    "titleId": "tt2357547",
+    "characterId": "char_series_trish_walker",
+    "character": "Patricia 'Trish' Walker",
+    "actor": "Rachael Taylor",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt2357547",
+    "characterId": "char_series_luke_cage",
+    "character": "Luke Cage",
+    "actor": "Mike Colter",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt2357547",
+    "characterId": "char_series_malcolm_ducasse",
+    "character": "Malcolm Ducasse",
+    "actor": "Eka Darville",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt2357547",
+    "characterId": "char_series_jeri_hogarth",
+    "character": "Jeri Hogarth",
+    "actor": "Carrie-Anne Moss",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt2357547",
+    "characterId": "char_series_kilgrave",
+    "character": "Kilgrave (Kevin Thompson)",
+    "actor": "David Tennant",
+    "role": "Antagonist"
+  },
+  {
+    "titleId": "tt2357547",
+    "characterId": "char_series_will_simpson",
+    "character": "Will Simpson",
+    "actor": "Wil Traval",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt2357547",
+    "characterId": "char_series_hope_shlottman",
+    "character": "Hope Shlottman",
+    "actor": "Erin Moriarty",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt3322312",
+    "characterId": "char_series_matt_murdock",
+    "character": "Matt Murdock / Daredevil",
+    "actor": "Charlie Cox",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt3322312",
+    "characterId": "char_series_foggy_nelson",
+    "character": "Franklin 'Foggy' Nelson",
+    "actor": "Elden Henson",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt3322312",
+    "characterId": "char_series_karen_page",
+    "character": "Karen Page",
+    "actor": "Deborah Ann Woll",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt3322312",
+    "characterId": "char_series_wilson_fisk",
+    "character": "Wilson Fisk / Kingpin",
+    "actor": "Vincent D'Onofrio",
+    "role": "Antagonist"
+  },
+  {
+    "titleId": "tt3322312",
+    "characterId": "char_series_vanessa_fisk",
+    "character": "Vanessa Marianna-Fisk",
+    "actor": "Ayelet Zurer",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt3322312",
+    "characterId": "char_series_claire_temple",
+    "character": "Claire Temple",
+    "actor": "Rosario Dawson",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt3322312",
+    "characterId": "char_series_elektra_natchios",
+    "character": "Elektra Natchios",
+    "actor": "Élodie Yung",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt3322312",
+    "characterId": "char_series_stick",
+    "character": "Stick",
+    "actor": "Scott Glenn",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt18923754",
+    "characterId": "char_series_matt_murdock",
+    "character": "Matt Murdock / Daredevil",
+    "actor": "Charlie Cox",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt18923754",
+    "characterId": "char_series_wilson_fisk",
+    "character": "Wilson Fisk / Kingpin",
+    "actor": "Vincent D'Onofrio",
+    "role": "Antagonist"
+  },
+  {
+    "titleId": "tt18923754",
+    "characterId": "char_series_karen_page",
+    "character": "Karen Page",
+    "actor": "Deborah Ann Woll",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt18923754",
+    "characterId": "char_series_foggy_nelson",
+    "character": "Franklin 'Foggy' Nelson",
+    "actor": "Elden Henson",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt18923754",
+    "characterId": "char_series_vanessa_fisk",
+    "character": "Vanessa Marianna-Fisk",
+    "actor": "Ayelet Zurer",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt18923754",
+    "characterId": "char_series_frank_castle",
+    "character": "Frank Castle / The Punisher",
+    "actor": "Jon Bernthal",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt18923754",
+    "characterId": "char_series_heather_glenn",
+    "character": "Heather Glenn",
+    "actor": "Margarita Levieva",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt18923754",
+    "characterId": "char_series_kirsten_mcduffie",
+    "character": "Kirsten McDuffie",
+    "actor": "Nikki M. James",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt18923754",
+    "characterId": "char_series_bb_urich",
+    "character": "BB Urich",
+    "actor": "Genneya Walton",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt18923754",
+    "characterId": "char_series_muse_born_again",
+    "character": "Muse",
+    "actor": "Hunter Doohan",
+    "role": "Antagonist"
+  },
+  {
+    "titleId": "tt5675620",
+    "characterId": "char_series_frank_castle",
+    "character": "Frank Castle / The Punisher",
+    "actor": "Jon Bernthal",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt5675620",
+    "characterId": "char_series_billy_russo",
+    "character": "Billy Russo",
+    "actor": "Ben Barnes",
+    "role": "Antagonist"
+  },
+  {
+    "titleId": "tt5675620",
+    "characterId": "char_series_dinah_madani",
+    "character": "Dinah Madani",
+    "actor": "Amber Rose Revah",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt5675620",
+    "characterId": "char_series_david_lieberman",
+    "character": "David 'Micro' Lieberman",
+    "actor": "Ebon Moss-Bachrach",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt5675620",
+    "characterId": "char_series_curtis_hoyle",
+    "character": "Curtis Hoyle",
+    "actor": "Jason R. Moore",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt5675620",
+    "characterId": "char_series_amy_bendix",
+    "character": "Amy Bendix",
+    "actor": "Giorgia Whigham",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt5675620",
+    "characterId": "char_series_john_pilgrim",
+    "character": "John Pilgrim",
+    "actor": "Josh Stewart",
+    "role": "Antagonist"
+  },
+  {
+    "titleId": "tt5675620",
+    "characterId": "char_series_krista_dumont",
+    "character": "Krista Dumont",
+    "actor": "Floriana Lima",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10234724",
+    "characterId": "char_series_marc_spector",
+    "character": "Marc Spector / Steven Grant",
+    "actor": "Oscar Isaac",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt10234724",
+    "characterId": "char_series_layla_elfaouly",
+    "character": "Layla El-Faouly",
+    "actor": "May Calamawy",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt10234724",
+    "characterId": "char_series_arthur_harrow",
+    "character": "Arthur Harrow",
+    "actor": "Ethan Hawke",
+    "role": "Antagonist"
+  },
+  {
+    "titleId": "tt10234724",
+    "characterId": "char_series_khonshu",
+    "character": "Khonshu",
+    "actor": "F. Murray Abraham",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10234724",
+    "characterId": "char_series_taweret",
+    "character": "Taweret",
+    "actor": "Antonia Salib",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10160804",
+    "characterId": "char_series_clint_barton",
+    "character": "Clint Barton / Hawkeye",
+    "actor": "Jeremy Renner",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt10160804",
+    "characterId": "char_series_kate_bishop",
+    "character": "Kate Bishop",
+    "actor": "Hailee Steinfeld",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt10160804",
+    "characterId": "char_series_maya_lopez",
+    "character": "Maya Lopez / Echo",
+    "actor": "Alaqua Cox",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10160804",
+    "characterId": "char_series_yelena_belova",
+    "character": "Yelena Belova",
+    "actor": "Florence Pugh",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10160804",
+    "characterId": "char_series_jack_duquesne",
+    "character": "Jack Duquesne / Swordsman",
+    "actor": "Tony Dalton",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10160804",
+    "characterId": "char_series_eleanor_bishop",
+    "character": "Eleanor Bishop",
+    "actor": "Vera Farmiga",
+    "role": "Antagonist"
+  },
+  {
+    "titleId": "tt10160804",
+    "characterId": "char_series_kazi_kazimierczak",
+    "character": "Kazimierz 'Kazi' Kazimierczak",
+    "actor": "Fra Fee",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt9208876",
+    "characterId": "char_series_sam_wilson",
+    "character": "Sam Wilson / Falcon / Captain America",
+    "actor": "Anthony Mackie",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt9208876",
+    "characterId": "char_series_bucky_barnes",
+    "character": "James 'Bucky' Barnes / Winter Soldier",
+    "actor": "Sebastian Stan",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt9208876",
+    "characterId": "char_series_john_walker",
+    "character": "John Walker / U.S. Agent",
+    "actor": "Wyatt Russell",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt9208876",
+    "characterId": "char_series_karli_morgenthau",
+    "character": "Karli Morgenthau",
+    "actor": "Erin Kellyman",
+    "role": "Antagonist"
+  },
+  {
+    "titleId": "tt9208876",
+    "characterId": "char_series_helmut_zemo",
+    "character": "Helmut Zemo",
+    "actor": "Daniel Brühl",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt9208876",
+    "characterId": "char_series_sharon_carter",
+    "character": "Sharon Carter / Power Broker",
+    "actor": "Emily VanCamp",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt9208876",
+    "characterId": "char_series_isaiah_bradley",
+    "character": "Isaiah Bradley",
+    "actor": "Carl Lumbly",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt9140560",
+    "characterId": "char_series_wanda_maximoff",
+    "character": "Wanda Maximoff / Scarlet Witch",
+    "actor": "Elizabeth Olsen",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt9140560",
+    "characterId": "char_series_vision",
+    "character": "Vision",
+    "actor": "Paul Bettany",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt9140560",
+    "characterId": "char_series_agatha_harkness",
+    "character": "Agatha Harkness",
+    "actor": "Kathryn Hahn",
+    "role": "Antagonist"
+  },
+  {
+    "titleId": "tt9140560",
+    "characterId": "char_series_monica_rambeau",
+    "character": "Monica Rambeau",
+    "actor": "Teyonah Parris",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt9140560",
+    "characterId": "char_series_jimmy_woo",
+    "character": "Jimmy Woo",
+    "actor": "Randall Park",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt9140560",
+    "characterId": "char_series_darcy_lewis",
+    "character": "Darcy Lewis",
+    "actor": "Kat Dennings",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt9140560",
+    "characterId": "char_series_billy_maximoff",
+    "character": "Billy Maximoff",
+    "actor": "Julian Hilliard",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt9140560",
+    "characterId": "char_series_tommy_maximoff",
+    "character": "Tommy Maximoff",
+    "actor": "Jett Klyne",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt9140554",
+    "characterId": "char_series_loki",
+    "character": "Loki Laufeyson",
+    "actor": "Tom Hiddleston",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt9140554",
+    "characterId": "char_series_mobius_mobius",
+    "character": "Mobius M. Mobius",
+    "actor": "Owen Wilson",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt9140554",
+    "characterId": "char_series_sylvie",
+    "character": "Sylvie Laufeydottir",
+    "actor": "Sophia Di Martino",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt9140554",
+    "characterId": "char_series_ravonna_renslayer",
+    "character": "Ravonna Renslayer",
+    "actor": "Gugu Mbatha-Raw",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt9140554",
+    "characterId": "char_series_hunter_b15",
+    "character": "Hunter B-15",
+    "actor": "Wunmi Mosaku",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt9140554",
+    "characterId": "char_series_he_who_remains",
+    "character": "He Who Remains / Victor Timely",
+    "actor": "Jonathan Majors",
+    "role": "Antagonist"
+  },
+  {
+    "titleId": "tt9140554",
+    "characterId": "char_series_miss_minutes",
+    "character": "Miss Minutes",
+    "actor": "Tara Strong",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt13146488",
+    "characterId": "char_series_peacemaker",
+    "character": "Christopher Smith / Peacemaker",
+    "actor": "John Cena",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt13146488",
+    "characterId": "char_series_leota_adebayo",
+    "character": "Leota Adebayo",
+    "actor": "Danielle Brooks",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt13146488",
+    "characterId": "char_series_adrian_chase",
+    "character": "Adrian Chase / Vigilante",
+    "actor": "Freddie Stroma",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt13146488",
+    "characterId": "char_series_emilia_harcourt",
+    "character": "Emilia Harcourt",
+    "actor": "Jennifer Holland",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt13146488",
+    "characterId": "char_series_john_economos",
+    "character": "John Economos",
+    "actor": "Steve Agee",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt13146488",
+    "characterId": "char_series_clemson_murn",
+    "character": "Clemson Murn",
+    "actor": "Chukwudi Iwuji",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt13146488",
+    "characterId": "char_series_auggie_smith",
+    "character": "Auggie Smith / White Dragon",
+    "actor": "Robert Patrick",
+    "role": "Antagonist"
+  },
+  {
+    "titleId": "tt13146488",
+    "characterId": "char_series_judomaster",
+    "character": "Judomaster",
+    "actor": "Nhut Le",
+    "role": "Antagonist"
+  },
+  {
+    "titleId": "tt26545992",
+    "characterId": "char_series_john_stewart",
+    "character": "John Stewart / Green Lantern",
+    "actor": "Aaron Pierre",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt26545992",
+    "characterId": "char_series_hal_jordan",
+    "character": "Hal Jordan / Green Lantern",
+    "actor": "Kyle Chandler",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt26545992",
+    "characterId": "char_series_kerry_kane",
+    "character": "Sheriff Kerry Kane",
+    "actor": "Kelly Macdonald",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt26545992",
+    "characterId": "char_series_sinestro",
+    "character": "Thaal Sinestro",
+    "actor": "Ulrich Thomsen",
+    "role": "Antagonist"
+  },
+  {
+    "titleId": "tt26545992",
+    "characterId": "char_series_guy_gardner",
+    "character": "Guy Gardner / Green Lantern",
+    "actor": "Nathan Fillion",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt26545992",
+    "characterId": "char_series_william_macon",
+    "character": "William 'Will' Macon",
+    "actor": "Garret Dillahunt",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt26545992",
+    "characterId": "char_series_zoe_macon",
+    "character": "Zoe Macon",
+    "actor": "Poorna Jagannathan",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt26545992",
+    "characterId": "char_series_billy_macon",
+    "character": "Billy Macon",
+    "actor": "Jason Ritter",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt26545992",
+    "characterId": "char_series_bernadette_stewart",
+    "character": "Bernadette Stewart",
+    "actor": "Jasmine Cephas Jones",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt26545992",
+    "characterId": "char_series_john_stewart_sr",
+    "character": "John Stewart Sr.",
+    "actor": "J. Alphonse Nicholson",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt5936884",
+    "characterId": "char_series_pyo_na_ri",
+    "character": "Pyo Na-ri",
+    "actor": "Kong Hyo-jin",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt5936884",
+    "characterId": "char_series_lee_hwa_shin",
+    "character": "Lee Hwa-shin",
+    "actor": "Jo Jung-suk",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt5936884",
+    "characterId": "char_series_go_jung_won",
+    "character": "Go Jung-won",
+    "actor": "Go Kyung-pyo",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt5936884",
+    "characterId": "char_series_park_eun_ji",
+    "character": "Park Eun-ji",
+    "actor": "Seo Ji-hye",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt5936884",
+    "characterId": "char_series_gye_seong_sook",
+    "character": "Gye Seong-sook",
+    "actor": "Lee Mi-sook",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt5936884",
+    "characterId": "char_series_bang_ja_yeong",
+    "character": "Bang Ja-yeong",
+    "actor": "Park Ji-young",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt5936884",
+    "characterId": "char_series_lee_pal_gang",
+    "character": "Lee Pal-gang",
+    "actor": "Moon Ga-young",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt33035373",
+    "characterId": "char_series_anna_andrews",
+    "character": "Anna Andrews",
+    "actor": "Tessa Thompson",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt33035373",
+    "characterId": "char_series_jack_harper",
+    "character": "Jack Harper",
+    "actor": "Jon Bernthal",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt33035373",
+    "characterId": "char_series_priya",
+    "character": "Priya",
+    "actor": "Sunita Mani",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt33035373",
+    "characterId": "char_series_zoe_harper",
+    "character": "Zoe Harper",
+    "actor": "Marin Ireland",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt33035373",
+    "characterId": "char_series_helen_wang",
+    "character": "Helen Wang",
+    "actor": "Poppy Liu",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt33035373",
+    "characterId": "char_series_rachel_his_hers",
+    "character": "Rachel",
+    "actor": "Jamie Tisdale",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt33035373",
+    "characterId": "char_series_alice_andrews",
+    "character": "Alice",
+    "actor": "Crystal Fox",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt33035373",
+    "characterId": "char_series_lexy_jones",
+    "character": "Lexy Jones",
+    "actor": "Rebecca Rittenhouse",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt33035373",
+    "characterId": "char_series_richard_his_hers",
+    "character": "Richard",
+    "actor": "Pablo Schreiber",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt33035373",
+    "characterId": "char_series_clyde_duffie",
+    "character": "Clyde Duffie",
+    "actor": "Chris Bauer",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt15289042",
+    "characterId": "char_series_yae_noguchi",
+    "character": "Yae Noguchi",
+    "actor": "Hikari Mitsushima",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt15289042",
+    "characterId": "char_series_yae_noguchi",
+    "character": "Yae Noguchi",
+    "actor": "Rikako Yagi",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt15289042",
+    "characterId": "char_series_harumichi_namiki",
+    "character": "Harumichi Namiki",
+    "actor": "Takeru Satoh",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt15289042",
+    "characterId": "char_series_tsunemi_arikawa",
+    "character": "Tsunemi Arikawa",
+    "actor": "Kaho",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt15289042",
+    "characterId": "char_series_yu_namiki",
+    "character": "Yū Namiki",
+    "actor": "Minami",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt15289042",
+    "characterId": "char_series_bonji_kawano",
+    "character": "Bonji Kawano",
+    "actor": "Akiyoshi Nakao",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt15289042",
+    "characterId": "char_series_tsuzuru_kosaka",
+    "character": "Tsuzuru Kosaka",
+    "actor": "Towa Araki",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt15289042",
+    "characterId": "char_series_uta_komori",
+    "character": "Uta Komori",
+    "actor": "Aoi Yamada",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt15135104",
+    "characterId": "char_series_kleo_straub",
+    "character": "Kleo Straub",
+    "actor": "Jella Haase",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt15135104",
+    "characterId": "char_series_sven_petzold",
+    "character": "Sven Petzold",
+    "actor": "Dimitrij Schaad",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt15135104",
+    "characterId": "char_series_andi_wolf",
+    "character": "Andi Wolf",
+    "actor": "Vladimir Burlakov",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt15135104",
+    "characterId": "char_series_thilo_kleo",
+    "character": "Thilo",
+    "actor": "Julius Feldmeier",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt15135104",
+    "characterId": "char_series_uwe_mittig",
+    "character": "Uwe Mittig",
+    "actor": "Vincent Redetzki",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt15135104",
+    "characterId": "char_series_jenny_schneider",
+    "character": "Jenny Schneider",
+    "actor": "Thandi Sebe",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt15135104",
+    "characterId": "char_series_anne_geike",
+    "character": "Anne Geike",
+    "actor": "Alessija Lause",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt15135104",
+    "characterId": "char_series_min_sun",
+    "character": "Min Sun",
+    "actor": "Yun Huang",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt15135104",
+    "characterId": "char_series_margot_honecker",
+    "character": "Margot Honecker",
+    "actor": "Steffi Kühnert",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt31806037",
+    "characterId": "char_series_jamie_miller",
+    "character": "Jamie Miller",
+    "actor": "Owen Cooper",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt31806037",
+    "characterId": "char_series_eddie_miller",
+    "character": "Eddie Miller",
+    "actor": "Stephen Graham",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt31806037",
+    "characterId": "char_series_manda_miller",
+    "character": "Manda Miller",
+    "actor": "Christine Tremarco",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt31806037",
+    "characterId": "char_series_luke_bascombe",
+    "character": "DI Luke Bascombe",
+    "actor": "Ashley Walters",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt31806037",
+    "characterId": "char_series_misha_frank",
+    "character": "DS Misha Frank",
+    "actor": "Faye Marsay",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt31806037",
+    "characterId": "char_series_briony_ariston",
+    "character": "Briony Ariston",
+    "actor": "Erin Doherty",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt31806037",
+    "characterId": "char_series_lisa_miller",
+    "character": "Lisa Miller",
+    "actor": "Amélie Pease",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt31806037",
+    "characterId": "char_series_paul_barlow",
+    "character": "Paul Barlow",
+    "actor": "Mark Stanley",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt31806037",
+    "characterId": "char_series_adam_bascombe",
+    "character": "Adam Bascombe",
+    "actor": "Amari Jayden Bacchus",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt31806037",
+    "characterId": "char_series_mrs_fenumore",
+    "character": "Mrs. Fenumore",
+    "actor": "Jo Hartley",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10834220",
+    "characterId": "char_series_naia_thulin",
+    "character": "Naia Thulin",
+    "actor": "Danica Curcic",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt10834220",
+    "characterId": "char_series_mark_hess",
+    "character": "Mark Hess",
+    "actor": "Mikkel Boe Følsgaard",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt10834220",
+    "characterId": "char_series_rosa_hartung",
+    "character": "Rosa Hartung",
+    "actor": "Iben Dorner",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10834220",
+    "characterId": "char_series_steen_hartung",
+    "character": "Steen Hartung",
+    "actor": "Esben Dalgaard",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10834220",
+    "characterId": "char_series_simon_genz",
+    "character": "Simon Genz",
+    "actor": "David Dencik",
+    "role": "Antagonist"
+  },
+  {
+    "titleId": "tt10834220",
+    "characterId": "char_series_nylander",
+    "character": "Nylander",
+    "actor": "Lars Ranthe",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10834220",
+    "characterId": "char_series_aksel_larsen",
+    "character": "Aksel Larsen",
+    "actor": "Anders Hove",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10834220",
+    "characterId": "char_series_frank_abildgaard",
+    "character": "Frank Abildgaard",
+    "actor": "Anders Nyborg",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt31631015",
+    "characterId": "char_series_andre_hanscombe",
+    "character": "André Hanscombe",
+    "actor": "Jordan Bolger",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt31631015",
+    "characterId": "char_series_alex_hanscombe",
+    "character": "Alex Hanscombe",
+    "actor": "Max Fincham",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt31631015",
+    "characterId": "char_series_rachel_nickell",
+    "character": "Rachel Nickell",
+    "actor": "Eleanor Williams",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt31631015",
+    "characterId": "char_series_keith_pedder",
+    "character": "DI Keith Pedder",
+    "actor": "Neil Maskell",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt31631015",
+    "characterId": "char_series_ivan_agnew",
+    "character": "DS Ivan Agnew",
+    "actor": "Mark Stanley",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt31631015",
+    "characterId": "char_series_nicholas_campbell",
+    "character": "DCS Nicholas Campbell",
+    "actor": "Sean Gilder",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt31631015",
+    "characterId": "char_series_colin_stagg",
+    "character": "Colin Stagg",
+    "actor": "Jamie Bisping",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt31631015",
+    "characterId": "char_series_robert_napper",
+    "character": "Robert Napper",
+    "actor": "Steve Stamp",
+    "role": "Antagonist"
+  },
+  {
+    "titleId": "tt31631015",
+    "characterId": "char_series_mick_wickerson",
+    "character": "DCI Mick Wickerson",
+    "actor": "Kevin Eldon",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt31631015",
+    "characterId": "char_series_jean_harris_hendriks",
+    "character": "Dr. Jean Harris-Hendriks",
+    "actor": "Claire Rushbrook",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt11337908",
+    "characterId": "char_series_alex_russell",
+    "character": "Alex Russell",
+    "actor": "Margaret Qualley",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt11337908",
+    "characterId": "char_series_maddy_boyd",
+    "character": "Maddy Boyd",
+    "actor": "Rylea Nevaeh Whittet",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt11337908",
+    "characterId": "char_series_sean_boyd",
+    "character": "Sean Boyd",
+    "actor": "Nick Robinson",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt11337908",
+    "characterId": "char_series_paula_langley",
+    "character": "Paula Langley",
+    "actor": "Andie MacDowell",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt11337908",
+    "characterId": "char_series_regina_maid",
+    "character": "Regina",
+    "actor": "Anika Noni Rose",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt11337908",
+    "characterId": "char_series_yolanda_maid",
+    "character": "Yolanda",
+    "actor": "Tracy Vilar",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt7909970",
+    "characterId": "char_series_marie_adler",
+    "character": "Marie Adler",
+    "actor": "Kaitlyn Dever",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt7909970",
+    "characterId": "char_series_grace_rasmussen",
+    "character": "Detective Grace Rasmussen",
+    "actor": "Toni Collette",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt7909970",
+    "characterId": "char_series_karen_duvall",
+    "character": "Detective Karen Duvall",
+    "actor": "Merritt Wever",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt7909970",
+    "characterId": "char_series_chris_mccarthy",
+    "character": "Chris McCarthy",
+    "actor": "Blake Ellis",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt7909970",
+    "characterId": "char_series_rosemarie_unbelievable",
+    "character": "RoseMarie",
+    "actor": "Dale Dickey",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt7909970",
+    "characterId": "char_series_mia_unbelievable",
+    "character": "Mia",
+    "actor": "Liza Lapira",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10147644",
+    "characterId": "char_series_mateo_vidal",
+    "character": "Mateo 'Matt' Vidal",
+    "actor": "Mario Casas",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt10147644",
+    "characterId": "char_series_olivia_costa",
+    "character": "Olivia Costa",
+    "actor": "Aura Garrido",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt10147644",
+    "characterId": "char_series_lorena_ortiz",
+    "character": "Lorena Ortiz",
+    "actor": "Alexandra Jiménez",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt10147644",
+    "characterId": "char_series_teo_aguilar",
+    "character": "Teo Aguilar",
+    "actor": "José Coronado",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10147644",
+    "characterId": "char_series_kimmy_dale",
+    "character": "Kimmy Dale",
+    "actor": "Martina Gusmán",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10147644",
+    "characterId": "char_series_emma_innocent",
+    "character": "Emma",
+    "actor": "Juana Acosta",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10147644",
+    "characterId": "char_series_jaime_innocent",
+    "character": "Jaime",
+    "actor": "Gonzalo de Castro",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10147644",
+    "characterId": "char_series_sonia_innocent",
+    "character": "Sonia",
+    "actor": "Ana Wagener",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10147644",
+    "characterId": "char_series_anibal_innocent",
+    "character": "Aníbal",
+    "actor": "Miki Esparbé",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10147644",
+    "characterId": "char_series_zoe_innocent",
+    "character": "Zoe",
+    "actor": "Anna Alarcón",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt2707408",
+    "characterId": "char_series_pablo_escobar",
+    "character": "Pablo Escobar",
+    "actor": "Wagner Moura",
+    "role": "Antagonist"
+  },
+  {
+    "titleId": "tt2707408",
+    "characterId": "char_series_steve_murphy",
+    "character": "Steve Murphy",
+    "actor": "Boyd Holbrook",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt2707408",
+    "characterId": "char_series_javier_pena",
+    "character": "Javier Peña",
+    "actor": "Pedro Pascal",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt2707408",
+    "characterId": "char_series_pacho_herrera",
+    "character": "Helmer 'Pacho' Herrera",
+    "actor": "Alberto Ammann",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt2707408",
+    "characterId": "char_series_tata_escobar",
+    "character": "Tata Escobar",
+    "actor": "Paulina Gaitán",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt2707408",
+    "characterId": "char_series_cesar_gaviria",
+    "character": "César Gaviria",
+    "actor": "Raúl Méndez",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt2707408",
+    "characterId": "char_series_gilberto_rodriguez",
+    "character": "Gilberto Rodríguez Orejuela",
+    "actor": "Damián Alcázar",
+    "role": "Antagonist"
+  },
+  {
+    "titleId": "tt2707408",
+    "characterId": "char_series_miguel_rodriguez",
+    "character": "Miguel Rodríguez Orejuela",
+    "actor": "Francisco Denis",
+    "role": "Antagonist"
+  },
+  {
+    "titleId": "tt2707408",
+    "characterId": "char_series_la_quica",
+    "character": "La Quica",
+    "actor": "Diego Cataño",
+    "role": "Antagonist"
+  },
+  {
+    "titleId": "tt2707408",
+    "characterId": "char_series_gustavo_gaviria",
+    "character": "Gustavo Gaviria",
+    "actor": "Juan Pablo Shuk",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt31183656",
+    "characterId": "char_series_vd_tyagi",
+    "character": "Adv. Visheshwar D. Tyagi",
+    "actor": "Ravi Kishan",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt31183656",
+    "characterId": "char_series_ananya_shroff",
+    "character": "Adv. Ananya Shroff",
+    "actor": "Naila Grrewal",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt31183656",
+    "characterId": "char_series_sujata_negi",
+    "character": "Adv. Sujata Negi",
+    "actor": "Nidhi Bisht",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt31183656",
+    "characterId": "char_series_vishwas_pandey",
+    "character": "Vishwas Pandey",
+    "actor": "Anant Joshi",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt31183656",
+    "characterId": "char_series_lakhmir_mintu",
+    "character": "Lakhmir 'Mintu'",
+    "actor": "Anjum Batra",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt31183656",
+    "characterId": "char_series_mahendra_phorey",
+    "character": "Adv. Mahendra Phorey",
+    "actor": "Yashpal Sharma",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt31183656",
+    "characterId": "char_series_jagdish_gupta",
+    "character": "Jagdish Gupta / Munshi Ji",
+    "actor": "Vijay Rajoria",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt31183656",
+    "characterId": "char_series_law_nikunj",
+    "character": "Law / Nikunj",
+    "actor": "Amit Vikram Pandey",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt31183656",
+    "characterId": "char_series_judge_bainsla",
+    "character": "Judge Bainsla",
+    "actor": "Tanvi Azmi",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt31183656",
+    "characterId": "char_series_naina_arora",
+    "character": "Naina Arora",
+    "actor": "Kusha Kapila",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt5768840",
+    "characterId": "char_series_park_bong_pal",
+    "character": "Park Bong-pal",
+    "actor": "Ok Taec-yeon",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt5768840",
+    "characterId": "char_series_kim_hyun_ji",
+    "character": "Kim Hyun-ji",
+    "actor": "Kim So-hyun",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt5768840",
+    "characterId": "char_series_joo_hye_sung",
+    "character": "Joo Hye-sung",
+    "actor": "Kwon Yul",
+    "role": "Antagonist"
+  },
+  {
+    "titleId": "tt5768840",
+    "characterId": "char_series_monk_myung_cheol",
+    "character": "Monk Myung-cheol",
+    "actor": "Kim Sang-ho",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt5768840",
+    "characterId": "char_series_choi_cheon_sang",
+    "character": "Choi Cheon-sang",
+    "actor": "Kang Ki-young",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt5768840",
+    "characterId": "char_series_kim_in_rang",
+    "character": "Kim In-rang",
+    "actor": "Lee David",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt5768840",
+    "characterId": "char_series_hong_myung_hee",
+    "character": "Hong Myung-hee",
+    "actor": "Son Eun-seo",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt5768840",
+    "characterId": "char_series_oh_kyung_ja",
+    "character": "Oh Kyung-ja",
+    "actor": "Lee Do-yeon",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt4135572",
+    "characterId": "char_series_lee_min_ki_mf",
+    "character": "Lee Min-ki",
+    "actor": "Lee Hong-ki",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt4135572",
+    "characterId": "char_series_han_gi_joon",
+    "character": "Han Gi-joon",
+    "actor": "Kwak Dong-yeon",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt4135572",
+    "characterId": "char_series_kang_hyeok",
+    "character": "Kang Hyeok",
+    "actor": "Park Min-woo",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt4135572",
+    "characterId": "char_series_yoo_han_cheol",
+    "character": "Yoo Han-cheol",
+    "actor": "Lee Si-eon",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt4135572",
+    "characterId": "char_series_kang_yoon_hee",
+    "character": "Kang Yoon-hee",
+    "actor": "Lee Ha-nee",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt5679572",
+    "characterId": "char_series_park_do_gyeong",
+    "character": "Park Do-gyeong",
+    "actor": "Eric Mun",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt5679572",
+    "characterId": "char_series_oh_hae_young_ordinary",
+    "character": "Oh Hae-young",
+    "actor": "Seo Hyun-jin",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt5679572",
+    "characterId": "char_series_oh_hae_young_pretty",
+    "character": "Oh Hae-young (the other Oh Hae-young)",
+    "actor": "Jeon Hye-bin",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt5679572",
+    "characterId": "char_series_park_su_gyeong",
+    "character": "Park Su-gyeong",
+    "actor": "Ye Ji-won",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt5679572",
+    "characterId": "char_series_lee_jin_sang",
+    "character": "Lee Jin-sang",
+    "actor": "Kim Ji-seok",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt5679572",
+    "characterId": "char_series_han_tae_jin",
+    "character": "Han Tae-jin",
+    "actor": "Lee Jae-yoon",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt4799574",
+    "characterId": "char_series_na_bong_sun",
+    "character": "Na Bong-sun",
+    "actor": "Park Bo-young",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt4799574",
+    "characterId": "char_series_kang_sun_woo",
+    "character": "Kang Sun-woo",
+    "actor": "Jo Jung-suk",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt4799574",
+    "characterId": "char_series_shin_soon_ae",
+    "character": "Shin Soon-ae",
+    "actor": "Kim Seul-gi",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt4799574",
+    "characterId": "char_series_choi_sung_jae",
+    "character": "Choi Sung-jae",
+    "actor": "Lim Ju-hwan",
+    "role": "Antagonist"
+  },
+  {
+    "titleId": "tt4799574",
+    "characterId": "char_series_kang_eun_hee",
+    "character": "Kang Eun-hee",
+    "actor": "Shin Hye-sun",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt4799574",
+    "characterId": "char_series_heominsoo",
+    "character": "Heo Min-soo",
+    "actor": "Kang Ki-young",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt2255085",
+    "characterId": "char_series_gu_mi_ho",
+    "character": "Gu Mi-ho",
+    "actor": "Shin Min-a",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt2255085",
+    "characterId": "char_series_cha_dae_woong",
+    "character": "Cha Dae-woong",
+    "actor": "Lee Seung-gi",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt2255085",
+    "characterId": "char_series_park_dong_joo",
+    "character": "Park Dong-joo",
+    "actor": "No Min-woo",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt2255085",
+    "characterId": "char_series_eun_hye_in",
+    "character": "Eun Hye-in",
+    "actor": "Park Soo-jin",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt2255085",
+    "characterId": "char_series_cha_pung",
+    "character": "Cha Pung",
+    "actor": "Byun Hee-bong",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt31989291",
+    "characterId": "char_series_subbu",
+    "character": "Chilukuri Subramanya Rao / Subbu",
+    "actor": "Sundeep Kishan",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt31989291",
+    "characterId": "char_series_swathi_super_subbu",
+    "character": "Swathi",
+    "actor": "Mithila Palkar",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt31989291",
+    "characterId": "char_series_kukku",
+    "character": "Chilukuri Kukkuteswara Rao / Kukku",
+    "actor": "Murali Sharma",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt31989291",
+    "characterId": "char_series_divya_super_subbu",
+    "character": "Divya",
+    "actor": "Manasa Choudhary",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt31989291",
+    "characterId": "char_series_madhusudan_rao",
+    "character": "Madhusudan Rao",
+    "actor": "Brahmanandam",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt31989291",
+    "characterId": "char_series_alekhya_super_subbu",
+    "character": "Alekhya",
+    "actor": "Kanika Mann",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt31989291",
+    "characterId": "char_series_benjamin_super_subbu",
+    "character": "Benjamin",
+    "actor": "Goparaju Ramana",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt31989291",
+    "characterId": "char_series_sunil_super_subbu",
+    "character": "Sunil",
+    "actor": "Sampoornesh Babu",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt28077038",
+    "characterId": "char_series_pedro_gonsalves",
+    "character": "Pedro Gonsalves / Pedro",
+    "actor": "Arshad Warsi",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt28077038",
+    "characterId": "char_series_pritam_parker",
+    "character": "Pritam Parker / Kabir Sahani",
+    "actor": "Vir Hirani",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt28077038",
+    "characterId": "char_series_martin_fonseca",
+    "character": "Martin Fonseca",
+    "actor": "Vikrant Massey",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt28077038",
+    "characterId": "char_series_dn_sardesai",
+    "character": "D. N. Sardesai",
+    "actor": "Satyadeep Misra",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt28077038",
+    "characterId": "char_series_shraddha_sardesai",
+    "character": "Shraddha Sardesai",
+    "actor": "Shruti Marathe",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt28077038",
+    "characterId": "char_series_arvind_rao",
+    "character": "DIG Arvind Rao",
+    "actor": "Mohit Chauhan",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt28077038",
+    "characterId": "char_series_stacey_gonsalves",
+    "character": "Stacey Gonsalves",
+    "actor": "Mona Singh",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt31173610",
+    "characterId": "char_series_liang_daiwen",
+    "character": "Liang Daiwen",
+    "actor": "Yi Lin",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt31173610",
+    "characterId": "char_series_gu_yi",
+    "character": "Gu Yi",
+    "actor": "Shen Yue",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt31173610",
+    "characterId": "char_series_xu_guanrui",
+    "character": "Xu Guanrui",
+    "actor": "Xiaowei Ye",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt31173610",
+    "characterId": "char_series_guan_xingxin",
+    "character": "Guan Xingxin",
+    "actor": "Tian'ai Zhang",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt31173610",
+    "characterId": "char_series_yu_dule",
+    "character": "Yu Dule",
+    "actor": "Tingwei Zou",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt31173610",
+    "characterId": "char_series_wang_meixia",
+    "character": "Wang Meixia",
+    "actor": "Haiyan Zhao",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt31173610",
+    "characterId": "char_series_jacqueline_smile_code",
+    "character": "Jacqueline",
+    "actor": "Ziyan Yang",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt31173610",
+    "characterId": "char_series_zhang_qingya",
+    "character": "Zhang Qingya",
+    "actor": "Ye Han",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt29930328",
+    "characterId": "char_series_huang_yimei",
+    "character": "Huang Yimei",
+    "actor": "Liu Yifei",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt29930328",
+    "characterId": "char_series_huang_zhenhua",
+    "character": "Huang Zhenhua",
+    "actor": "Tong Dawei",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt29930328",
+    "characterId": "char_series_zhuang_guodong",
+    "character": "Zhuang Guodong",
+    "actor": "Peng Guanying",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt29930328",
+    "characterId": "char_series_fang_xiewen",
+    "character": "Fang Xiewen",
+    "actor": "Lin Gengxin",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt29930328",
+    "characterId": "char_series_su_gengsheng",
+    "character": "Su Gengsheng",
+    "actor": "Wan Qian",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt29930328",
+    "characterId": "char_series_fu_jiaming",
+    "character": "Fu Jiaming",
+    "actor": "Wallace Huo",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt29930328",
+    "characterId": "char_series_he_xi",
+    "character": "He Xi",
+    "actor": "Lin Yi",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt29930328",
+    "characterId": "char_series_jiang_xueqiong",
+    "character": "Jiang Xueqiong",
+    "actor": "Zhu Zhu",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt29367004",
+    "characterId": "char_series_jiang_xiaoyuan",
+    "character": "Jiang Xiaoyuan",
+    "actor": "Liu Haocun",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt29367004",
+    "characterId": "char_series_qi_lian",
+    "character": "Qi Lian",
+    "actor": "Lin Yi",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt29367004",
+    "characterId": "char_series_jiang_bo",
+    "character": "Jiang Bo",
+    "actor": "Huang Shengchi",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt29367004",
+    "characterId": "char_series_feng_ruixue",
+    "character": "Feng Ruixue",
+    "actor": "Fan Shiran",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt29367004",
+    "characterId": "char_series_chen_fangzhou",
+    "character": "Chen Fangzhou",
+    "actor": "Wang Chacha",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt29367004",
+    "characterId": "char_series_huo_boyu",
+    "character": "Huo Boyu",
+    "actor": "Wanyan Luorong",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt28131856",
+    "characterId": "char_series_gu_xun",
+    "character": "Gu Xun",
+    "actor": "Lin Yi",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt28131856",
+    "characterId": "char_series_yue_qianling",
+    "character": "Yue Qianling",
+    "actor": "Zhou Ye",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt28131856",
+    "characterId": "char_series_chen_xinyi",
+    "character": "Chen Xinyi",
+    "actor": "Melody Tang",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt28131856",
+    "characterId": "char_series_jiang_junnan",
+    "character": "Jiang Junnan",
+    "actor": "Jiang Yiming",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt28131856",
+    "characterId": "char_series_su_zheng",
+    "character": "Su Zheng",
+    "actor": "Zhan Yu",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt28131856",
+    "characterId": "char_series_jiang_yishi",
+    "character": "Jiang Yishi",
+    "actor": "Hong Yao",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt28131856",
+    "characterId": "char_series_huang_jie",
+    "character": "Huang Jie",
+    "actor": "Liu Meihan",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt3212600",
+    "characterId": "char_series_krishna_mahabharat",
+    "character": "Krishna",
+    "actor": "Saurabh Raj Jain",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt3212600",
+    "characterId": "char_series_arjuna_mahabharat",
+    "character": "Arjuna",
+    "actor": "Shaheer Sheikh",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt3212600",
+    "characterId": "char_series_draupadi_mahabharat",
+    "character": "Draupadi",
+    "actor": "Pooja Sharma",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt3212600",
+    "characterId": "char_series_karna_mahabharat",
+    "character": "Karna",
+    "actor": "Aham Sharma",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt3212600",
+    "characterId": "char_series_duryodhana_mahabharat",
+    "character": "Duryodhana",
+    "actor": "Arpit Ranka",
+    "role": "Antagonist"
+  },
+  {
+    "titleId": "tt3212600",
+    "characterId": "char_series_shakuni_mahabharat",
+    "character": "Shakuni",
+    "actor": "Praneet Bhatt",
+    "role": "Antagonist"
+  },
+  {
+    "titleId": "tt3212600",
+    "characterId": "char_series_bhishma_mahabharat",
+    "character": "Bhishma",
+    "actor": "Arav Chowdhary",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt3212600",
+    "characterId": "char_series_dhritarashtra_mahabharat",
+    "character": "Dhritarashtra",
+    "actor": "Thakur Anoop Singh",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt3212600",
+    "characterId": "char_series_gandhari_mahabharat",
+    "character": "Gandhari",
+    "actor": "Riya Deepsi",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt3212600",
+    "characterId": "char_series_kunti_mahabharat",
+    "character": "Kunti",
+    "actor": "Shafaq Naaz",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt3212600",
+    "characterId": "char_series_yudhishthira_mahabharat",
+    "character": "Yudhishthira",
+    "actor": "Rohit Bhardwaj",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt3212600",
+    "characterId": "char_series_bhima_mahabharat",
+    "character": "Bhima",
+    "actor": "Saurav Gurjar",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt3212600",
+    "characterId": "char_series_drona_mahabharat",
+    "character": "Drona",
+    "actor": "Nissar Khan",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt3212600",
+    "characterId": "char_series_ashwatthama_mahabharat",
+    "character": "Ashwatthama",
+    "actor": "Ankit Mohan",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt24532414",
+    "characterId": "char_series_song_yan",
+    "character": "Song Yan",
+    "actor": "Yang Yang",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt24532414",
+    "characterId": "char_series_xu_qin",
+    "character": "Xu Qin",
+    "actor": "Wang Churan",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt24532414",
+    "characterId": "char_series_zhai_miao",
+    "character": "Zhai Miao",
+    "actor": "Yang Chaoyue",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt24532414",
+    "characterId": "char_series_meng_yanchen",
+    "character": "Meng Yanchen",
+    "actor": "Wei Daxun",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt24532414",
+    "characterId": "char_series_yu_xiaoxiao",
+    "character": "Yu Xiaoxiao",
+    "actor": "Chen Yating",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt24532414",
+    "characterId": "char_series_jiang_yi",
+    "character": "Jiang Yi",
+    "actor": "Tong Yang",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt6486762",
+    "characterId": "char_series_winston_scott_young",
+    "character": "Winston Scott",
+    "actor": "Colin Woodell",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt6486762",
+    "characterId": "char_series_cormac_oconnor",
+    "character": "Cormac O'Connor",
+    "actor": "Mel Gibson",
+    "role": "Antagonist"
+  },
+  {
+    "titleId": "tt6486762",
+    "characterId": "char_series_kd_continental",
+    "character": "KD",
+    "actor": "Mishel Prada",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt6486762",
+    "characterId": "char_series_miles_continental",
+    "character": "Miles",
+    "actor": "Hubert Point-Du Jour",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt6486762",
+    "characterId": "char_series_yen_continental",
+    "character": "Yen",
+    "actor": "Nhung Kate",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt6486762",
+    "characterId": "char_series_lou_continental",
+    "character": "Lou",
+    "actor": "Jessica Allain",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt6486762",
+    "characterId": "char_series_charon_young",
+    "character": "Charon",
+    "actor": "Ayomide Adegun",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt6486762",
+    "characterId": "char_series_mayhew",
+    "character": "Mayhew",
+    "actor": "Jeremy Bobb",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt6486762",
+    "characterId": "char_series_lemmy",
+    "character": "Lemmy",
+    "actor": "Adam Shapiro",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt6486762",
+    "characterId": "char_series_adjudicator_continental",
+    "character": "The Adjudicator",
+    "actor": "Katie McGrath",
+    "role": "Antagonist"
+  },
+  {
+    "titleId": "tt29764006",
+    "characterId": "char_series_madham_chandra_sekhar",
+    "character": "Madham Chandra Sekhar",
+    "actor": "Sivaji",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt29764006",
+    "characterId": "char_series_madham_shobha_rani",
+    "character": "Madham Shobha Rani",
+    "actor": "Vasuki Anand",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt29764006",
+    "characterId": "char_series_raghu_teja",
+    "character": "Madham Raghu Teja",
+    "actor": "Mouli Tanuj Prasanth",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt29764006",
+    "characterId": "char_series_madham_divya",
+    "character": "Madham Divya",
+    "actor": "Vasanthika",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt29764006",
+    "characterId": "char_series_madham_aditya",
+    "character": "Madham Aditya",
+    "actor": "Rohan",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt29764006",
+    "characterId": "char_series_suchita_david_paul",
+    "character": "Suchita David Paul",
+    "actor": "Snehal Kamath",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt29764006",
+    "characterId": "char_series_karthik_90s",
+    "character": "Karthik",
+    "actor": "Anil",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt29764006",
+    "characterId": "char_series_naveed_90s",
+    "character": "Naveed",
+    "actor": "Siddarth",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt36812904",
+    "characterId": "char_series_kartik_ekaki",
+    "character": "Kartik",
+    "actor": "Ashish Chanchlani",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt36812904",
+    "characterId": "char_series_aryan_ekaki",
+    "character": "Aryan",
+    "actor": "Akash Dodeja",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt36812904",
+    "characterId": "char_series_karan_ekaki",
+    "character": "Karan",
+    "actor": "Harsh Rane",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt36812904",
+    "characterId": "char_series_tanni_ekaki",
+    "character": "Tanni",
+    "actor": "Sidhanth Sarfare",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt36812904",
+    "characterId": "char_series_jagu_ekaki",
+    "character": "Akash 'Jagu'",
+    "actor": "Rohit Sadhwani",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt36812904",
+    "characterId": "char_series_jashu_ekaki",
+    "character": "Jashu",
+    "actor": "Shashank Shekhar",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt36812904",
+    "characterId": "char_series_pinku_ekaki",
+    "character": "Pinku",
+    "actor": "Grishim Nawani",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt36812904",
+    "characterId": "char_series_inspector_sangam",
+    "character": "Inspector Sangam",
+    "actor": "Upendra Limaye",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt5445338",
+    "characterId": "char_series_han_mi_mo",
+    "character": "Han Mi-mo",
+    "actor": "Jang Na-ra",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt5445338",
+    "characterId": "char_series_song_soo_hyuk",
+    "character": "Song Soo-hyuk",
+    "actor": "Jung Kyung-ho",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt5445338",
+    "characterId": "char_series_goo_hae_joon",
+    "character": "Goo Hae-joon",
+    "actor": "Kwon Yul",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt5445338",
+    "characterId": "char_series_go_dong_mi",
+    "character": "Go Dong-mi",
+    "actor": "Yoo In-na",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt5445338",
+    "characterId": "char_series_baek_da_jung",
+    "character": "Baek Da-jung",
+    "actor": "Yoo Da-in",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt5445338",
+    "characterId": "char_series_hong_ae_ran",
+    "character": "Hong Ae-ran",
+    "actor": "Seo In-young",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt5445338",
+    "characterId": "char_series_kim_gun_hak",
+    "character": "Kim Gun-hak",
+    "actor": "Kim Tae-hoon",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt5445338",
+    "characterId": "char_series_woo_yeon_soo",
+    "character": "Woo Yeon-soo",
+    "actor": "Hwang Sun-hee",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt5445338",
+    "characterId": "char_series_song_min_woo",
+    "character": "Song Min-woo",
+    "actor": "Kim Dan-yul",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt27687545",
+    "characterId": "char_series_ren_xinzheng",
+    "character": "Ren Xinzheng",
+    "actor": "Wu Gang",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt27687545",
+    "characterId": "char_series_sun_toutou",
+    "character": "Sun Toutou",
+    "actor": "Zhao Lusi",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt27687545",
+    "characterId": "char_series_ren_tianzhen",
+    "character": "Ren Tianzhen",
+    "actor": "Luo Yizhou",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt27687545",
+    "characterId": "char_series_yang_xiaohong",
+    "character": "Yang Xiaohong",
+    "actor": "Zhang Meng",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt27687545",
+    "characterId": "char_series_song_linglan",
+    "character": "Song Linglan",
+    "actor": "Jiang Shan",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt27687545",
+    "characterId": "char_series_peng_shiyan",
+    "character": "Peng Shiyan",
+    "actor": "Zhou Cheng'ao",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt27687545",
+    "characterId": "char_series_zhao_liquan",
+    "character": "Zhao Liquan",
+    "actor": "Zhu Junlin",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt27687545",
+    "characterId": "char_series_xu_meng",
+    "character": "Xu Meng",
+    "actor": "Li Baihui",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt5994364",
+    "characterId": "char_series_kim_shin",
+    "character": "Kim Shin / Goblin",
+    "actor": "Gong Yoo",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt5994364",
+    "characterId": "char_series_ji_eun_tak",
+    "character": "Ji Eun-tak",
+    "actor": "Kim Go-eun",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt5994364",
+    "characterId": "char_series_wang_yeo",
+    "character": "Wang Yeo / Grim Reaper",
+    "actor": "Lee Dong-wook",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt5994364",
+    "characterId": "char_series_kim_sun",
+    "character": "Kim Sun / Sunny",
+    "actor": "Yoo In-na",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt5994364",
+    "characterId": "char_series_yoo_deok_hwa",
+    "character": "Yoo Deok-hwa",
+    "actor": "Yook Sung-jae",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt5994364",
+    "characterId": "char_series_samshin_granny",
+    "character": "Samshin Granny",
+    "actor": "Lee El",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt5994364",
+    "characterId": "char_series_park_joong_heon",
+    "character": "Park Joong-heon",
+    "actor": "Kim Byung-chul",
+    "role": "Antagonist"
+  },
+  {
+    "titleId": "tt8816186",
+    "characterId": "char_series_andrew_bennett",
+    "character": "Andrew Bennett",
+    "actor": "Geoffrey Petit-Jean-Genat",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt8816186",
+    "characterId": "char_series_victor_hobbs",
+    "character": "Victor Hobbs",
+    "actor": "Frederic Perchet",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt8816186",
+    "characterId": "char_series_commissaire_marlin",
+    "character": "Commissaire Marlin",
+    "actor": "Eric Pfaff",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt8816186",
+    "characterId": "char_series_jonathan_hillgram",
+    "character": "Jonathan Hillgram",
+    "actor": "David Vigroux",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt8816186",
+    "characterId": "char_series_officier_schwartz",
+    "character": "Officier Schwartz",
+    "actor": "David Delayat",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt15471900",
+    "characterId": "char_series_rana_naidu",
+    "character": "Rana Naidu",
+    "actor": "Rana Daggubati",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt15471900",
+    "characterId": "char_series_naga_naidu",
+    "character": "Naga Naidu",
+    "actor": "Venkatesh Daggubati",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt15471900",
+    "characterId": "char_series_tej_naidu",
+    "character": "Tej Naidu",
+    "actor": "Sushant Singh",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt15471900",
+    "characterId": "char_series_jaffa_naidu",
+    "character": "Pawan 'Jaffa' Naidu",
+    "actor": "Abhishek Banerjee",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt15471900",
+    "characterId": "char_series_naina_naidu",
+    "character": "Naina Naidu",
+    "actor": "Surveen Chawla",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt15471900",
+    "characterId": "char_series_surya_naidu",
+    "character": "Surya Rao Naidu",
+    "actor": "Ashish Vidyarthi",
+    "role": "Antagonist"
+  },
+  {
+    "titleId": "tt15471900",
+    "characterId": "char_series_srini_rana",
+    "character": "Srini",
+    "actor": "Adithya Menon",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt15471900",
+    "characterId": "char_series_ob_mahajan",
+    "character": "OB Mahajan",
+    "actor": "Rajesh Jais",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt2236126",
+    "characterId": "char_series_troy_burrows",
+    "character": "Troy Burrows / Megaforce Red Ranger",
+    "actor": "Andrew Gray",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt2236126",
+    "characterId": "char_series_emma_goodall",
+    "character": "Emma Goodall / Megaforce Pink Ranger",
+    "actor": "Christina Masterson",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt2236126",
+    "characterId": "char_series_jake_holling",
+    "character": "Jake Holling / Megaforce Black Ranger",
+    "actor": "Azim Rizk",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt2236126",
+    "characterId": "char_series_gia_moran",
+    "character": "Gia Moran / Megaforce Yellow Ranger",
+    "actor": "Ciara Hanna",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt2236126",
+    "characterId": "char_series_noah_carver",
+    "character": "Noah Carver / Megaforce Blue Ranger",
+    "actor": "John Mark Loudermilk",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt2236126",
+    "characterId": "char_series_robo_knight",
+    "character": "Robo Knight",
+    "actor": "Chris Auer",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt2236126",
+    "characterId": "char_series_orion",
+    "character": "Orion / Super Megaforce Silver Ranger",
+    "actor": "Cameron Jebo",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt2236126",
+    "characterId": "char_series_admiral_malkor",
+    "character": "Admiral Malkor",
+    "actor": "Campbell Cooley",
+    "role": "Antagonist"
+  },
+  {
+    "titleId": "tt1704503",
+    "characterId": "char_series_jayden_shiba",
+    "character": "Jayden Shiba / Red Samurai Ranger",
+    "actor": "Alex Heartman",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt1704503",
+    "characterId": "char_series_kevin_samurai",
+    "character": "Kevin / Blue Samurai Ranger",
+    "actor": "Najee De-Tiege",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt1704503",
+    "characterId": "char_series_mia_watanabe",
+    "character": "Mia Watanabe / Pink Samurai Ranger",
+    "actor": "Erika Fong",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt1704503",
+    "characterId": "char_series_mike_samurai",
+    "character": "Mike / Green Samurai Ranger",
+    "actor": "Hector David Jr.",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt1704503",
+    "characterId": "char_series_emily_samurai",
+    "character": "Emily / Yellow Samurai Ranger",
+    "actor": "Brittany Anne Pirtle",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt1704503",
+    "characterId": "char_series_antonio_garcia",
+    "character": "Antonio Garcia / Gold Samurai Ranger",
+    "actor": "Steven Skyler",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt1704503",
+    "characterId": "char_series_master_xandred",
+    "character": "Master Xandred",
+    "actor": "Jeff Szusterman",
+    "role": "Antagonist"
+  },
+  {
+    "titleId": "tt1704503",
+    "characterId": "char_series_dayu_samurai",
+    "character": "Dayu",
+    "actor": "Kate Elliott",
+    "role": "Antagonist"
+  },
+  {
+    "titleId": "tt1704503",
+    "characterId": "char_series_mentor_ji",
+    "character": "Mentor Ji",
+    "actor": "Rene Naufahu",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt1304612",
+    "characterId": "char_series_scott_truman",
+    "character": "Scott Truman / Ranger Operator Series Red",
+    "actor": "Eka Darville",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt1304612",
+    "characterId": "char_series_flynn_mcallister",
+    "character": "Flynn McAllistair / Ranger Operator Series Blue",
+    "actor": "Ari Boyland",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt1304612",
+    "characterId": "char_series_summer_landsdown",
+    "character": "Summer Landsdown / Ranger Operator Series Yellow",
+    "actor": "Rose McIver",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt1304612",
+    "characterId": "char_series_ziggy_grover",
+    "character": "Ziggy Grover / Ranger Operator Series Green",
+    "actor": "Milo Cawthorne",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt1304612",
+    "characterId": "char_series_dillon_rpm",
+    "character": "Dillon / Ranger Operator Series Black",
+    "actor": "Dan Ewing",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt1304612",
+    "characterId": "char_series_gem_rpm",
+    "character": "Gem / Ranger Operator Series Gold",
+    "actor": "Mike Ginn",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt1304612",
+    "characterId": "char_series_gemma_rpm",
+    "character": "Gemma / Ranger Operator Series Silver",
+    "actor": "Li Ming Hu",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt1304612",
+    "characterId": "char_series_doctor_k",
+    "character": "Doctor K",
+    "actor": "Olivia Tennet",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt1304612",
+    "characterId": "char_series_venjix",
+    "character": "Venjix Virus",
+    "actor": "Andrew Laing",
+    "role": "Antagonist"
+  },
+  {
+    "titleId": "tt1304612",
+    "characterId": "char_series_tenaya",
+    "character": "Tenaya",
+    "actor": "Adelaide Kane",
+    "role": "Antagonist"
+  },
+  {
+    "titleId": "tt1121628",
+    "characterId": "char_series_casey_rhodes",
+    "character": "Casey Rhodes / Red Jungle Fury Ranger",
+    "actor": "Jason Smith",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt1121628",
+    "characterId": "char_series_theo_martin",
+    "character": "Theo Martin / Blue Jungle Fury Ranger",
+    "actor": "Aljin Abella",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt1121628",
+    "characterId": "char_series_lily_chilman",
+    "character": "Lily Chilman / Yellow Jungle Fury Ranger",
+    "actor": "Anna Hutchison",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt1121628",
+    "characterId": "char_series_robert_rj_james",
+    "character": "Robert 'RJ' James / Purple Wolf Ranger",
+    "actor": "David de Lautour",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt1121628",
+    "characterId": "char_series_dominic_hargan",
+    "character": "Dominic 'Dom' Hargan / White Rhino Ranger",
+    "actor": "Nikolai Nikolaeff",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt1121628",
+    "characterId": "char_series_jarrod_jf",
+    "character": "Jarrod",
+    "actor": "Bede Skinner",
+    "role": "Antagonist"
+  },
+  {
+    "titleId": "tt1121628",
+    "characterId": "char_series_dai_shi",
+    "character": "Dai Shi",
+    "actor": "Geoff Dolan",
+    "role": "Antagonist"
+  },
+  {
+    "titleId": "tt1121628",
+    "characterId": "char_series_camille_jf",
+    "character": "Camille",
+    "actor": "Holly Shanahan",
+    "role": "Antagonist"
+  },
+  {
+    "titleId": "tt1121628",
+    "characterId": "char_series_fran_jf",
+    "character": "Fran",
+    "actor": "Sarah Thomson",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt0451469",
+    "characterId": "char_series_nick_russell",
+    "character": "Nick Russell / Red Mystic Ranger",
+    "actor": "Firass Dirani",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt0451469",
+    "characterId": "char_series_vida_rocca",
+    "character": "Vida Rocca / Pink Mystic Ranger",
+    "actor": "Angie Diaz",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt0451469",
+    "characterId": "char_series_xander_bly",
+    "character": "Xander Bly / Green Mystic Ranger",
+    "actor": "Richard Brancatisano",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt0451469",
+    "characterId": "char_series_chip_thorn",
+    "character": "Chip Thorn / Yellow Mystic Ranger",
+    "actor": "Nic Sampson",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt0451469",
+    "characterId": "char_series_madison_rocca",
+    "character": "Madison Rocca / Blue Mystic Ranger",
+    "actor": "Melanie Vallejo",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt0451469",
+    "characterId": "char_series_udonna",
+    "character": "Udonna / White Mystic Ranger",
+    "actor": "Peta Rutter",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt0451469",
+    "characterId": "char_series_leanbow",
+    "character": "Leanbow / Wolf Warrior",
+    "actor": "Chris Graham",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt0451469",
+    "characterId": "char_series_daggeron",
+    "character": "Daggeron / Solaris Knight",
+    "actor": "John Tui",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt0451469",
+    "characterId": "char_series_imperious",
+    "character": "Imperious",
+    "actor": "Stuart Devenie",
+    "role": "Antagonist"
+  },
+  {
+    "titleId": "tt0414762",
+    "characterId": "char_series_jack_landors",
+    "character": "Jack Landors / S.P.D. Red Ranger",
+    "actor": "Brandon Jay McLaren",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt0414762",
+    "characterId": "char_series_sky_tate",
+    "character": "Sky Tate / S.P.D. Blue Ranger",
+    "actor": "Chris Violette",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt0414762",
+    "characterId": "char_series_bridge_carson",
+    "character": "Bridge Carson / S.P.D. Green Ranger",
+    "actor": "Matt Austin",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt0414762",
+    "characterId": "char_series_z_delgado",
+    "character": "Elizabeth 'Z' Delgado / S.P.D. Yellow Ranger",
+    "actor": "Monica May",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt0414762",
+    "characterId": "char_series_syd_drew",
+    "character": "Syd Drew / S.P.D. Pink Ranger",
+    "actor": "Alycia Purrott",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt0414762",
+    "characterId": "char_series_doggie_cruger",
+    "character": "Anubis 'Doggie' Cruger / Shadow Ranger",
+    "actor": "John Tui",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt0414762",
+    "characterId": "char_series_kat_manx",
+    "character": "Dr. Kat Manx / Kat Ranger",
+    "actor": "Michelle Langstone",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt0414762",
+    "characterId": "char_series_sam_spd",
+    "character": "Sam / Omega Ranger",
+    "actor": "Brett Stewart",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt0414762",
+    "characterId": "char_series_emperor_grumm",
+    "character": "Emperor Gruumm",
+    "actor": "Rene Naufahu",
+    "role": "Antagonist"
+  },
+  {
+    "titleId": "tt0373587",
+    "characterId": "char_series_conner_mcknight",
+    "character": "Conner McKnight / Red Dino Ranger",
+    "actor": "James Napier",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt0373587",
+    "characterId": "char_series_ethan_james",
+    "character": "Ethan James / Blue Dino Ranger",
+    "actor": "Kevin Duhaney",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt0373587",
+    "characterId": "char_series_kira_ford",
+    "character": "Kira Ford / Yellow Dino Ranger",
+    "actor": "Emma Lahana",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt0373587",
+    "characterId": "char_series_tommy_oliver",
+    "character": "Dr. Tommy Oliver / Black Dino Ranger",
+    "actor": "Jason David Frank",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt0373587",
+    "characterId": "char_series_trent_fernandez",
+    "character": "Trent Fernandez-Mercer / White Dino Ranger",
+    "actor": "Jeffrey Parazzo",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt0373587",
+    "characterId": "char_series_mesogog",
+    "character": "Mesogog",
+    "actor": "Latham Gaines",
+    "role": "Antagonist"
+  },
+  {
+    "titleId": "tt0373587",
+    "characterId": "char_series_zeltrax",
+    "character": "Zeltrax",
+    "actor": "James Gaylyn",
+    "role": "Antagonist"
+  },
+  {
+    "titleId": "tt0373587",
+    "characterId": "char_series_hayley_ziktor",
+    "character": "Hayley Ziktor",
+    "actor": "Ismay Johnston",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt0373587",
+    "characterId": "char_series_elsa_dino",
+    "character": "Elsa / Principal Randall",
+    "actor": "Miriama Smith",
+    "role": "Antagonist"
+  },
+  {
+    "titleId": "tt0312189",
+    "characterId": "char_series_shane_clarke",
+    "character": "Shane Clarke / Red Wind Ranger",
+    "actor": "Pua Magasiva",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt0312189",
+    "characterId": "char_series_tori_hanson",
+    "character": "Tori Hanson / Blue Wind Ranger",
+    "actor": "Sally Martin",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt0312189",
+    "characterId": "char_series_dustin_brooks",
+    "character": "Dustin Brooks / Yellow Wind Ranger",
+    "actor": "Glenn McMillan",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt0312189",
+    "characterId": "char_series_hunter_bradley",
+    "character": "Hunter Bradley / Crimson Thunder Ranger",
+    "actor": "Adam Tuominen",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt0312189",
+    "characterId": "char_series_blake_bradley",
+    "character": "Blake Bradley / Navy Thunder Ranger",
+    "actor": "Jorgito Vargas Jr.",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt0312189",
+    "characterId": "char_series_cam_watanabe",
+    "character": "Cameron 'Cam' Watanabe / Green Samurai Ranger",
+    "actor": "Jason Chan",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt0312189",
+    "characterId": "char_series_lothor",
+    "character": "Lothor",
+    "actor": "Grant McFarland",
+    "role": "Antagonist"
+  },
+  {
+    "titleId": "tt0312189",
+    "characterId": "char_series_marah",
+    "character": "Marah",
+    "actor": "Katrina Browne",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt0312189",
+    "characterId": "char_series_kapri",
+    "character": "Kapri",
+    "actor": "Katrina Browne",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt0373587",
+    "characterId": "char_series_shane_clarke",
+    "character": "Shane Clarke / Red Wind Ranger",
+    "actor": "Pua Magasiva",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt0373587",
+    "characterId": "char_series_tori_hanson",
+    "character": "Tori Hanson / Blue Wind Ranger",
+    "actor": "Sally Martin",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt0373587",
+    "characterId": "char_series_dustin_brooks",
+    "character": "Dustin Brooks / Yellow Wind Ranger",
+    "actor": "Glenn McMillan",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt3402548",
+    "characterId": "char_series_bittu_sharma",
+    "character": "Bittu Sharma",
+    "actor": "Kapil Sharma",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt3402548",
+    "characterId": "char_series_manju_sharma",
+    "character": "Manju Sharma / Mrs. Sharma",
+    "actor": "Sumona Chakravarti",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt3402548",
+    "characterId": "char_series_daadi_cnk",
+    "character": "Daadi",
+    "actor": "Ali Asgar",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt3402548",
+    "characterId": "char_series_bua_cnk",
+    "character": "Bua",
+    "actor": "Upasana Singh",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt3402548",
+    "characterId": "char_series_palak_cnk",
+    "character": "Palak",
+    "actor": "Kiku Sharda",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt3402548",
+    "characterId": "char_series_gutthi",
+    "character": "Gutthi",
+    "actor": "Sunil Grover",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt3402548",
+    "characterId": "char_series_servant_cnk",
+    "character": "Chandu / servant",
+    "actor": "Chandan Prabhakar",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt5747326",
+    "characterId": "char_series_kapil_sharma_tkss",
+    "character": "Kapil Sharma / host",
+    "actor": "Kapil Sharma",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt5747326",
+    "characterId": "char_series_sunil_grover_tkss",
+    "character": "Dr. Mashoor Gulati / Rinku Bhabhi",
+    "actor": "Sunil Grover",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt5747326",
+    "characterId": "char_series_archana_puran_singh",
+    "character": "Archana Puran Singh",
+    "actor": "Archana Puran Singh",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt5747326",
+    "characterId": "char_series_kiku_sharda_tkss",
+    "character": "Various sketch characters",
+    "actor": "Kiku Sharda",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt5747326",
+    "characterId": "char_series_krushna_abhishek_tkss",
+    "character": "Various sketch characters",
+    "actor": "Krushna Abhishek",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt30003786",
+    "characterId": "char_series_kapil_sharma_giks",
+    "character": "Kapil Sharma / host",
+    "actor": "Kapil Sharma",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt30003786",
+    "characterId": "char_series_sunil_grover_giks",
+    "character": "Dafli / Chumbak Mittal / other personas",
+    "actor": "Sunil Grover",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt30003786",
+    "characterId": "char_series_archana_puran_singh_giks",
+    "character": "Archana Puran Singh",
+    "actor": "Archana Puran Singh",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt30003786",
+    "characterId": "char_series_krushna_abhishek_giks",
+    "character": "Multiple sketch personas",
+    "actor": "Krushna Abhishek",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt30003786",
+    "characterId": "char_series_kiku_sharda_giks",
+    "character": "Multiple sketch personas",
+    "actor": "Kiku Sharda",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt27111295",
+    "characterId": "char_series_nadia_sinh",
+    "character": "Nadia Sinh",
+    "actor": "Kashvi Majmundar",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt9794044",
+    "characterId": "char_series_nadia_sinh",
+    "character": "Nadia Sinh",
+    "actor": "Priyanka Chopra Jonas",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt27111295",
+    "characterId": "char_series_bunny_gambhir",
+    "character": "Raahi 'Bunny' Gambhir",
+    "actor": "Varun Dhawan",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt27111295",
+    "characterId": "char_series_honey_raj",
+    "character": "Hanimandakini 'Honey' Raj",
+    "actor": "Samantha Ruth Prabhu",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt27111295",
+    "characterId": "char_series_guru_citadel_hb",
+    "character": "Guru / Baba",
+    "actor": "Kay Kay Menon",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt27111295",
+    "characterId": "char_series_shaan_hb",
+    "character": "Shaan",
+    "actor": "Sikandar Kher",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt27111295",
+    "characterId": "char_series_kedar_kd",
+    "character": "Kedar 'KD'",
+    "actor": "Saqib Saleem",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt27111295",
+    "characterId": "char_series_zooni_shatsang",
+    "character": "Zooni Shatsang / Eagle",
+    "actor": "Simran",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt27111295",
+    "characterId": "char_series_ludo_hb",
+    "character": "Ludo",
+    "actor": "Soham Majumdar",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt27111295",
+    "characterId": "char_series_chacko_hb",
+    "character": "Chacko",
+    "actor": "Shivankit Singh Parihar",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt27111295",
+    "characterId": "char_series_vivek_hb",
+    "character": "Vivek",
+    "actor": "Shashank Vyas",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt9794044",
+    "characterId": "char_series_mason_kane",
+    "character": "Mason Kane",
+    "actor": "Richard Madden",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt9794044",
+    "characterId": "char_series_bernard_orlick",
+    "character": "Bernard Orlick",
+    "actor": "Stanley Tucci",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt9794044",
+    "characterId": "char_series_abby_conroy",
+    "character": "Abby Conroy",
+    "actor": "Ashleigh Cummings",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt9794044",
+    "characterId": "char_series_dahlia_archer",
+    "character": "Dahlia Archer",
+    "actor": "Lesley Manville",
+    "role": "Antagonist"
+  },
+  {
+    "titleId": "tt9794044",
+    "characterId": "char_series_carter_spence",
+    "character": "Carter Spence",
+    "actor": "Osy Ikhile",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt9794044",
+    "characterId": "char_series_hendrix_conroy",
+    "character": "Hendrix Conroy",
+    "actor": "Caoilinn Springall",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt9794044",
+    "characterId": "char_series_anders_silje",
+    "character": "Anders Silje",
+    "actor": "Roland Møller",
+    "role": "Antagonist"
+  },
+  {
+    "titleId": "tt9794044",
+    "characterId": "char_series_davik_silje",
+    "character": "Davik Silje",
+    "actor": "Roland Møller",
+    "role": "Antagonist"
+  },
+  {
+    "titleId": "tt14872986",
+    "characterId": "char_series_qiao_jingjing",
+    "character": "Qiao Jingjing",
+    "actor": "Dilraba Dilmurat",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt14872986",
+    "characterId": "char_series_yu_tu",
+    "character": "Yu Tu",
+    "actor": "Yang Yang",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt14872986",
+    "characterId": "char_series_pei_pei",
+    "character": "Pei Pei",
+    "actor": "Zheng Hehuizi",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt14872986",
+    "characterId": "char_series_su_zhi",
+    "character": "Su Zhi",
+    "actor": "Ji Xiaobing",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt14872986",
+    "characterId": "char_series_a_guo",
+    "character": "A Guo",
+    "actor": "Tu Songyan",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt15295490",
+    "characterId": "char_series_abhilash",
+    "character": "Abhilash",
+    "actor": "Ritvik Sahore",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt15295490",
+    "characterId": "char_series_sanya",
+    "character": "Sanya",
+    "actor": "Srishti Rindani",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt15295490",
+    "characterId": "char_series_sushmita",
+    "character": "Sushmita",
+    "actor": "Salonie Patel",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt15295490",
+    "characterId": "char_series_raghav_gupta",
+    "character": "Raghav Gupta",
+    "actor": "Abhinav Sharma",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt15295490",
+    "characterId": "char_series_sudheer_junior",
+    "character": "Sudheer's Junior",
+    "actor": "Purav Jha",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt15295490",
+    "characterId": "char_series_priyanka_cd",
+    "character": "Priyanka",
+    "actor": "Saloni Gaur",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt7521778",
+    "characterId": "char_series_kim_min_kyu",
+    "character": "Kim Min-kyu",
+    "actor": "Yoo Seung-ho",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt7521778",
+    "characterId": "char_series_jo_ji_a",
+    "character": "Jo Ji-a / Aji-3",
+    "actor": "Chae Soo-bin",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt7521778",
+    "characterId": "char_series_hong_baek_gyun",
+    "character": "Hong Baek-gyun",
+    "actor": "Um Ki-joon",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt7521778",
+    "characterId": "char_series_pi_ina",
+    "character": "Pi",
+    "actor": "Park Se-wan",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt7521778",
+    "characterId": "char_series_hoktal",
+    "character": "Hoktal",
+    "actor": "Song Jae-ryong",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt7521778",
+    "characterId": "char_series_ssanip",
+    "character": "Ssanip",
+    "actor": "Ko Gun-han",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt7521778",
+    "characterId": "char_series_hwang_yoo_cheol",
+    "character": "Hwang Yoo-cheol",
+    "actor": "Kang Ki-young",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt7521778",
+    "characterId": "char_series_ye_ri_el",
+    "character": "Ye Ri-el",
+    "actor": "Hwang Seung-eon",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt12392504",
+    "characterId": "char_series_harshad_mehta",
+    "character": "Harshad Mehta",
+    "actor": "Pratik Gandhi",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt12392504",
+    "characterId": "char_series_sucheta_dalal",
+    "character": "Sucheta Dalal",
+    "actor": "Shreya Dhanwanthary",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt12392504",
+    "characterId": "char_series_jyoti_mehta",
+    "character": "Jyoti Mehta",
+    "actor": "Anjali Barot",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt12392504",
+    "characterId": "char_series_ashwin_mehta",
+    "character": "Ashwin Mehta",
+    "actor": "Hemant Kher",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt12392504",
+    "characterId": "char_series_bhushan_bhatt",
+    "character": "Bhushan Bhatt",
+    "actor": "Chirag Vohra",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt12392504",
+    "characterId": "char_series_pranav_sheth",
+    "character": "Pranav Sheth",
+    "actor": "Jay Upadhyay",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt12392504",
+    "characterId": "char_series_manu_mundra",
+    "character": "Manu Mundra",
+    "actor": "Satish Kaushik",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt12392504",
+    "characterId": "char_series_ks_tyagi",
+    "character": "K. S. Tyagi",
+    "actor": "Nikhil Dwivedi",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt8178468",
+    "characterId": "char_series_lee_yoo_chan",
+    "character": "Lee Yoo-chan",
+    "actor": "Suho",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt8178468",
+    "characterId": "char_series_kim_bo_ra",
+    "character": "Kim Bo-ra",
+    "actor": "Ha Yeon-soo",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt8178468",
+    "characterId": "char_series_min_tae_joo",
+    "character": "Min Tae-joo",
+    "actor": "Oh Chang-seok",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt8178468",
+    "characterId": "char_series_min_tae_ra",
+    "character": "Min Tae-ra",
+    "actor": "Kim Ye-won",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt8178468",
+    "characterId": "char_series_cha_do_jin",
+    "character": "Cha Do-jin",
+    "actor": "Park Sung-hoon",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt8178468",
+    "characterId": "char_series_nam_cheol_woo",
+    "character": "Nam Cheol-woo",
+    "actor": "Choi Kwang-il",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt8178468",
+    "characterId": "char_series_park_mi_so",
+    "character": "Park Mi-so",
+    "actor": "Yoon Da-young",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt9544034",
+    "characterId": "char_series_srikant_tiwari",
+    "character": "Srikant 'Sri' Tiwari",
+    "actor": "Manoj Bajpayee",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt9544034",
+    "characterId": "char_series_suchitra_tiwari",
+    "character": "Suchitra 'Suchi' Tiwari",
+    "actor": "Priyamani",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt9544034",
+    "characterId": "char_series_jk_talpade",
+    "character": "Jayavant 'JK' Talpade",
+    "actor": "Sharib Hashmi",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt9544034",
+    "characterId": "char_series_dhriti_tiwari",
+    "character": "Dhriti Tiwari",
+    "actor": "Ashlesha Thakur",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt9544034",
+    "characterId": "char_series_atharv_tiwari",
+    "character": "Atharv Tiwari",
+    "actor": "Vedant Sinha",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt9544034",
+    "characterId": "char_series_sajid_ghani",
+    "character": "Sajid Ghani",
+    "actor": "Shahab Ali",
+    "role": "Antagonist"
+  },
+  {
+    "titleId": "tt9544034",
+    "characterId": "char_series_moosa_rehman",
+    "character": "Moosa Rehman",
+    "actor": "Neeraj Madhav",
+    "role": "Antagonist"
+  },
+  {
+    "titleId": "tt9544034",
+    "characterId": "char_series_raji_sekharan",
+    "character": "Rajalakshmi 'Raji' Sekharan",
+    "actor": "Samantha Ruth Prabhu",
+    "role": "Antagonist"
+  },
+  {
+    "titleId": "tt9544034",
+    "characterId": "char_series_zoya_ali",
+    "character": "Zoya Ali",
+    "actor": "Shreya Dhanwanthary",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt9544034",
+    "characterId": "char_series_milind_hinduja",
+    "character": "Milind Hinduja",
+    "actor": "Sunny Hinduja",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt17524566",
+    "characterId": "char_series_tipu_tiger",
+    "character": "Paana 'Tipu' Tiger / Spanner Tipu",
+    "actor": "Rajkummar Rao",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt17524566",
+    "characterId": "char_series_arjun_varma",
+    "character": "Arjun Varma",
+    "actor": "Dulquer Salmaan",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt17524566",
+    "characterId": "char_series_jugnu_ganchi",
+    "character": "Jugnu 'Chhotu' Ganchi",
+    "actor": "Adarsh Gourav",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt17524566",
+    "characterId": "char_series_atmaram_four_cut",
+    "character": "Atmaram 'Four-Cut'",
+    "actor": "Gulshan Devaiah",
+    "role": "Antagonist"
+  },
+  {
+    "titleId": "tt17524566",
+    "characterId": "char_series_lekha",
+    "character": "Chandralekha 'Lekha'",
+    "actor": "T.J. Bhanu",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt17524566",
+    "characterId": "char_series_ganchi_sr",
+    "character": "Ganchi",
+    "actor": "Satish Kaushik",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt17524566",
+    "characterId": "char_series_madhu_varma",
+    "character": "Madhu Varma",
+    "actor": "Pooja Gor",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt17524566",
+    "characterId": "char_series_yamini",
+    "character": "Yamini",
+    "actor": "Shreya Dhanwanthary",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt12026524",
+    "characterId": "char_series_liang_chen",
+    "character": "Liang Chen",
+    "actor": "Xu Lu",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt12026524",
+    "characterId": "char_series_lu_jing",
+    "character": "Lu Jing",
+    "actor": "Lin Yi",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt12026524",
+    "characterId": "char_series_ding_jiayun",
+    "character": "Ding Jiayun",
+    "actor": "Hu Bing",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt12026524",
+    "characterId": "char_series_sun_binyu",
+    "character": "Sun Binyu",
+    "actor": "Hu Yunhao",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt12026524",
+    "characterId": "char_series_ma_shanshan",
+    "character": "Ma Shanshan",
+    "actor": "Chong Danni",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt12026524",
+    "characterId": "char_series_liu_yiqing",
+    "character": "Liu Yiqing",
+    "actor": "Wang Ting",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10919420",
+    "characterId": "char_series_seong_gi_hun",
+    "character": "Seong Gi-hun / Player 456",
+    "actor": "Lee Jung-jae",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt10919420",
+    "characterId": "char_series_cho_sang_woo",
+    "character": "Cho Sang-woo / Player 218",
+    "actor": "Park Hae-soo",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt10919420",
+    "characterId": "char_series_kang_sae_byeok",
+    "character": "Kang Sae-byeok / Player 067",
+    "actor": "Jung Ho-yeon",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt10919420",
+    "characterId": "char_series_oh_il_nam",
+    "character": "Oh Il-nam / Player 001",
+    "actor": "Oh Yeong-su",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10919420",
+    "characterId": "char_series_ali_abdul",
+    "character": "Ali Abdul / Player 199",
+    "actor": "Anupam Tripathi",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10919420",
+    "characterId": "char_series_hwang_jun_ho",
+    "character": "Hwang Jun-ho",
+    "actor": "Wi Ha-joon",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt10919420",
+    "characterId": "char_series_jang_deok_su",
+    "character": "Jang Deok-su / Player 101",
+    "actor": "Heo Sung-tae",
+    "role": "Antagonist"
+  },
+  {
+    "titleId": "tt10919420",
+    "characterId": "char_series_han_mi_nyeo",
+    "character": "Han Mi-nyeo / Player 212",
+    "actor": "Kim Joo-ryoung",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10919420",
+    "characterId": "char_series_front_man",
+    "character": "The Front Man / Hwang In-ho",
+    "actor": "Lee Byung-hun",
+    "role": "Antagonist"
+  },
+  {
+    "titleId": "tt10919420",
+    "characterId": "char_series_choi_myung_ki",
+    "character": "Choi Myung-gi / Player 333",
+    "actor": "Im Si-wan",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt0096657",
+    "characterId": "char_series_mr_bean",
+    "character": "Mr. Bean",
+    "actor": "Rowan Atkinson",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt0096657",
+    "characterId": "char_series_irma_gobb",
+    "character": "Irma Gobb",
+    "actor": "Matilda Ziegler",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt11766170",
+    "characterId": "char_series_nan_xi",
+    "character": "Nan Xi",
+    "actor": "Guo Junchen",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt11766170",
+    "characterId": "char_series_xia_rui",
+    "character": "Xia Rui",
+    "actor": "Wan Peng",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt11766170",
+    "characterId": "char_series_zhao_yishu",
+    "character": "Zhao Yishu",
+    "actor": "Li Ao",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt11766170",
+    "characterId": "char_series_cheng_erluo",
+    "character": "Cheng Erluo",
+    "actor": "Jin Shikang",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt11766170",
+    "characterId": "char_series_gao_ting",
+    "character": "Gao Ting",
+    "actor": "Quan Yilun",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt11766170",
+    "characterId": "char_series_li_da_meet",
+    "character": "Li Da",
+    "actor": "Hu Jiahao",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt4201628",
+    "characterId": "char_series_ki_ha_myung",
+    "character": "Choi Dal-po / Ki Ha-myung",
+    "actor": "Lee Jong-suk",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt4201628",
+    "characterId": "char_series_choi_in_ha",
+    "character": "Choi In-ha",
+    "actor": "Park Shin-hye",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt4201628",
+    "characterId": "char_series_seo_beom_jo",
+    "character": "Seo Beom-jo",
+    "actor": "Kim Young-kwang",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt4201628",
+    "characterId": "char_series_yoon_yoo_rae",
+    "character": "Yoon Yoo-rae",
+    "actor": "Lee Yu-bi",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt4201628",
+    "characterId": "char_series_choi_gong_pil",
+    "character": "Choi Gong-pil",
+    "actor": "Byun Hee-bong",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt15477488",
+    "characterId": "char_series_sunny_farzi",
+    "character": "Sunny",
+    "actor": "Shahid Kapoor",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt15477488",
+    "characterId": "char_series_michael_vedanayagam",
+    "character": "Michael Vedanayagam",
+    "actor": "Vijay Sethupathi",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt15477488",
+    "characterId": "char_series_mansoor_dalal",
+    "character": "Mansoor Dalal",
+    "actor": "Kay Kay Menon",
+    "role": "Antagonist"
+  },
+  {
+    "titleId": "tt15477488",
+    "characterId": "char_series_megha_vyas",
+    "character": "Megha Vyas",
+    "actor": "Raashii Khanna",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt15477488",
+    "characterId": "char_series_firoz_farzi",
+    "character": "Firoz",
+    "actor": "Bhuvan Arora",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt15477488",
+    "characterId": "char_series_yasir_farzi",
+    "character": "Yasir Chacha",
+    "actor": "Chittaranjan Giri",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt15477488",
+    "characterId": "char_series_pawan_gahlot",
+    "character": "Pawan Gahlot",
+    "actor": "Zakir Hussain",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt15477488",
+    "characterId": "char_series_shekhar_ahlawat",
+    "character": "Shekhar Ahlawat",
+    "actor": "Jaswant Dalal",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt15477488",
+    "characterId": "char_series_madhav_farzi",
+    "character": "Madhav",
+    "actor": "Amol Palekar",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt12299458",
+    "characterId": "char_series_cong_rong",
+    "character": "Cong Rong",
+    "actor": "Xing Fei",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt12299458",
+    "characterId": "char_series_wen_shaoqing",
+    "character": "Wen Shaoqing",
+    "actor": "Tang Xiaotian",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt12299458",
+    "characterId": "char_series_zhou_chengcheng",
+    "character": "Zhou Chengcheng",
+    "actor": "Huang Yilin",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt12299458",
+    "characterId": "char_series_wen_rang",
+    "character": "Wen Rang",
+    "actor": "Li Chuan",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt12299458",
+    "characterId": "char_series_qin_chu",
+    "character": "Qin Chu",
+    "actor": "Deng Yuli",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt12299458",
+    "characterId": "char_series_zhong_zhen",
+    "character": "Zhong Zhen",
+    "actor": "Fu Weilun",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10283742",
+    "characterId": "char_series_han_qilu",
+    "character": "Han Qilu",
+    "actor": "Li Hongyi",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt10283742",
+    "characterId": "char_series_an_chuxia",
+    "character": "An Chuxia",
+    "actor": "Xing Fei",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt10283742",
+    "characterId": "char_series_ling_hanyu",
+    "character": "Ling Hanyu",
+    "actor": "Zhang Jiongmin",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10283742",
+    "characterId": "char_series_meng_xiaonan",
+    "character": "Meng Xiaonan",
+    "actor": "Qie Lutong",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10283742",
+    "characterId": "char_series_jiang_chenchuan",
+    "character": "Jiang Chenchuan",
+    "actor": "Jason Fu",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10283742",
+    "characterId": "char_series_mo_xinwei",
+    "character": "Mo Xinwei",
+    "actor": "Sun Anke",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt11570202",
+    "characterId": "char_series_song_jian",
+    "character": "Dr. Song Ji-an",
+    "actor": "Bae Doona",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt11570202",
+    "characterId": "char_series_han_yun_jae",
+    "character": "Han Yun-jae",
+    "actor": "Gong Yoo",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt11570202",
+    "characterId": "char_series_ryu_tae_seok",
+    "character": "Ryu Tae-seok",
+    "actor": "Lee Joon",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt11570202",
+    "characterId": "char_series_hong_gayoung",
+    "character": "Hong Ga-young / Doc Hong",
+    "actor": "Kim Sun-young",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt11570202",
+    "characterId": "char_series_gong_soo_chan",
+    "character": "Gong Soo-chan",
+    "actor": "Lee Moo-saeng",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt6055498",
+    "characterId": "char_series_bei_weiwei",
+    "character": "Bei Weiwei / Luwei Weiwei",
+    "actor": "Zheng Shuang",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt6055498",
+    "characterId": "char_series_xiao_nai",
+    "character": "Xiao Nai / Yixiao Naihe",
+    "actor": "Yang Yang",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt6055498",
+    "characterId": "char_series_zhao_erxi",
+    "character": "Zhao Erxi",
+    "actor": "Mao Xiaotong",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt6055498",
+    "characterId": "char_series_cao_guang",
+    "character": "Cao Guang / Zhenshui Wuxiang",
+    "actor": "Bai Yu",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt6055498",
+    "characterId": "char_series_yu_banshan",
+    "character": "Yu Banshan / Yu Gong Pa Shan",
+    "actor": "Niu Junfeng",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt6055498",
+    "characterId": "char_series_qiu_yonghou",
+    "character": "Qiu Yonghou / Hou Zi Jiu",
+    "actor": "Cui Hang",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt6055498",
+    "characterId": "char_series_hao_mei",
+    "character": "Hao Mei / Mo Zha Ta",
+    "actor": "Zheng Yecheng",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt6055498",
+    "characterId": "char_series_meng_yiran",
+    "character": "Meng Yiran",
+    "actor": "Ma Xinrui",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt14782230",
+    "characterId": "char_series_yoo_gwon",
+    "character": "Yoo Gwon",
+    "actor": "Na In-woo",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt14782230",
+    "characterId": "char_series_jeong_ju_yeon",
+    "character": "Jeong Joo-yeon",
+    "actor": "Chae Seo-jin",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt14782230",
+    "characterId": "char_series_jeong_ju_dong",
+    "character": "Jeong Joo-dong",
+    "actor": "Kang Seong-min",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt14782230",
+    "characterId": "char_series_yoo_su_nyeong",
+    "character": "Yoo Su-nyeong",
+    "actor": "Son Min-ji",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt14782230",
+    "characterId": "char_series_jeong_ju_nam",
+    "character": "Jeong Joo-nam",
+    "actor": "Yoon Jin-young",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10874298",
+    "characterId": "char_series_chai_xiaoqi",
+    "character": "Chai Xiaoqi",
+    "actor": "Wan Peng",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt10874298",
+    "characterId": "char_series_fang_leng",
+    "character": "Fang Leng",
+    "actor": "Thassapak Hsu",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt10874298",
+    "characterId": "char_series_fang_lie",
+    "character": "Fang Lie",
+    "actor": "Wang Youjun",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10874298",
+    "characterId": "char_series_jiang_xue",
+    "character": "Jiang Xue",
+    "actor": "Yang Yue",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10874298",
+    "characterId": "char_series_sister_chai",
+    "character": "Sister Chai",
+    "actor": "Zhang Meng",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10874298",
+    "characterId": "char_series_assistant_han",
+    "character": "Han Jinming / Assistant Han",
+    "actor": "Wang Haozhen",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10874298",
+    "characterId": "char_series_fang_shida",
+    "character": "Fang Shida",
+    "actor": "Christopher Lee",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10874298",
+    "characterId": "char_series_doctor_zhang",
+    "character": "Doctor Zhang",
+    "actor": "Shu Yaxin",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10874298",
+    "characterId": "char_series_ai_lun",
+    "character": "Ai Lun / Alan",
+    "actor": "Gong Zhengnan",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt13868972",
+    "characterId": "char_series_homi_bhabha",
+    "character": "Homi J. Bhabha",
+    "actor": "Jim Sarbh",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt13868972",
+    "characterId": "char_series_vikram_sarabhai",
+    "character": "Vikram Sarabhai",
+    "actor": "Ishwak Singh",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt13868972",
+    "characterId": "char_series_parvana_irani",
+    "character": "Parvana Irani",
+    "actor": "Regina Cassandra",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt13868972",
+    "characterId": "char_series_mrinalini_sarabhai",
+    "character": "Mrinalini Sarabhai",
+    "actor": "Saba Azad",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt13868972",
+    "characterId": "char_series_mehdi_raza",
+    "character": "Mehdi Raza",
+    "actor": "Dibyendu Bhattacharya",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10265158",
+    "characterId": "char_series_si_tu_mo",
+    "character": "Si Tu Mo",
+    "actor": "Xing Fei",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt10265158",
+    "characterId": "char_series_gu_wei_yi",
+    "character": "Gu Weiyi",
+    "actor": "Lin Yi",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt10265158",
+    "characterId": "char_series_fu_pei",
+    "character": "Fu Pei",
+    "actor": "Tang Xiaotian",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10265158",
+    "characterId": "char_series_wang_shan",
+    "character": "Wang Shan",
+    "actor": "Zheng Ying Chen",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10265158",
+    "characterId": "char_series_lin_zhicun",
+    "character": "Lin Zhicun",
+    "actor": "Zhou Junwei",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt5675620",
+    "characterId": "char_series_karen_page",
+    "character": "Karen Page",
+    "actor": "Deborah Ann Woll",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt15173012",
+    "characterId": "char_series_su_nianqin",
+    "character": "Su Nianqin / Yi Jin",
+    "actor": "Lin Yanjun",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt15173012",
+    "characterId": "char_series_sang_wuyan",
+    "character": "Sang Wuyan",
+    "actor": "Wan Peng",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt15173012",
+    "characterId": "char_series_wei_hao_crush",
+    "character": "Wei Hao",
+    "actor": "Li Jiahao",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt15173012",
+    "characterId": "char_series_nie_xi_crush",
+    "character": "Nie Xi",
+    "actor": "Zeng Yixuan",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt15173012",
+    "characterId": "char_series_yu_weilan_crush",
+    "character": "Yu Weilan",
+    "actor": "Zhao Xin",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt15173012",
+    "characterId": "char_series_mother_sang_crush",
+    "character": "Mother of Sang",
+    "actor": "Ma Li",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt15173012",
+    "characterId": "char_series_su_huaishan",
+    "character": "Su Huaishan",
+    "actor": "Wang Ce",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt15173012",
+    "characterId": "char_series_zhong_cheng_crush",
+    "character": "Zhong Cheng",
+    "actor": "Wu Haoze",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt15173012",
+    "characterId": "char_series_peng_ruixing",
+    "character": "Peng Ruixing",
+    "actor": "Jiang Xinqi",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt15173012",
+    "characterId": "char_series_wu_yu_crush",
+    "character": "Wu Yu",
+    "actor": "Chen Yucheng",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt15173012",
+    "characterId": "char_series_xu_qian_crush",
+    "character": "Xu Qian",
+    "actor": "Niu Yukun",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt7441984",
+    "characterId": "char_series_shantanu_jl50",
+    "character": "Shantanu",
+    "actor": "Abhay Deol",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt7441984",
+    "characterId": "char_series_subroto_das_jl50",
+    "character": "Professor Subroto Das",
+    "actor": "Pankaj Kapur",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt7441984",
+    "characterId": "char_series_bihu_ghosh_jl50",
+    "character": "Bihu Ghosh",
+    "actor": "Ritika Anand",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt7441984",
+    "characterId": "char_series_biswajit_mitra_jl50",
+    "character": "Biswajit Chandra Mitra",
+    "actor": "Piyush Mishra",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt7441984",
+    "characterId": "char_series_gaurango_jl50",
+    "character": "Gaurango",
+    "actor": "Rajesh Sharma",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt7441984",
+    "characterId": "char_series_shriparna_jl50",
+    "character": "Shriparna",
+    "actor": "Amrita Chattopadhyay",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt7441984",
+    "characterId": "char_series_mr_bose_jl50",
+    "character": "Mr. Bose",
+    "actor": "Arindam Saha",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt16296870",
+    "characterId": "char_series_rati_pandey",
+    "character": "Rati Pandey",
+    "actor": "R. Madhavan",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt16296870",
+    "characterId": "char_series_iftekaar_siddiqui",
+    "character": "Iftekaar Siddiqui",
+    "actor": "Kay Kay Menon",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt16296870",
+    "characterId": "char_series_imad_riaz",
+    "character": "Imad Riaz",
+    "actor": "Babil Khan",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt16296870",
+    "characterId": "char_series_himani_railway",
+    "character": "Himani",
+    "actor": "Adrija Sinha",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt16296870",
+    "characterId": "char_series_madsen_railway",
+    "character": "Madsen / Mr. Madsen",
+    "actor": "Philip Rosch",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt12228014",
+    "characterId": "char_series_su_jinbei",
+    "character": "Su Jinbei",
+    "actor": "Zhang Yuxi",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt12228014",
+    "characterId": "char_series_zhou_shiyun",
+    "character": "Zhou Shiyun",
+    "actor": "Ding Yuxi",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt12228014",
+    "characterId": "char_series_xiao_yuansong",
+    "character": "Xiao Yuansong",
+    "actor": "Wanyan Luorong",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt12228014",
+    "characterId": "char_series_wu_di_intense",
+    "character": "Wu Di",
+    "actor": "Wu Yang",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt12228014",
+    "characterId": "char_series_gao_zitong",
+    "character": "Gao Zitong",
+    "actor": "Zhang Yao",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt12228014",
+    "characterId": "char_series_xu_jiawei",
+    "character": "Xu Jiawei",
+    "actor": "Shi Mingze",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt12228014",
+    "characterId": "char_series_zhou_suying",
+    "character": "Zhou Suying",
+    "actor": "Lin Xinyi",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt12228014",
+    "characterId": "char_series_zhao_xueyan",
+    "character": "Zhao Xueyan",
+    "actor": "Wang Yichan",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt12228014",
+    "characterId": "char_series_xiao_tao",
+    "character": "Xiao Tao",
+    "actor": "Luo Pei",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10314692",
+    "characterId": "char_series_wang_da_le_dejavu",
+    "character": "Wang Da-Le",
+    "actor": "Bryan Shu-Hao Chang",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt10314692",
+    "characterId": "char_series_ho_yung_chi_dejavu",
+    "character": "Ho Yung-Chi",
+    "actor": "Chia-Yen Ko",
+    "role": "Main"
+  },
+  {
+    "titleId": "tt10314692",
+    "characterId": "char_series_wang_shih_yuan_dejavu",
+    "character": "Wang Shih-Yuan",
+    "actor": "Andy Wu",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10314692",
+    "characterId": "char_series_ting_pei_chung_dejavu",
+    "character": "Ding Peizhong",
+    "actor": "Nylon Chen",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10314692",
+    "characterId": "char_series_wang_mei_le_dejavu",
+    "character": "Wang Meile",
+    "actor": "Joanne Deng",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10314692",
+    "characterId": "char_series_yao_chiung_ling_dejavu",
+    "character": "Yao Qiongling",
+    "actor": "Yu-Fang Chen",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10314692",
+    "characterId": "char_series_wang_bai_fu_dejavu",
+    "character": "Wang Baifu",
+    "actor": "Chuan-cheng Tao",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10314692",
+    "characterId": "char_series_ting_sha_sha_dejavu",
+    "character": "Ding Shasha",
+    "actor": "Shih-Yuan Chen",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10314692",
+    "characterId": "char_series_chang_ai_lien_dejavu",
+    "character": "Zhang Ailian",
+    "actor": "Sunny Tu",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10314692",
+    "characterId": "char_series_mike_dejavu",
+    "character": "Mike",
+    "actor": "Zhen Yang",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10314692",
+    "characterId": "char_series_hung_yu_chien_dejavu",
+    "character": "Hong Yuqian",
+    "actor": "Yuu Chen",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10314692",
+    "characterId": "char_series_jack_dejavu",
+    "character": "Jack",
+    "actor": "Hao-Ping Huang",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10314692",
+    "characterId": "char_series_tchaikov_dejavu",
+    "character": "Chai Kefu / Ho Lan-Cheng (Tchaikov)",
+    "actor": "Lee Lee-Zen",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10314692",
+    "characterId": "char_series_pomelo_dejavu",
+    "character": "Pomelo",
+    "actor": "Jimi Shen",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10314692",
+    "characterId": "char_series_meng_dejavu",
+    "character": "Meng",
+    "actor": "Curry Chen",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10314692",
+    "characterId": "char_series_tung_en_hsi_dejavu",
+    "character": "Tung En-Hsi",
+    "actor": "Mandy Wei",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10314692",
+    "characterId": "char_series_tina_yeh_dejavu",
+    "character": "Tina Yeh",
+    "actor": "Hope Lin",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10314692",
+    "characterId": "char_series_gary_dejavu",
+    "character": "Gary",
+    "actor": "Tzu-Chiang Wang",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10314692",
+    "characterId": "char_series_bar_manager_dejavu",
+    "character": "Bar Manager",
+    "actor": "Diane Lin",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10314692",
+    "characterId": "char_series_mrs_hung_dejavu",
+    "character": "Mrs. Hung",
+    "actor": "Li-Chin Hsieh",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10314692",
+    "characterId": "char_series_lulu_dejavu",
+    "character": "Lulu",
+    "actor": "Eliza Peng",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10314692",
+    "characterId": "char_series_mr_hung_dejavu",
+    "character": "Mr. Hung",
+    "actor": "Sean Liu",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10314692",
+    "characterId": "char_series_johnny_dejavu",
+    "character": "Johnny",
+    "actor": "Ptero Lee",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10314692",
+    "characterId": "char_series_king_dejavu",
+    "character": "King",
+    "actor": "Shao-Hua Lung",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10314692",
+    "characterId": "char_series_wang_ruini_dejavu",
+    "character": "Wang Rui-Ni",
+    "actor": "Lei Ko",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10314692",
+    "characterId": "char_series_nan_dejavu",
+    "character": "Nan",
+    "actor": "Tzu-Han Chi",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10314692",
+    "characterId": "char_series_dr_sung_dejavu",
+    "character": "Dr. Sung",
+    "actor": "Bor-Jeng Chen",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10314692",
+    "characterId": "char_series_su_chen_dejavu",
+    "character": "Su-Chen",
+    "actor": "Lotus Wang",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10314692",
+    "characterId": "char_series_irving_dejavu",
+    "character": "Irving",
+    "actor": "Herman Du Plessis",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10314692",
+    "characterId": "char_series_peggy_dejavu",
+    "character": "Peggy",
+    "actor": "Yi-Hui Jeng",
+    "role": "Supporting"
+  },
+  {
+    "titleId": "tt10314692",
+    "characterId": "char_series_sandy_dejavu",
+    "character": "Sandy",
+    "actor": "Shao-En Hu",
+    "role": "Supporting"
+  }
+]
